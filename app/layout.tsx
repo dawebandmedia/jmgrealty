@@ -23,6 +23,7 @@ import "./audit-improvements.css";
 import "./motion.css";
 import "./new-development.css";
 import "./project-browsing.css";
+import "./cinema.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
@@ -46,14 +47,31 @@ export const metadata: Metadata = {
   },
 };
 
+// Runs before first paint: decides whether the opening curtain (first visit this session)
+// or the arrival curtain (after an in-site link) plays. No JS or reduced motion: neither plays.
+const introScript = `(function(){try{var d=document.documentElement;if(window.matchMedia("(prefers-reduced-motion: reduce)").matches||localStorage.getItem("jmg-reduce-motion-v1")==="true")return;d.classList.add("jmg-pre");var s=sessionStorage;if(s.getItem("jmg-arrive")){s.removeItem("jmg-arrive");d.classList.add("jmg-arrive");}else if(!s.getItem("jmg-seen")){s.setItem("jmg-seen","1");d.classList.add("jmg-intro");}}catch(e){}})();`;
+
 export default function RootLayout({
   children,
 }: Readonly<{
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
-      <body><OrganizationData />{children}</body>
+    <html lang="en" suppressHydrationWarning>
+      <head>
+        <script dangerouslySetInnerHTML={{ __html: introScript }} />
+      </head>
+      <body>
+        <OrganizationData />
+        {children}
+        <div className="jmg-curtain" aria-hidden="true">
+          <div className="jmg-curtain-mark">
+            <svg width="168" height="42" viewBox="0 0 168 42" fill="none"><path pathLength="1" d="M2 37H18V23L35 9L52 23V37H64V14H80V37H92V3H112V37H124V18H143V37H166M29 37V26H41V37M69 21H75M69 27H75M98 11H106M98 18H106M98 25H106M130 25H137M130 31H137" stroke="currentColor" strokeWidth="1.3" strokeLinecap="round" strokeLinejoin="round"/></svg>
+            <span>JMG REALTY PH</span>
+            <small>Find a place. Build a future.</small>
+          </div>
+        </div>
+      </body>
     </html>
   );
 }

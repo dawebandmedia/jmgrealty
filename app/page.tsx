@@ -7,6 +7,7 @@ import {
 } from "./experience";
 import { testimonials } from "./content";
 import { canonical } from "./site-info";
+import { CollectionMarquee, MortgageEstimator, RegionJourney } from "./cinema-sections";
 
 export const metadata = { alternates: {canonical:canonical("/")}, description:"Explore house models and condominium unit categories in Metro Manila, Bulacan, Pampanga and Cavite. Compare property guides and contact Broker Cel or Home Empire PH at JMG Realty PH." };
 
@@ -14,13 +15,16 @@ export default function Home() {
   return (
     <Shell className="site-home">
       <ArchitecturalHero />
+      <CollectionMarquee />
       <EditorialCollection />
+      <RegionJourney />
       <LocationIndex />
       <ServiceGuide />
+      <MortgageEstimator />
       <section className="career-invitation" id="careers">
         <div className="wrap">
           <Reveal className="career-invitation-heading">
-            <span className="eyebrow">04 / YOUR FUTURE WITH JMG</span>
+            <span className="eyebrow">06 / YOUR FUTURE WITH JMG</span>
             <div className="career-heading-row">
               <h2>
                 Your ambition.
@@ -79,7 +83,7 @@ export default function Home() {
       )}
       <section className="section wrap closing-questions">
         <Reveal>
-          <span className="eyebrow">05 / A LITTLE CLARITY</span>
+          <span className="eyebrow">07 / A LITTLE CLARITY</span>
           <h2>
             Before your
             <br />

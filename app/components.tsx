@@ -1,5 +1,6 @@
 "use client";
 import { inspirationImages } from "./listing-inspiration";
+import { MotionDirector } from "./cinema";
 import SimpleInquiry from "./simple-inquiry";
 import { PreviewNotice } from "./preview-notice";
 import { MotionControls } from "./motion";
@@ -274,6 +275,7 @@ export function Shell({
         <Nav />
         <main id="main">{children}</main>
         <Footer />
+        <MotionDirector />
         <a className="mobile-call" href={`tel:${company.primaryTel}`}>
           <Phone size={17} /> Call JMG
         </a>

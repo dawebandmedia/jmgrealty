@@ -26,7 +26,9 @@ import {
 } from "./content";
 import { SaveButton } from "./shortlist";
 import { inspirationImages } from "./listing-inspiration";
-import { ArchitecturalLine, MotionImage, SelectionMarker, SoftSpotlight } from "./motion";
+import { ArchitecturalLine, MotionImage, SelectionMarker } from "./motion";
+import { CountUp, SplitLine } from "./cinema";
+import { GoldenHourCanvas } from "./golden-hero";
 
 export function ArchitecturalHero() {
   const [area, setArea] = useState("");
@@ -67,9 +69,9 @@ export function ArchitecturalHero() {
           <span className="eyebrow">
             <i /> JMG REALTY PH · YOUR TRUSTED PARTNER
           </span>
-          <h1>
-            <span>Find a place.</span>
-            <em>Build a future.</em>
+          <h1 aria-label="Find a place. Build a future." className="jmg-split">
+            <span aria-hidden="true"><SplitLine text="Find a place." /></span>
+            <em aria-hidden="true"><SplitLine text="Build a future." offset={13} /></em>
           </h1>
           <p>
             Find house models and condominium unit types in the Philippines.
@@ -101,7 +103,7 @@ export function ArchitecturalHero() {
               width={inspirationImages.courtyard.width}
               height={inspirationImages.courtyard.height}
             />
-            <SoftSpotlight />
+            <GoldenHourCanvas src={inspirationImages.courtyard.src} />
             <span className="frame-label">NILA RESIDENCES / COURTYARD LIVING</span>
           </div>
           <div className="frame-caption">
@@ -150,13 +152,13 @@ export function ArchitecturalHero() {
       <div className="collection-facts wrap">
         <span>LOCAL KNOWLEDGE. PERSONAL GUIDANCE.</span>
         <span>
-          <b>{properties.length}</b> models & unit categories
+          <b><CountUp value={properties.length} /></b> models & unit categories
         </span>
         <span>
-          <b>{propertyTours.length}</b> property tours
+          <b><CountUp value={propertyTours.length} /></b> property tours
         </span>
         <span>
-          <b>{areas.length}</b> service areas
+          <b><CountUp value={areas.length} /></b> service areas
         </span>
       </div>
     </section>
@@ -292,7 +294,7 @@ export function LocationIndex() {
     <section className="location-experience" id="locations">
       <div className="wrap section">
         <div className="location-title">
-          <span className="eyebrow">02 / A SENSE OF PLACE</span>
+          <span className="eyebrow">03 / A SENSE OF PLACE</span>
           <h2>
             Your location.
             <br />
@@ -404,7 +406,7 @@ export function ServiceGuide() {
     <section className="section wrap service-experience" id="guidance">
       <div className="editorial-heading">
         <div>
-          <span className="eyebrow">03 / PEOPLE BEHIND THE PROPERTY</span>
+          <span className="eyebrow">04 / PEOPLE BEHIND THE PROPERTY</span>
           <h2>
             Good decisions start
             <br />
