@@ -1,0 +1,626 @@
+{
+  "images": {
+    "248": {
+      "id": 248,
+      "src": "/images/properties/vine/originals/248-8fd908_221b55890bbc444784b5fd66e092d41bmv2.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/8fd908_221b55890bbc444784b5fd66e092d41bmv2.webp",
+      "originalFilename": "8fd908_221b55890bbc444784b5fd66e092d41bmv2.webp",
+      "label": "Original Vine vicinity map from the seller’s location page",
+      "publisherLabel": "8fd908_221b55890bbc444784b5fd66e092d41b~mv2",
+      "width": 1320,
+      "height": 990,
+      "format": "webp",
+      "sha256": "73391856f67ef27c8f6888e07142a76a2add1405642b3403b83c0cf18cb24786",
+      "pages": [
+        "location"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/8fd908_221b55890bbc444784b5fd66e092d41bmv2.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/248-preview.webp",
+      "kind": "originalVicinityMap",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "257": {
+      "id": 257,
+      "src": "/images/properties/vine/originals/257-Asset-8.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Asset-8.webp",
+      "originalFilename": "Asset-8.webp",
+      "label": "Central gardens — seller’s cropped architectural rendering",
+      "publisherLabel": "Asset-8",
+      "width": 1028,
+      "height": 474,
+      "format": "webp",
+      "sha256": "9622d1ed1f5b4aaafb1b4743803d15d6d7b5c143d8d8f3ea4e7616d962bde855",
+      "pages": [
+        "home"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Asset-8.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/257-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "383": {
+      "id": 383,
+      "src": "/images/properties/vine/originals/383-Vine-Residences-Amenity-Area.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Amenity-Area.webp",
+      "originalFilename": "Vine-Residences-Amenity-Area.webp",
+      "label": "Pools and landscaped amenity area — architectural rendering",
+      "publisherLabel": "Vine Residences Amenity Area",
+      "width": 2600,
+      "height": 2000,
+      "format": "webp",
+      "sha256": "0fb75104851570ac0344a98f6d38e92dab3734acc0821fbaca2f443914d3dda5",
+      "pages": [
+        "home",
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Amenity-Area-scaled.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/383-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "384": {
+      "id": 384,
+      "src": "/images/properties/vine/originals/384-Vine-Residences-Dressed-Up-Function-Area.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Dressed-Up-Function-Area.webp",
+      "originalFilename": "Vine-Residences-Dressed-Up-Function-Area.webp",
+      "label": "Dressed-up function area — illustrative architectural rendering",
+      "publisherLabel": "Vine Residences Dressed Up Function Area",
+      "width": 4000,
+      "height": 2250,
+      "format": "webp",
+      "sha256": "415ff5fabc5c2bbf7a4bb591346efbe112e8f1126688cf574679183f761f447e",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Dressed-Up-Function-Area-scaled.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/384-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "386": {
+      "id": 386,
+      "src": "/images/properties/vine/originals/386-Vine-Residences-Dressed-Up-Unit-2.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Dressed-Up-Unit-2.webp",
+      "originalFilename": "Vine-Residences-Dressed-Up-Unit-2.webp",
+      "label": "Dressed-up unit 2 — illustrative interior shared by Flexi Suite and 2 Bedroom End pages",
+      "publisherLabel": "Vine Residences Dressed Up Unit 2",
+      "width": 4000,
+      "height": 2250,
+      "format": "webp",
+      "sha256": "23d1fad2cf130bab509ed513bcb52ad5555c057170986028caeb5dbd7dce581c",
+      "pages": [
+        "home",
+        "flexi-suite",
+        "2-bedroom-end",
+        "units"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Dressed-Up-Unit-2-scaled.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/386-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "388": {
+      "id": 388,
+      "src": "/images/properties/vine/originals/388-Vine-Residences-Dressed-Up-Unit-1.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Dressed-Up-Unit-1.webp",
+      "originalFilename": "Vine-Residences-Dressed-Up-Unit-1.webp",
+      "label": "Dressed-up unit 1 — illustrative interior on the balcony model page",
+      "publisherLabel": "Vine Residences Dressed Up Unit 1",
+      "width": 4000,
+      "height": 2250,
+      "format": "webp",
+      "sha256": "bb6db334df35d88e7d9bda352f96611ddde4ebbd7b001174ab2f33b9bc701e89",
+      "pages": [
+        "2-bedroom-end-with-balcony",
+        "units"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Dressed-Up-Unit-1-scaled.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/388-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "389": {
+      "id": 389,
+      "src": "/images/properties/vine/originals/389-Vine-Residence-Ground-Floor-Lobby.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residence-Ground-Floor-Lobby.webp",
+      "originalFilename": "Vine-Residence-Ground-Floor-Lobby.webp",
+      "label": "Ground-floor lobby — architectural rendering",
+      "publisherLabel": "Vine Residence Ground Floor Lobby",
+      "width": 2356,
+      "height": 1767,
+      "format": "webp",
+      "sha256": "39973c4c219237f2a0de25953017695503de51edddfaa74e58f68f86dca18ab0",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residence-Ground-Floor-Lobby.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/389-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "390": {
+      "id": 390,
+      "src": "/images/properties/vine/originals/390-Vine-Residences-Amenity-Area_Basketball-Court.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Amenity-Area_Basketball-Court.webp",
+      "originalFilename": "Vine-Residences-Amenity-Area_Basketball-Court.webp",
+      "label": "Basketball court and exterior — architectural rendering",
+      "publisherLabel": "Vine Residences Amenity Area_Basketball Court",
+      "width": 9167,
+      "height": 6666,
+      "format": "webp",
+      "sha256": "c115dac2178bf52628c21f955ffafe74effeb49a96f33d3bf4dad029a03ae77b",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Amenity-Area_Basketball-Court-scaled.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/390-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "391": {
+      "id": 391,
+      "src": "/images/properties/vine/originals/391-Vine-Residences-Buidling-Facade_Entrance-SM-View.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Buidling-Facade_Entrance-SM-View.webp",
+      "originalFilename": "Vine-Residences-Buidling-Facade_Entrance-SM-View.webp",
+      "label": "Project and SM City Novaliches perspective — architectural rendering",
+      "publisherLabel": "Vine Residences Buidling Facade_Entrance SM View",
+      "width": 2206,
+      "height": 1300,
+      "format": "webp",
+      "sha256": "d80966ae3763fe0b226972d8362b6ecdfba1366de8632041a22fc2d29e0a833b",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Buidling-Facade_Entrance-SM-View.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/391-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "392": {
+      "id": 392,
+      "src": "/images/properties/vine/originals/392-Vine-Residences-Buidling-Facade_Entrance.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Buidling-Facade_Entrance.webp",
+      "originalFilename": "Vine-Residences-Buidling-Facade_Entrance.webp",
+      "label": "Building façade and entrance — architectural rendering",
+      "publisherLabel": "Vine Residences Buidling Facade_Entrance",
+      "width": 11000,
+      "height": 6000,
+      "format": "webp",
+      "sha256": "8589218baeb00380323bb57aff4df958d4b8a0fd046736663e9834d2ae87b73d",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/Vine-Residences-Buidling-Facade_Entrance-scaled.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/392-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "431": {
+      "id": 431,
+      "src": "/images/properties/vine/originals/431-sdp-1.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/sdp-1.webp",
+      "originalFilename": "sdp-1.webp",
+      "label": "Original Vine site development plan",
+      "publisherLabel": "sdp",
+      "width": 1737,
+      "height": 970,
+      "format": "webp",
+      "sha256": "4a3f147c5b4b667acce027728fa183e99a673cda6bb8300060c63b45d03ee0b5",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/sdp-1.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/431-preview.webp",
+      "kind": "originalSiteDevelopmentPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "479": {
+      "id": 479,
+      "src": "/images/properties/vine/originals/479-01-VINE-2BR-29.65sqm-cropped.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/01-VINE-2BR-29.65sqm-cropped.webp",
+      "originalFilename": "01-VINE-2BR-29.65sqm-cropped.webp",
+      "label": "Original monochrome 2-bedroom plan associated with 29.65 sq m in the source filename",
+      "publisherLabel": "01 &#8211; VINE &#8211; 2BR (+29.65sqm) cropped",
+      "width": 617,
+      "height": 783,
+      "format": "webp",
+      "sha256": "7b9d7755e36703cd733d3fc487ee6cc5df83525893146793ee8ed57435a99dd5",
+      "pages": [
+        "floor-plans"
+      ],
+      "isFloorPlan": true,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/01-VINE-2BR-29.65sqm-cropped.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/479-preview.webp",
+      "kind": "originalFloorPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "480": {
+      "id": 480,
+      "src": "/images/properties/vine/originals/480-02-VINE-2BR-with-balcony-31.45sqm-cropped.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/02-VINE-2BR-with-balcony-31.45sqm-cropped.webp",
+      "originalFilename": "02-VINE-2BR-with-balcony-31.45sqm-cropped.webp",
+      "label": "Original monochrome 2-bedroom balcony plan associated with 31.45 sq m in the source filename",
+      "publisherLabel": "02 &#8211; VINE &#8211; 2BR with balcony (+31.45sqm) cropped",
+      "width": 617,
+      "height": 783,
+      "format": "webp",
+      "sha256": "f3f640636f52c34eb2bd347b83af5932faa3a31f8a40ea90c2141679a0497783",
+      "pages": [
+        "floor-plans"
+      ],
+      "isFloorPlan": true,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/02-VINE-2BR-with-balcony-31.45sqm-cropped.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/480-preview.webp",
+      "kind": "originalFloorPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "482": {
+      "id": 482,
+      "src": "/images/properties/vine/originals/482-01-VINE-2BR-29.65sqm-cropped-colored.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/01-VINE-2BR-29.65sqm-cropped-colored.webp",
+      "originalFilename": "01-VINE-2BR-29.65sqm-cropped-colored.webp",
+      "label": "Original colored 2-bedroom plan shared by Flexi Suite and 2 Bedroom End pages",
+      "publisherLabel": "01 &#8211; VINE &#8211; 2BR (+29.65sqm) cropped-colored",
+      "width": 617,
+      "height": 783,
+      "format": "webp",
+      "sha256": "cf57541d1df20468e4c73242dcb4e30cd1c8420e047f0c3d2557eea4ded4e7ba",
+      "pages": [
+        "flexi-suite",
+        "2-bedroom-end"
+      ],
+      "isFloorPlan": true,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/01-VINE-2BR-29.65sqm-cropped-colored.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/482-preview.webp",
+      "kind": "originalFloorPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "483": {
+      "id": 483,
+      "src": "/images/properties/vine/originals/483-02-VINE-2BR-with-balcony-31.45sqm-cropped-colored.webp",
+      "sourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/02-VINE-2BR-with-balcony-31.45sqm-cropped-colored.webp",
+      "originalFilename": "02-VINE-2BR-with-balcony-31.45sqm-cropped-colored.webp",
+      "label": "Original colored 2-bedroom balcony plan from the balcony model page",
+      "publisherLabel": "02 &#8211; VINE &#8211; 2BR with balcony (+31.45sqm) cropped-colored",
+      "width": 617,
+      "height": 783,
+      "format": "webp",
+      "sha256": "c1a264a229abf673e792521fbe752956b9c7ebe819d7b1735e70375599091fc4",
+      "pages": [
+        "2-bedroom-end-with-balcony"
+      ],
+      "isFloorPlan": true,
+      "publisherSourceUrl": "https://vineresidences.com/wp-content/uploads/2024/04/02-VINE-2BR-with-balcony-31.45sqm-cropped-colored.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/vine/originals/483-preview.webp",
+      "kind": "originalFloorPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "official-1": {
+      "id": "official-1",
+      "src": "/images/properties/vine/originals/official-1-Vine-Map-960x840px.png",
+      "displaySrc": "/images/properties/vine/originals/official-1-display.webp",
+      "sourceUrl": "https://smdc.com/app/uploads/2026/01/Vine-Map-960x840px.png",
+      "originalFilename": "Vine-Map-960x840px.png",
+      "label": "Official SMDC Vine vicinity map",
+      "publisherLabel": "Vine Map (960x840px)",
+      "width": 960,
+      "height": 840,
+      "format": "png",
+      "sha256": "8791a28fbfbe36a3d2c0f8f82951c3db9409598130b2c203e9b82443d820aee1",
+      "pages": [
+        "smdc-official"
+      ],
+      "isFloorPlan": false,
+      "officialDeveloperSource": true,
+      "sourceBytesVerified": true,
+      "kind": "originalVicinityMap",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "official-2": {
+      "id": "official-2",
+      "src": "/images/properties/vine/originals/official-2-Vine-680x480px.png",
+      "displaySrc": "/images/properties/vine/originals/official-2-display.webp",
+      "sourceUrl": "https://smdc.com/app/uploads/2026/01/Vine-680x480px.png",
+      "originalFilename": "Vine-680x480px.png",
+      "label": "Official SMDC building and basketball-court perspective — architectural rendering",
+      "publisherLabel": "Vine (680x480px)",
+      "width": 680,
+      "height": 480,
+      "format": "png",
+      "sha256": "82c0f882375b394d6bfe7c11a03ccaf37cdf88327ed370c9fcdf6c19c1bfbec7",
+      "pages": [
+        "smdc-official"
+      ],
+      "isFloorPlan": false,
+      "officialDeveloperSource": true,
+      "sourceBytesVerified": true,
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "official-3": {
+      "id": "official-3",
+      "src": "/images/properties/vine/originals/official-3-Amenity-1920x1080-8.png",
+      "displaySrc": "/images/properties/vine/originals/official-3-display.webp",
+      "sourceUrl": "https://smdc.com/app/uploads/2026/01/Amenity-1920x1080-8.png",
+      "originalFilename": "Amenity-1920x1080-8.png",
+      "label": "Official SMDC lobby perspective 1 — architectural rendering",
+      "publisherLabel": "Amenity (1920x1080) 8",
+      "width": 1920,
+      "height": 1080,
+      "format": "png",
+      "sha256": "f7d01ef6f703ccb91abdac3c04d030c22ce325ef1625ae22501a61b869da146b",
+      "pages": [
+        "smdc-official"
+      ],
+      "isFloorPlan": false,
+      "officialDeveloperSource": true,
+      "sourceBytesVerified": true,
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "official-4": {
+      "id": "official-4",
+      "src": "/images/properties/vine/originals/official-4-Amenity-1920x1080-2.png",
+      "displaySrc": "/images/properties/vine/originals/official-4-display.webp",
+      "sourceUrl": "https://smdc.com/app/uploads/2026/01/Amenity-1920x1080-2.png",
+      "originalFilename": "Amenity-1920x1080-2.png",
+      "label": "Official SMDC lobby perspective 2 — architectural rendering",
+      "publisherLabel": "Amenity (1920x1080) 2",
+      "width": 1920,
+      "height": 1080,
+      "format": "png",
+      "sha256": "20404b8e88531e5e9b41bab8a4aee325c78a12804ff75149eaf044efeb139665",
+      "pages": [
+        "smdc-official"
+      ],
+      "isFloorPlan": false,
+      "officialDeveloperSource": true,
+      "sourceBytesVerified": true,
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "official-5": {
+      "id": "official-5",
+      "src": "/images/properties/vine/originals/official-5-Amenity-1920x1080-4.png",
+      "displaySrc": "/images/properties/vine/originals/official-5-display.webp",
+      "sourceUrl": "https://smdc.com/app/uploads/2026/01/Amenity-1920x1080-4.png",
+      "originalFilename": "Amenity-1920x1080-4.png",
+      "label": "Official SMDC swimming-pool perspective — architectural rendering",
+      "publisherLabel": "Amenity (1920x1080) 4",
+      "width": 1920,
+      "height": 1080,
+      "format": "png",
+      "sha256": "cd0bc8a9234d04d6252991203bff9712699aaf5cb8ecb212090c18997f728834",
+      "pages": [
+        "smdc-official"
+      ],
+      "isFloorPlan": false,
+      "officialDeveloperSource": true,
+      "sourceBytesVerified": true,
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "official-6": {
+      "id": "official-6",
+      "src": "/images/properties/vine/originals/official-6-Amenity-1920x1080-6.png",
+      "displaySrc": "/images/properties/vine/originals/official-6-display.webp",
+      "sourceUrl": "https://smdc.com/app/uploads/2026/01/Amenity-1920x1080-6.png",
+      "originalFilename": "Amenity-1920x1080-6.png",
+      "label": "Official SMDC lobby perspective 3 — architectural rendering",
+      "publisherLabel": "Amenity (1920x1080) 6",
+      "width": 1920,
+      "height": 1080,
+      "format": "png",
+      "sha256": "21430eca26c58ff6581916186e0ca4ab91478713d7f6cd1888cf4ef3d330f34c",
+      "pages": [
+        "smdc-official"
+      ],
+      "isFloorPlan": false,
+      "officialDeveloperSource": true,
+      "sourceBytesVerified": true,
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    },
+    "official-7": {
+      "id": "official-7",
+      "src": "/images/properties/vine/originals/official-7-Amenity-1920x1080-7.png",
+      "displaySrc": "/images/properties/vine/originals/official-7-display.webp",
+      "sourceUrl": "https://smdc.com/app/uploads/2026/01/Amenity-1920x1080-7.png",
+      "originalFilename": "Amenity-1920x1080-7.png",
+      "label": "Official SMDC seating-area perspective — architectural rendering",
+      "publisherLabel": "Amenity (1920x1080) 7",
+      "width": 1920,
+      "height": 1080,
+      "format": "png",
+      "sha256": "df5a6456c4681da24255473d6a22635789f3eeb677799f6150a5a2f71ab970c9",
+      "pages": [
+        "smdc-official"
+      ],
+      "isFloorPlan": false,
+      "officialDeveloperSource": true,
+      "sourceBytesVerified": true,
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full image visually inspected; model association follows supplied page placement. Rendering status follows visible illustrative contents and official Artist’s Perspective captions."
+    }
+  },
+  "modelMappings": {
+    "flexi-suite": {
+      "interiorIds": [
+        386
+      ],
+      "floorPlanIds": [
+        479,
+        482
+      ]
+    },
+    "2-bedroom-end": {
+      "interiorIds": [
+        386
+      ],
+      "floorPlanIds": [
+        479,
+        482
+      ]
+    },
+    "2-bedroom-end-with-balcony": {
+      "interiorIds": [
+        388
+      ],
+      "floorPlanIds": [
+        480,
+        483
+      ]
+    }
+  },
+  "byPage": {
+    "home": [
+      252,
+      383,
+      257,
+      386
+    ],
+    "prices-and-computations": [
+      252
+    ],
+    "flexi-suite": [
+      252,
+      386,
+      482
+    ],
+    "2-bedroom-end": [
+      252,
+      386,
+      482
+    ],
+    "2-bedroom-end-with-balcony": [
+      252,
+      388,
+      483
+    ],
+    "units": [
+      252,
+      388,
+      386
+    ],
+    "floor-plans": [
+      252,
+      417,
+      418,
+      419,
+      420,
+      421,
+      422,
+      423,
+      424,
+      425,
+      426,
+      479,
+      480,
+      427
+    ],
+    "amenities": [
+      252,
+      431,
+      392,
+      391,
+      390,
+      389,
+      383,
+      384
+    ],
+    "location": [
+      252,
+      248
+    ],
+    "smdc-official": [
+      "official-1",
+      "official-2",
+      "official-3",
+      "official-4",
+      "official-5",
+      "official-6",
+      "official-7"
+    ]
+  },
+  "failures": [],
+  "importedAt": "2026-10-13",
+  "auditStatus": "All 22 original assets visually inspected and hashes verified",
+  "excluded": [
+    {
+      "id": 252,
+      "reason": "Source logo excluded to preserve JMG branding."
+    },
+    {
+      "ids": [
+        417,
+        418,
+        419,
+        420,
+        421,
+        422,
+        423,
+        424,
+        425,
+        426,
+        427
+      ],
+      "reason": "Building level/parking layouts outside requested individual unit-plan scope."
+    }
+  ],
+  "limitations": [
+    "Flexi Suite and 2 Bedroom End pages publish the exact same interior image (386) and colored drawing (482). No unique End plan matching calculator area31.62sq m was found.",
+    "The 4 unit drawing files have no printed numeric floor-area values, room dimensions, or unit-model titles. Area associations29.65/31.45sq m follow source filenames, not measurements inferred from drawings.",
+    "Balcony page uses a49.54sq m2BR Loft computation alongside a31.45sq m balcony plan; that computation does not establish a price for the balcony drawing.",
+    "All project and interior imagery appears illustrative/architecturally rendered; official amenity images explicitly print Artist’s Perspective. No verified as-built interior photograph collected.",
+    "/model-units/ returns404; menu linked /units/ succeeds.",
+    "Original publisher filenames use cropped for unit plans; collected files are preserved complete byte-for-byte, with no additional cropping or alteration."
+  ]
+}

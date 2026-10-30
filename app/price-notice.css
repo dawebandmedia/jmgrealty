@@ -1,0 +1,28 @@
+.price-notice {
+  display: block;
+  max-width: 430px;
+  margin: 8px 0 16px;
+  padding: 9px 12px;
+  border-left: 2px solid #829a72;
+  background: #edf1e8;
+  color: #354b3b;
+  font: 500 13px/1.55 var(--sans);
+  letter-spacing: normal;
+  text-align: left;
+}
+.model-first-price .price-notice {
+  max-width: 320px;
+  margin-left: auto;
+}
+.model-inquiry .price-notice {
+  background: rgba(255, 255, 255, .09);
+  border-left-color: #b8cfaa;
+  color: #faf9f5;
+}
+.compare-model dd .price-notice {
+  font-size: 13px;
+  margin-bottom: 2px;
+}
+@media (max-width: 640px) {
+  .model-first-price .price-notice { margin-left: 0; }
+}

@@ -1,0 +1,2090 @@
+{
+  "source": "https://rocka.ph/alegria/",
+  "modelMappings": {
+    "alyanna": {
+      "overviewIds": [
+        "7322"
+      ],
+      "interiorIds": [
+        "7338",
+        "7339",
+        "7340",
+        "7341",
+        "7342",
+        "7343",
+        "7344",
+        "7345",
+        "7346",
+        "7347",
+        "7348"
+      ],
+      "planIds": [
+        "6075"
+      ],
+      "layoutIllustrationIds": [],
+      "floorPlanSourceStatus": "Original combined ground/second floor drawing verified from official Rocka source."
+    },
+    "amaris-2": {
+      "overviewIds": [
+        "7321",
+        "6079"
+      ],
+      "interiorIds": [
+        "7349",
+        "7350",
+        "7351",
+        "7352",
+        "7353",
+        "7354",
+        "7355",
+        "7356",
+        "7357",
+        "7358",
+        "7359"
+      ],
+      "planIds": [
+        "6084"
+      ],
+      "layoutIllustrationIds": [
+        "6076",
+        "6077"
+      ],
+      "floorPlanSourceStatus": "Original combined ground/second floor drawing verified from official Rocka source.",
+      "preferredOverviewIds": [
+        "7321"
+      ],
+      "additionalSourceUrls": [
+        "https://rocka.ph/amaris/"
+      ],
+      "sourceConflicts": [
+        "Supplied official /amaris-2/ page says5 bedrooms; current official /amaris/ page says4 bedrooms. Published original drawing depicts5 bedrooms. Do not pick a definite current count or use photo count to resolve availability/specifications."
+      ]
+    },
+    "anatalia": {
+      "overviewIds": [
+        "7320"
+      ],
+      "interiorIds": [
+        "7360",
+        "7361",
+        "7362",
+        "7363",
+        "7364",
+        "7365",
+        "7366",
+        "7367",
+        "7368",
+        "7369",
+        "7370",
+        "7371",
+        "7372"
+      ],
+      "planIds": [
+        "6083"
+      ],
+      "layoutIllustrationIds": [],
+      "floorPlanSourceStatus": "Original combined ground/second floor drawing verified from official Rocka source."
+    },
+    "arella": {
+      "overviewIds": [
+        "7319"
+      ],
+      "interiorIds": [
+        "7373",
+        "7374",
+        "7375",
+        "7376",
+        "7377",
+        "7378",
+        "7379",
+        "7380",
+        "7381",
+        "7382",
+        "7383",
+        "7384",
+        "7385"
+      ],
+      "planIds": [
+        "6085"
+      ],
+      "layoutIllustrationIds": [],
+      "floorPlanSourceStatus": "Original combined ground/second floor drawing verified from official Rocka source."
+    },
+    "averie-2": {
+      "overviewIds": [
+        "7318"
+      ],
+      "interiorIds": [
+        "7386",
+        "7387",
+        "7388",
+        "7389",
+        "7390",
+        "7391",
+        "7392",
+        "7393",
+        "7394",
+        "7395",
+        "7396"
+      ],
+      "planIds": [
+        "6093"
+      ],
+      "layoutIllustrationIds": [],
+      "floorPlanSourceStatus": "Original combined ground/second floor drawing verified from official Rocka source; Averie/Darien lot-specific applicability remains unconfirmed."
+    }
+  },
+  "importedDate": "2026-10-13",
+  "assets": [
+    {
+      "id": "1798",
+      "src": "/images/properties/alegria/originals/1798-ALEGRIA-Aerial-Perspective.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2017/11/ALEGRIA-Aerial-Perspective.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=alegria",
+      "sourceAttachmentUrl": "https://rocka.ph/alegria-aerial-perspective/",
+      "originalFilename": "ALEGRIA-Aerial-Perspective.jpg",
+      "label": "Published Alegria aerial perspective — architectural illustration",
+      "width": 9317,
+      "height": 6747,
+      "format": "jpeg",
+      "sha256": "77558c83cf21d8c2c4629fed0148935fff8de6bc471adc4f65f8f5b8049c908b",
+      "pages": [
+        "catalog-alegria"
+      ],
+      "models": [
+        "alegria"
+      ],
+      "role": "projectIllustration",
+      "originalOnly": false,
+      "catalogAsset": true,
+      "sourceAssociation": "Retrieved from the official public Rocka media catalog; model association follows published filename/title, pending drawing and current-page verification.",
+      "displaySrc": "/images/properties/alegria/originals/1798-display.webp",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "ALEGRIA Aerial Perspective",
+      "kind": "architecturalRendering",
+      "sourceLimitations": [
+        "Retrieved from a2017 official media record. This is a concept illustration, not an actual-site photograph or current construction/amenity status evidence."
+      ]
+    },
+    {
+      "id": "6075",
+      "src": "/images/properties/alegria/originals/6075-ALYANNA-MODEL-UPDATED.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2021/01/ALYANNA-MODEL-UPDATED.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=alyanna",
+      "sourceAttachmentUrl": "https://rocka.ph/model/",
+      "originalFilename": "ALYANNA-MODEL-UPDATED.jpg",
+      "label": "Alyanna original combined floor plan",
+      "width": 2850,
+      "height": 2064,
+      "format": "jpeg",
+      "sha256": "b6de3039427b4136d37ec7930d4241e0bed2c30d5dea0b19c5d7b4423260d80c",
+      "pages": [
+        "catalog-alyanna"
+      ],
+      "models": [
+        "alyanna"
+      ],
+      "role": "originalPlan",
+      "originalOnly": true,
+      "catalogAsset": true,
+      "sourceAssociation": "Retrieved from the official public Rocka media catalog; model association follows published filename/title, pending drawing and current-page verification.",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "Model",
+      "kind": "sourceFloorPlan",
+      "isFloorPlan": true,
+      "levels": [
+        "Ground Floor Plan",
+        "Second Floor Plan"
+      ],
+      "printedLevelLabels": [
+        "GROUND FLOOR PLAN",
+        "SECOND FLOOR PLAN"
+      ],
+      "printedModelTitle": "ALYANNA MODEL HOUSE",
+      "depictedBedrooms": 4,
+      "depictedBathrooms": 3,
+      "printedAreaSqm": null,
+      "printedLotAreaSqm": null,
+      "printedRoomDimensions": null,
+      "readingLimitations": "No numeric floor area, lot area, or room dimensions are printed in the drawing. Current model page specifications cannot be independently checked from this image.",
+      "sourceApplicability": "Original drawing retrieved from official Rocka public media catalog; not linked on current supplied model page.",
+      "printedDrawingDate": "01.14.21",
+      "displaySrc": "/images/properties/alegria/originals/6075-preview.webp",
+      "previewNote": "Separate lightweight thumbnail; viewer and original link use the unchanged original file."
+    },
+    {
+      "id": "6076",
+      "src": "/images/properties/alegria/originals/6076-amaris-3d-plan_Photo-2.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2021/01/amaris-3d-plan_Photo-2.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2021/01/amaris-3d-plan_Photo-2-1024x576.jpg",
+      "originalFilename": "amaris-3d-plan_Photo-2.jpg",
+      "label": "Amaris published 3D layout illustration — upper level",
+      "width": 1280,
+      "height": 720,
+      "format": "jpeg",
+      "sha256": "ba9d0c0d4534489d36dcfdebfa2b25afce25a4212d6441563dacd1569ed460f7",
+      "pages": [
+        "amaris-2"
+      ],
+      "role": "layoutIllustration",
+      "originalOnly": true,
+      "sourceBytesVerified": true,
+      "publisherLabel": "amaris 3d plan_Photo 2",
+      "includeInWebsite": true,
+      "kind": "architecturalRendering",
+      "isFloorPlan": false,
+      "readingLimitations": "No floor-level labels or dimensions are printed. Upper/lower description follows the depicted stair/floor arrangement; illustration is not a replacement for the original 2D drawing."
+    },
+    {
+      "id": "6077",
+      "src": "/images/properties/alegria/originals/6077-amaris-3d-plan_Photo-3.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2021/01/amaris-3d-plan_Photo-3.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2021/01/amaris-3d-plan_Photo-3-1024x576.jpg",
+      "originalFilename": "amaris-3d-plan_Photo-3.jpg",
+      "label": "Amaris published 3D layout illustration — lower level",
+      "width": 1280,
+      "height": 720,
+      "format": "jpeg",
+      "sha256": "50b10aac7efcd7824b882249406b0cca38e70f749a4c3b9ae5be0a5ac308ecba",
+      "pages": [
+        "amaris-2"
+      ],
+      "role": "layoutIllustration",
+      "originalOnly": true,
+      "sourceBytesVerified": true,
+      "publisherLabel": "amaris 3d plan_Photo 3",
+      "includeInWebsite": true,
+      "kind": "architecturalRendering",
+      "isFloorPlan": false,
+      "readingLimitations": "No floor-level labels or dimensions are printed. Upper/lower description follows the depicted stair/floor arrangement; illustration is not a replacement for the original 2D drawing."
+    },
+    {
+      "id": "6079",
+      "src": "/images/properties/alegria/originals/6079-AMARIS49.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2021/01/AMARIS49.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2021/01/AMARIS49.jpg",
+      "originalFilename": "AMARIS49.jpg",
+      "label": "Amaris exterior illustration",
+      "width": 1280,
+      "height": 720,
+      "format": "jpeg",
+      "sha256": "6cc1dbd14d71cfb1037f023be755908675d4e0f2ca6af5a1571bf2cd4e5eebf4",
+      "pages": [
+        "amaris-2"
+      ],
+      "role": "modelOverview",
+      "originalOnly": false,
+      "sourceBytesVerified": true,
+      "publisherLabel": "amaris-2 original model overview",
+      "includeInWebsite": true,
+      "kind": "architecturalRendering",
+      "displaySrc": "/images/properties/alegria/originals/6079-display.webp"
+    },
+    {
+      "id": "6083",
+      "src": "/images/properties/alegria/originals/6083-ANATALIA-MODEL-PLAN-2.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2021/01/ANATALIA-MODEL-PLAN-2.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=anatalia",
+      "sourceAttachmentUrl": "https://rocka.ph/model-2/",
+      "originalFilename": "ANATALIA-MODEL-PLAN-2.jpg",
+      "label": "Anatalia original combined floor plan",
+      "width": 9600,
+      "height": 6726,
+      "format": "jpeg",
+      "sha256": "d4d2d0c78453fa18ee08c804583e3babe30fa34c93af8a0720a863153b98be7b",
+      "pages": [
+        "catalog-anatalia"
+      ],
+      "models": [
+        "anatalia"
+      ],
+      "role": "originalPlan",
+      "originalOnly": true,
+      "catalogAsset": true,
+      "sourceAssociation": "Retrieved from the official public Rocka media catalog; model association follows published filename/title, pending drawing and current-page verification.",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "Model",
+      "kind": "sourceFloorPlan",
+      "isFloorPlan": true,
+      "levels": [
+        "Ground Floor Plan",
+        "Second Floor Plan"
+      ],
+      "printedLevelLabels": [
+        "GROUND FLOOR PLAN",
+        "SECOND FLOOR PLAN"
+      ],
+      "printedModelTitle": "ANATALIA MODEL HOUSE",
+      "depictedBedrooms": 4,
+      "depictedBathrooms": 3,
+      "printedAreaSqm": null,
+      "printedLotAreaSqm": null,
+      "printedRoomDimensions": null,
+      "readingLimitations": "No numeric floor area, lot area, or room dimensions are printed in the drawing. Current model page specifications cannot be independently checked from this image.",
+      "sourceApplicability": "Original drawing retrieved from official Rocka public media catalog; not linked on current supplied model page.",
+      "displaySrc": "/images/properties/alegria/originals/6083-preview.webp",
+      "previewNote": "Separate lightweight thumbnail; viewer and original link use the unchanged original file."
+    },
+    {
+      "id": "6084",
+      "src": "/images/properties/alegria/originals/6084-AMARIS-UPDATED.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2021/01/AMARIS-UPDATED.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2021/01/AMARIS-UPDATED-1024x765.jpg",
+      "originalFilename": "AMARIS-UPDATED.jpg",
+      "label": "Amaris original combined floor plan",
+      "width": 9000,
+      "height": 6722,
+      "format": "jpeg",
+      "sha256": "2059ea56bd6b50b48689556fd11bf5e3899ba43972777319357fd1365362b590",
+      "pages": [
+        "amaris-2"
+      ],
+      "role": "originalPlan",
+      "originalOnly": true,
+      "sourceBytesVerified": true,
+      "publisherLabel": "AMARIS UPDATED",
+      "includeInWebsite": true,
+      "kind": "sourceFloorPlan",
+      "isFloorPlan": true,
+      "levels": [
+        "Ground Floor Plan",
+        "Second Floor Plan"
+      ],
+      "printedLevelLabels": [
+        "GROUND FLOOR PLAN",
+        "SECOND FLOOR PLAN"
+      ],
+      "depictedBedrooms": 5,
+      "depictedBathrooms": 3,
+      "printedParkingLabel": "2 CAR PARKING",
+      "printedAreaSqm": null,
+      "printedRoomLabels": [
+        "BDRM 1",
+        "BEDROOM 2",
+        "BEDROOM 3",
+        "BEDROOM 4",
+        "BEDROOM 5",
+        "T&B",
+        "KITCHEN",
+        "DINING AREA",
+        "LIVING AREA",
+        "LAUNDRY",
+        "LANAI",
+        "CLOSET"
+      ],
+      "readingLimitations": "No numeric floor area, lot area, or room dimensions are printed in the drawing. Current model page specifications cannot be independently checked from this image.",
+      "printedModelTitle": "AMARIS MODEL HOUSE",
+      "printedLotAreaSqm": null,
+      "printedRoomDimensions": null,
+      "sourceApplicability": "Official model drawing linked from supplied Amaris page.",
+      "displaySrc": "/images/properties/alegria/originals/6084-preview.webp",
+      "previewNote": "Separate lightweight thumbnail; viewer and original link use the unchanged original file."
+    },
+    {
+      "id": "6085",
+      "src": "/images/properties/alegria/originals/6085-ARELLA-MODEL-PLAN.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2021/01/ARELLA-MODEL-PLAN.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=arella",
+      "sourceAttachmentUrl": "https://rocka.ph/model-4/",
+      "originalFilename": "ARELLA-MODEL-PLAN.jpg",
+      "label": "Arella original combined floor plan",
+      "width": 9750,
+      "height": 6859,
+      "format": "jpeg",
+      "sha256": "e4137c06c391aae74bea9e44a7dc983e6630143e2f30ad0495244c12013576cf",
+      "pages": [
+        "catalog-arella"
+      ],
+      "models": [
+        "arella"
+      ],
+      "role": "originalPlan",
+      "originalOnly": true,
+      "catalogAsset": true,
+      "sourceAssociation": "Retrieved from the official public Rocka media catalog; model association follows published filename/title, pending drawing and current-page verification.",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "Model",
+      "kind": "sourceFloorPlan",
+      "isFloorPlan": true,
+      "levels": [
+        "Ground Floor Plan",
+        "Second Floor Plan"
+      ],
+      "printedLevelLabels": [
+        "GROUND FLOOR PLAN",
+        "SECOND FLOOR PLAN"
+      ],
+      "printedModelTitle": "ARELLA MODEL HOUSE",
+      "depictedBedrooms": 4,
+      "depictedBathrooms": 3,
+      "printedAreaSqm": null,
+      "printedLotAreaSqm": null,
+      "printedRoomDimensions": null,
+      "readingLimitations": "No numeric floor area, lot area, or room dimensions are printed in the drawing. Current model page specifications cannot be independently checked from this image.",
+      "sourceApplicability": "Original drawing retrieved from official Rocka public media catalog; not linked on current supplied model page.",
+      "displaySrc": "/images/properties/alegria/originals/6085-preview.webp",
+      "previewNote": "Separate lightweight thumbnail; viewer and original link use the unchanged original file."
+    },
+    {
+      "id": "6093",
+      "src": "/images/properties/alegria/originals/6093-AVERIE-FOR-DARIEN.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2021/01/AVERIE-FOR-DARIEN.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=averie",
+      "sourceAttachmentUrl": "https://rocka.ph/model-5/",
+      "originalFilename": "AVERIE-FOR-DARIEN.jpg",
+      "label": "Averie original combined floor plan — Darien source filename",
+      "width": 6000,
+      "height": 4334,
+      "format": "jpeg",
+      "sha256": "467a33ed00c479be90f9feef4f4a2516ad2ba83bdc1c4f3aac4a8e4c228e27ab",
+      "pages": [
+        "catalog-averie"
+      ],
+      "models": [
+        "averie-2"
+      ],
+      "role": "originalPlan",
+      "originalOnly": true,
+      "catalogAsset": true,
+      "sourceAssociation": "Retrieved from the official public Rocka media catalog; model association follows published filename/title, pending drawing and current-page verification.",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "Model",
+      "kind": "sourceFloorPlan",
+      "isFloorPlan": true,
+      "levels": [
+        "Ground Floor Plan",
+        "Second Floor Plan"
+      ],
+      "printedLevelLabels": [
+        "GROUND FLOOR PLAN",
+        "SECOND FLOOR PLAN"
+      ],
+      "printedModelTitle": null,
+      "depictedBedrooms": 4,
+      "depictedBathrooms": 3,
+      "printedAreaSqm": null,
+      "printedLotAreaSqm": null,
+      "printedRoomDimensions": null,
+      "readingLimitations": "No numeric floor area, lot area, or room dimensions are printed in the drawing. Current model page specifications cannot be independently checked from this image.",
+      "sourceApplicability": "Averie association is supported only by official filename AVERIE-FOR-DARIEN.jpg; no model title is printed. Alegria phase/lot applicability is unconfirmed.",
+      "sourceLimitations": [
+        "Filename explicitly mentions Darien. Retain this provenance and ask JMG/Rocka to confirm applicability for the specific Alegria lot; do not claim this is a uniquely verified Alegria drawing."
+      ],
+      "displaySrc": "/images/properties/alegria/originals/6093-preview.webp",
+      "previewNote": "Separate lightweight thumbnail; viewer and original link use the unchanged original file."
+    },
+    {
+      "id": "6607",
+      "src": "/images/properties/alegria/originals/6607-ALEGRIA-MAP-LATEST.png",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2021/07/ALEGRIA-MAP-LATEST.png",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=alegria",
+      "sourceAttachmentUrl": "https://rocka.ph/alegria-map-latest/",
+      "originalFilename": "ALEGRIA-MAP-LATEST.png",
+      "label": "Original published Alegria site layout — 2021 source",
+      "width": 3600,
+      "height": 4950,
+      "format": "png",
+      "sha256": "95ad5c79222912023ab01f920b5bc3594753d1ffd5c269864cfe554321b0ec9d",
+      "pages": [
+        "catalog-alegria"
+      ],
+      "models": [
+        "alegria"
+      ],
+      "role": "sitePlan",
+      "originalOnly": true,
+      "catalogAsset": true,
+      "sourceAssociation": "Retrieved from the official public Rocka media catalog; model association follows published filename/title, pending drawing and current-page verification.",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "ALEGRIA MAP LATEST",
+      "kind": "siteLayout",
+      "sourceLimitations": [
+        "The drawing has lettered amenity markers A–I but no supplied legend. Do not invent marker labels or infer current lot/amenity availability."
+      ],
+      "displaySrc": "/images/properties/alegria/originals/6607-preview.webp",
+      "previewNote": "Separate lightweight thumbnail; viewer and original link use the unchanged original file."
+    },
+    {
+      "id": "6753",
+      "src": "/images/properties/alegria/originals/6753-NEW-VICINITY-MAP-2021-alegria-w-BG.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2021/08/NEW-VICINITY-MAP-2021-alegria-w-BG.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2021/08/NEW-VICINITY-MAP-2021-alegria-w-BG-2048x998.jpg",
+      "originalFilename": "NEW-VICINITY-MAP-2021-alegria-w-BG.jpg",
+      "label": "Original Alegria vicinity map — Rocka",
+      "width": 4961,
+      "height": 2417,
+      "format": "jpeg",
+      "sha256": "cf82c62927d2d293ddba536d5a6f845dfdb991ca0706f0c333a5a9b8ac6fb966",
+      "pages": [
+        "alegria"
+      ],
+      "role": "vicinityMap",
+      "originalOnly": true,
+      "sourceBytesVerified": true,
+      "publisherLabel": "Original Alegria vicinity map",
+      "includeInWebsite": true,
+      "kind": "locationMap",
+      "displaySrc": "/images/properties/alegria/originals/6753-preview.webp",
+      "previewNote": "Separate lightweight thumbnail; viewer and original link use the unchanged original file."
+    },
+    {
+      "id": "7318",
+      "src": "/images/properties/alegria/originals/7318-AVERIE-1.png",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/AVERIE-1.png",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/AVERIE-1.png",
+      "originalFilename": "AVERIE-1.png",
+      "label": "Averie exterior photograph",
+      "width": 2048,
+      "height": 1536,
+      "format": "png",
+      "sha256": "7da5628fa5f4a2dc6903acd75ff260a361c9a0e56158291dc294cf1775654013",
+      "pages": [
+        "averie-2"
+      ],
+      "role": "modelOverview",
+      "originalOnly": false,
+      "sourceBytesVerified": true,
+      "publisherLabel": "averie-2 original model overview",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "displaySrc": "/images/properties/alegria/originals/7318-display.webp"
+    },
+    {
+      "id": "7319",
+      "src": "/images/properties/alegria/originals/7319-ARELLA.png",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/ARELLA.png",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/ARELLA.png",
+      "originalFilename": "ARELLA.png",
+      "label": "Arella exterior photograph",
+      "width": 2048,
+      "height": 1536,
+      "format": "png",
+      "sha256": "9b2c499580173433272389a1996ed5e6a48f4a51f0943cc37253bf1cb09d2ec0",
+      "pages": [
+        "arella"
+      ],
+      "role": "modelOverview",
+      "originalOnly": false,
+      "sourceBytesVerified": true,
+      "publisherLabel": "arella original model overview",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "displaySrc": "/images/properties/alegria/originals/7319-display.webp"
+    },
+    {
+      "id": "7320",
+      "src": "/images/properties/alegria/originals/7320-ANATALIA.png",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/ANATALIA.png",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/ANATALIA.png",
+      "originalFilename": "ANATALIA.png",
+      "label": "Anatalia exterior photograph",
+      "width": 2048,
+      "height": 1536,
+      "format": "png",
+      "sha256": "b4ba5f19c3d737edc5c6469e9b5b9a1bad00679a5c5a3df88a10271886478d04",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "modelOverview",
+      "originalOnly": false,
+      "sourceBytesVerified": true,
+      "publisherLabel": "anatalia original model overview",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "displaySrc": "/images/properties/alegria/originals/7320-display.webp"
+    },
+    {
+      "id": "7321",
+      "src": "/images/properties/alegria/originals/7321-AMARIS.png",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/AMARIS.png",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=amaris",
+      "sourceAttachmentUrl": "https://rocka.ph/amaris/amaris-4/",
+      "originalFilename": "AMARIS.png",
+      "label": "Amaris exterior photograph",
+      "width": 2048,
+      "height": 1536,
+      "format": "png",
+      "sha256": "7c0a069fc910f2dbd2183777acd6cf18202981d30c2da7c75ad18140d351c567",
+      "pages": [
+        "catalog-amaris",
+        "amaris"
+      ],
+      "models": [
+        "amaris-2"
+      ],
+      "role": "modelOverview",
+      "originalOnly": false,
+      "catalogAsset": true,
+      "sourceAssociation": "Exterior is directly published on the current official Amaris model page.",
+      "displaySrc": "/images/properties/alegria/originals/7321-display.webp",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "AMARIS",
+      "kind": "photograph",
+      "sourcePageUrl": "https://rocka.ph/amaris/"
+    },
+    {
+      "id": "7322",
+      "src": "/images/properties/alegria/originals/7322-ALYANNA.png",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/ALYANNA.png",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/ALYANNA.png",
+      "originalFilename": "ALYANNA.png",
+      "label": "Alyanna exterior photograph",
+      "width": 2048,
+      "height": 1536,
+      "format": "png",
+      "sha256": "6d841fd8f4d9e9cbab021a1f78d433e9fb0dc8ad51609d7a50de1c3ae301ec00",
+      "pages": [
+        "alyanna"
+      ],
+      "role": "modelOverview",
+      "originalOnly": false,
+      "sourceBytesVerified": true,
+      "publisherLabel": "alyanna original model overview",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "displaySrc": "/images/properties/alegria/originals/7322-display.webp"
+    },
+    {
+      "id": "7338",
+      "src": "/images/properties/alegria/originals/7338-BR-1-ALYANNA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-1-ALYANNA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-1-ALYANNA-1024x683.jpg",
+      "originalFilename": "BR-1-ALYANNA.jpg",
+      "label": "Bedroom 1",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "c9e1ff44b5db5df689c5030cd92756d77aa0e669f848270e0b227c93b8293a45",
+      "pages": [
+        "alyanna"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7338-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "BR 1 ALYANNA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7339",
+      "src": "/images/properties/alegria/originals/7339-BR-2-ALYANNA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-2-ALYANNA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-2-ALYANNA-1024x683.jpg",
+      "originalFilename": "BR-2-ALYANNA.jpg",
+      "label": "Bedroom 2",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "4c10364cd48bb5e366cd4639742707f7732d67a5193e151641e055e3c067fba6",
+      "pages": [
+        "alyanna"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7339-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "BR 2 ALYANNA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7340",
+      "src": "/images/properties/alegria/originals/7340-BR-3-ALYANNA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-3-ALYANNA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-3-ALYANNA-1024x683.jpg",
+      "originalFilename": "BR-3-ALYANNA.jpg",
+      "label": "Bedroom 3",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "8913cc21352b227f7522f64ad80649e78a56784bdd985cce8727b685f0873979",
+      "pages": [
+        "alyanna"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7340-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "BR 3 ALYANNA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7341",
+      "src": "/images/properties/alegria/originals/7341-DINING-AREA-ALYANNA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/DINING-AREA-ALYANNA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/DINING-AREA-ALYANNA-1024x683.jpg",
+      "originalFilename": "DINING-AREA-ALYANNA.jpg",
+      "label": "Dining area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "48fc1b550f305a02c0e2fcb536d6718e22f22680063d2edfcaaf1176b7311feb",
+      "pages": [
+        "alyanna"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7341-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "DINING AREA ALYANNA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7342",
+      "src": "/images/properties/alegria/originals/7342-FAMILY-AREA-ALYANNA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/FAMILY-AREA-ALYANNA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/FAMILY-AREA-ALYANNA-1024x683.jpg",
+      "originalFilename": "FAMILY-AREA-ALYANNA.jpg",
+      "label": "Family area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "e80e4032ceb5013d104b6fb6990839ee51c56267a3b766762894f0a8f3fc7e4b",
+      "pages": [
+        "alyanna"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7342-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "FAMILY AREA ALYANNA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7343",
+      "src": "/images/properties/alegria/originals/7343-KITCHEN-ALYANNA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/KITCHEN-ALYANNA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/KITCHEN-ALYANNA-1024x683.jpg",
+      "originalFilename": "KITCHEN-ALYANNA.jpg",
+      "label": "Kitchen",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "777cc1d27bc6c13358deca2ebe3d93df3b8934c2e3fbd3101d048e8da9d2e312",
+      "pages": [
+        "alyanna"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7343-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "KITCHEN ALYANNA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7344",
+      "src": "/images/properties/alegria/originals/7344-LIVING-ROOM-ALYANNA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/LIVING-ROOM-ALYANNA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/LIVING-ROOM-ALYANNA-1024x683.jpg",
+      "originalFilename": "LIVING-ROOM-ALYANNA.jpg",
+      "label": "Living area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "1adc1b1a6e64f65b67eab701c8feaa757b44eca1d4060053a708dcf66f61bd3c",
+      "pages": [
+        "alyanna"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7344-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "LIVING ROOM ALYANNA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7345",
+      "src": "/images/properties/alegria/originals/7345-MASTERS-ALYANNA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-ALYANNA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-ALYANNA-1024x683.jpg",
+      "originalFilename": "MASTERS-ALYANNA.jpg",
+      "label": "Primary bedroom",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "850aa568ea6db4b4041746ac0be4d4d48eb52814f2e56113a1905db6a8e0839c",
+      "pages": [
+        "alyanna"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7345-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "MASTERS ALYANNA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7346",
+      "src": "/images/properties/alegria/originals/7346-MASTERS-BR-ALYANNA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-BR-ALYANNA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-BR-ALYANNA-683x1024.jpg",
+      "originalFilename": "MASTERS-BR-ALYANNA.jpg",
+      "label": "Primary bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "09875310c8c0202c5685326158ce0b8f3300be6de5d8bb4cf7c0a99606648671",
+      "pages": [
+        "alyanna"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7346-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "MASTERS BR ALYANNA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7347",
+      "src": "/images/properties/alegria/originals/7347-T-B-1ST-ALYANNA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-1ST-ALYANNA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-1ST-ALYANNA-683x1024.jpg",
+      "originalFilename": "T-B-1ST-ALYANNA.jpg",
+      "label": "First-floor bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "354e3cb7f43f7112981bfdf55d8bf4bd377baaecfceca08fd2ce8daa3747716e",
+      "pages": [
+        "alyanna"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7347-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "T B 1ST ALYANNA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7348",
+      "src": "/images/properties/alegria/originals/7348-T-B-2ND-ALYANNA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-2ND-ALYANNA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-2ND-ALYANNA-683x1024.jpg",
+      "originalFilename": "T-B-2ND-ALYANNA.jpg",
+      "label": "Second-floor bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "9349ae56bfb34760a52cb7b4e3eb7bbcbec98349717187b4e72d4d15a958cf9c",
+      "pages": [
+        "alyanna"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7348-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "T B 2ND ALYANNA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7349",
+      "src": "/images/properties/alegria/originals/7349-BR-1-AMARIS.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-1-AMARIS.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=amaris",
+      "sourceAttachmentUrl": "https://rocka.ph/br-1-amaris/",
+      "originalFilename": "BR-1-AMARIS.jpg",
+      "label": "Bedroom 1",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "9f09c4dae2471d688fce86ee767224c9d1b37a22c9830aeb37c2de99d186c933",
+      "pages": [
+        "catalog-amaris",
+        "amaris"
+      ],
+      "models": [
+        "amaris-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "catalogAsset": true,
+      "sourceAssociation": "Photograph is directly linked by the current official Amaris page gallery; source model is verified.",
+      "displaySrc": "/images/properties/alegria/originals/7349-display.webp",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "BR 1 &#8211; AMARIS",
+      "kind": "photograph",
+      "sourcePageUrl": "https://rocka.ph/amaris/"
+    },
+    {
+      "id": "7350",
+      "src": "/images/properties/alegria/originals/7350-BR-2-AMARIS.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-2-AMARIS.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=amaris",
+      "sourceAttachmentUrl": "https://rocka.ph/br-2-amaris/",
+      "originalFilename": "BR-2-AMARIS.jpg",
+      "label": "Bedroom 2",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "f9a708b064ccf39d3e8bfa834f799b552d3fd4de426e898f5a7c909ef5b141db",
+      "pages": [
+        "catalog-amaris",
+        "amaris"
+      ],
+      "models": [
+        "amaris-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "catalogAsset": true,
+      "sourceAssociation": "Photograph is directly linked by the current official Amaris page gallery; source model is verified.",
+      "displaySrc": "/images/properties/alegria/originals/7350-display.webp",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "BR 2 &#8211; AMARIS",
+      "kind": "photograph",
+      "sourcePageUrl": "https://rocka.ph/amaris/"
+    },
+    {
+      "id": "7351",
+      "src": "/images/properties/alegria/originals/7351-BR-3-AMARIS.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-3-AMARIS.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=amaris",
+      "sourceAttachmentUrl": "https://rocka.ph/br-3-amaris/",
+      "originalFilename": "BR-3-AMARIS.jpg",
+      "label": "Bedroom 3",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "f096143754b1fa9cc020436147b0c654ca2af866cc7704d5748abecf38a56a26",
+      "pages": [
+        "catalog-amaris",
+        "amaris"
+      ],
+      "models": [
+        "amaris-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "catalogAsset": true,
+      "sourceAssociation": "Photograph is directly linked by the current official Amaris page gallery; source model is verified.",
+      "displaySrc": "/images/properties/alegria/originals/7351-display.webp",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "BR 3 &#8211; AMARIS",
+      "kind": "photograph",
+      "sourcePageUrl": "https://rocka.ph/amaris/"
+    },
+    {
+      "id": "7352",
+      "src": "/images/properties/alegria/originals/7352-BR-4-AMARIS.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-4-AMARIS.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=amaris",
+      "sourceAttachmentUrl": "https://rocka.ph/br-4-amaris/",
+      "originalFilename": "BR-4-AMARIS.jpg",
+      "label": "Bedroom 4",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "46bf360024155e42787e8949ec925cc3cf1d343ed0997b12d4004a744f35c0e8",
+      "pages": [
+        "catalog-amaris",
+        "amaris"
+      ],
+      "models": [
+        "amaris-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "catalogAsset": true,
+      "sourceAssociation": "Photograph is directly linked by the current official Amaris page gallery; source model is verified.",
+      "displaySrc": "/images/properties/alegria/originals/7352-display.webp",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "BR 4 &#8211; AMARIS",
+      "kind": "photograph",
+      "sourcePageUrl": "https://rocka.ph/amaris/"
+    },
+    {
+      "id": "7353",
+      "src": "/images/properties/alegria/originals/7353-DINING-AREA-AMARIS.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/DINING-AREA-AMARIS.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=amaris",
+      "sourceAttachmentUrl": "https://rocka.ph/dining-area-amaris/",
+      "originalFilename": "DINING-AREA-AMARIS.jpg",
+      "label": "Dining area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "c6f2e757628aac97c8f14b4a91049a51e1c0d84897e175425acf2597dc772387",
+      "pages": [
+        "catalog-amaris",
+        "amaris"
+      ],
+      "models": [
+        "amaris-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "catalogAsset": true,
+      "sourceAssociation": "Photograph is directly linked by the current official Amaris page gallery; source model is verified.",
+      "displaySrc": "/images/properties/alegria/originals/7353-display.webp",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "DINING AREA &#8211; AMARIS",
+      "kind": "photograph",
+      "sourcePageUrl": "https://rocka.ph/amaris/"
+    },
+    {
+      "id": "7354",
+      "src": "/images/properties/alegria/originals/7354-KITCHEN-AMARIS.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/KITCHEN-AMARIS.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=amaris",
+      "sourceAttachmentUrl": "https://rocka.ph/kitchen-amaris/",
+      "originalFilename": "KITCHEN-AMARIS.jpg",
+      "label": "Kitchen",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "453f7b62bb118d6b5c4f03c14907e2912723158fa85da3ec1aa29548a58f16fe",
+      "pages": [
+        "catalog-amaris",
+        "amaris"
+      ],
+      "models": [
+        "amaris-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "catalogAsset": true,
+      "sourceAssociation": "Photograph is directly linked by the current official Amaris page gallery; source model is verified.",
+      "displaySrc": "/images/properties/alegria/originals/7354-display.webp",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "KITCHEN &#8211; AMARIS",
+      "kind": "photograph",
+      "sourcePageUrl": "https://rocka.ph/amaris/"
+    },
+    {
+      "id": "7355",
+      "src": "/images/properties/alegria/originals/7355-LIVING-AMARIS.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/LIVING-AMARIS.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=amaris",
+      "sourceAttachmentUrl": "https://rocka.ph/living-amaris/",
+      "originalFilename": "LIVING-AMARIS.jpg",
+      "label": "Living area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "d2eb99199965ffb58272df6e7ab3772a808b9dac521f7ffe3e8fe7d403f3089e",
+      "pages": [
+        "catalog-amaris",
+        "amaris"
+      ],
+      "models": [
+        "amaris-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "catalogAsset": true,
+      "sourceAssociation": "Photograph is directly linked by the current official Amaris page gallery; source model is verified.",
+      "displaySrc": "/images/properties/alegria/originals/7355-display.webp",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "LIVING &#8211; AMARIS",
+      "kind": "photograph",
+      "sourcePageUrl": "https://rocka.ph/amaris/"
+    },
+    {
+      "id": "7356",
+      "src": "/images/properties/alegria/originals/7356-MASTERS-AMARIS.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-AMARIS.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=amaris",
+      "sourceAttachmentUrl": "https://rocka.ph/masters-amaris/",
+      "originalFilename": "MASTERS-AMARIS.jpg",
+      "label": "Primary bedroom",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "03d1b260d80fed9ef19f2696d5f794f8e5d1835d3f8c84c862269cb2c2be4078",
+      "pages": [
+        "catalog-amaris",
+        "amaris"
+      ],
+      "models": [
+        "amaris-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "catalogAsset": true,
+      "sourceAssociation": "Photograph is directly linked by the current official Amaris page gallery; source model is verified.",
+      "displaySrc": "/images/properties/alegria/originals/7356-display.webp",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "MASTERS &#8211; AMARIS",
+      "kind": "photograph",
+      "sourcePageUrl": "https://rocka.ph/amaris/"
+    },
+    {
+      "id": "7357",
+      "src": "/images/properties/alegria/originals/7357-MASTERS-TB-AMARIS.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-AMARIS.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=amaris",
+      "sourceAttachmentUrl": "https://rocka.ph/masters-tb-amaris/",
+      "originalFilename": "MASTERS-TB-AMARIS.jpg",
+      "label": "Primary bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "0f435ac5f544138d53147c508b740535ca6a795880ab887d67bf28571d521c1a",
+      "pages": [
+        "catalog-amaris",
+        "amaris"
+      ],
+      "models": [
+        "amaris-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "catalogAsset": true,
+      "sourceAssociation": "Photograph is directly linked by the current official Amaris page gallery; source model is verified.",
+      "displaySrc": "/images/properties/alegria/originals/7357-display.webp",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "MASTERS T&#038;B &#8211; AMARIS",
+      "kind": "photograph",
+      "sourcePageUrl": "https://rocka.ph/amaris/"
+    },
+    {
+      "id": "7358",
+      "src": "/images/properties/alegria/originals/7358-T-B-1-AMARIS.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-1-AMARIS.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=amaris",
+      "sourceAttachmentUrl": "https://rocka.ph/t-b-1-amaris/",
+      "originalFilename": "T-B-1-AMARIS.jpg",
+      "label": "Bathroom 1",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "cc50bf51cf55861e8155c2af767449457600a27845d0e3a99c8c60577beff6dd",
+      "pages": [
+        "catalog-amaris",
+        "amaris"
+      ],
+      "models": [
+        "amaris-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "catalogAsset": true,
+      "sourceAssociation": "Photograph is directly linked by the current official Amaris page gallery; source model is verified.",
+      "displaySrc": "/images/properties/alegria/originals/7358-display.webp",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "T &#038; B 1 &#8211; AMARIS",
+      "kind": "photograph",
+      "sourcePageUrl": "https://rocka.ph/amaris/"
+    },
+    {
+      "id": "7359",
+      "src": "/images/properties/alegria/originals/7359-T-B-2-AMARIS.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-2-AMARIS.jpg",
+      "sourceCatalogUrl": "https://rocka.ph/wp-json/wp/v2/media?search=amaris",
+      "sourceAttachmentUrl": "https://rocka.ph/t-b-2-amaris/",
+      "originalFilename": "T-B-2-AMARIS.jpg",
+      "label": "Bathroom 2",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "f3bcd12d0901a6ff235164a40af66d78178cfb520902e8d4226d8095b3348f8b",
+      "pages": [
+        "catalog-amaris",
+        "amaris"
+      ],
+      "models": [
+        "amaris-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "catalogAsset": true,
+      "sourceAssociation": "Photograph is directly linked by the current official Amaris page gallery; source model is verified.",
+      "displaySrc": "/images/properties/alegria/originals/7359-display.webp",
+      "sourceBytesVerified": true,
+      "includeInWebsite": true,
+      "publisherLabel": "T &#038; B 2 &#8211; AMARIS",
+      "kind": "photograph",
+      "sourcePageUrl": "https://rocka.ph/amaris/"
+    },
+    {
+      "id": "7360",
+      "src": "/images/properties/alegria/originals/7360-BR-1-ANATALIA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-1-ANATALIA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-1-ANATALIA-1024x683.jpg",
+      "originalFilename": "BR-1-ANATALIA.jpg",
+      "label": "Bedroom 1",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "2f062031bba2f11d092c4b222e85c34c86cce4e7a8c4882dbce58c61268e64e4",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7360-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "BR 1 ANATALIA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7361",
+      "src": "/images/properties/alegria/originals/7361-BR-2-ANATALIA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-2-ANATALIA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-2-ANATALIA-1024x683.jpg",
+      "originalFilename": "BR-2-ANATALIA.jpg",
+      "label": "Bedroom 2",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "33c386581a9b8ba11b35bb64afbb2851d41ce3e0c93c195954484d4b28414823",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7361-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "BR 2 ANATALIA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7362",
+      "src": "/images/properties/alegria/originals/7362-BR-3-ANATALIA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-3-ANATALIA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-3-ANATALIA-1024x683.jpg",
+      "originalFilename": "BR-3-ANATALIA.jpg",
+      "label": "Bedroom 3",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "b16394626df646b2f1d7d8e7c8ee162dff13ec631d5c41b5c9bf80d4bf7e8291",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7362-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "BR 3 ANATALIA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7363",
+      "src": "/images/properties/alegria/originals/7363-DINING-ANATALIA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/DINING-ANATALIA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/DINING-ANATALIA-1024x683.jpg",
+      "originalFilename": "DINING-ANATALIA.jpg",
+      "label": "Dining area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "577acd13fb5212401ea3310130f52d0fb79557b8009a8928a8b62ae7778ab32f",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7363-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "DINING ANATALIA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7364",
+      "src": "/images/properties/alegria/originals/7364-LIVING-ANATALIA-1.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/LIVING-ANATALIA-1.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/LIVING-ANATALIA-1-1024x683.jpg",
+      "originalFilename": "LIVING-ANATALIA-1.jpg",
+      "label": "High-ceiling living area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "018c396cd6f568e733229e2d295c0873726209b7855ed14ddfc8a17bcb9ea5d7",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7364-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "LIVING ANATALIA 1",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7365",
+      "src": "/images/properties/alegria/originals/7365-LIVING-ANATALIA-2.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/LIVING-ANATALIA-2.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/LIVING-ANATALIA-2-1024x683.jpg",
+      "originalFilename": "LIVING-ANATALIA-2.jpg",
+      "label": "Living area viewed from above",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "a3ae5716530feffb1f02a88dec2184e43b9696eabc651bb0ae0e07a243668448",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7365-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "LIVING ANATALIA 2",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7366",
+      "src": "/images/properties/alegria/originals/7366-LIVING-ANATALIA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/LIVING-ANATALIA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/LIVING-ANATALIA-1024x683.jpg",
+      "originalFilename": "LIVING-ANATALIA.jpg",
+      "label": "Living area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "147c6b2ca5cbdd97a38e1806f1947ccd73f5aacbab35b4ad6bbcc44447562215",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7366-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "LIVING ANATALIA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7367",
+      "src": "/images/properties/alegria/originals/7367-MASTERS-ANATALIA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-ANATALIA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-ANATALIA-1024x683.jpg",
+      "originalFilename": "MASTERS-ANATALIA.jpg",
+      "label": "Primary bedroom",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "88c81e84e65a0beaf615336493e26e3886bba5dfafa6dbda2ae8f9b12386d78f",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7367-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "MASTERS ANATALIA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7368",
+      "src": "/images/properties/alegria/originals/7368-MASTERS-TB-ANATALIA-1.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-ANATALIA-1.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-ANATALIA-1-683x1024.jpg",
+      "originalFilename": "MASTERS-TB-ANATALIA-1.jpg",
+      "label": "Primary bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "458aae20da0962c09c4cdb5882f71f2014da85bb44644716177efd8de2a7e90a",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7368-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "MASTERS TB ANATALIA 1",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7369",
+      "src": "/images/properties/alegria/originals/7369-MASTERS-TB-ANATALIA-2.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-ANATALIA-2.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-ANATALIA-2-683x1024.jpg",
+      "originalFilename": "MASTERS-TB-ANATALIA-2.jpg",
+      "label": "Primary bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "82880420ce7fa04cf48ff0fb5c9aff1b184f9062a10a59aaa6e5e70a251696cf",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7369-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "MASTERS TB ANATALIA 2",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7370",
+      "src": "/images/properties/alegria/originals/7370-MASTERS-TB-ANATALIA-3.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-ANATALIA-3.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-ANATALIA-3-683x1024.jpg",
+      "originalFilename": "MASTERS-TB-ANATALIA-3.jpg",
+      "label": "Primary bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "01bb9dcd65b6afd2ee1bfc3e01ba20b10c8643cb2c701922a84a19fd338e2fe6",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7370-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "MASTERS TB ANATALIA 3",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7371",
+      "src": "/images/properties/alegria/originals/7371-T-B-1ST-ANATALIA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-1ST-ANATALIA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-1ST-ANATALIA-683x1024.jpg",
+      "originalFilename": "T-B-1ST-ANATALIA.jpg",
+      "label": "First-floor bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "613beb88386f93b6a1d869994991edbdcc44f7be167460d06a024d35e333ff86",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7371-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "T B 1ST ANATALIA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7372",
+      "src": "/images/properties/alegria/originals/7372-T-B-2-ANATALIA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-2-ANATALIA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-2-ANATALIA-683x1024.jpg",
+      "originalFilename": "T-B-2-ANATALIA.jpg",
+      "label": "Second-floor bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "f9969cfcf39c22fed7ff47bfd77b27036e179fc9b53252094fdce875cdba7ffc",
+      "pages": [
+        "anatalia"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7372-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "T B 2 ANATALIA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7373",
+      "src": "/images/properties/alegria/originals/7373-BR-1-ARELLA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-1-ARELLA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-1-ARELLA-1024x683.jpg",
+      "originalFilename": "BR-1-ARELLA.jpg",
+      "label": "Bedroom 1",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "d68f6d306c4561ba357039b9390bfd325e1182bb32dcce592a787e1848d25ed4",
+      "pages": [
+        "arella"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7373-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "BR 1 ARELLA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7374",
+      "src": "/images/properties/alegria/originals/7374-BR-2-ARELLA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-2-ARELLA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-2-ARELLA-1024x683.jpg",
+      "originalFilename": "BR-2-ARELLA.jpg",
+      "label": "Bedroom 2",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "ca9dcf18169006bbb37b9dda34049c937ef99a372b43805ac1a5c3c5b9985643",
+      "pages": [
+        "arella"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7374-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "BR 2 ARELLA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7375",
+      "src": "/images/properties/alegria/originals/7375-BR-3-ARELLA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-3-ARELLA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-3-ARELLA-1024x683.jpg",
+      "originalFilename": "BR-3-ARELLA.jpg",
+      "label": "Bedroom 3",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "b9f2c9f69b1d42bba501f45dfc6e38f810159f4ae9885cc36e2a57015393f836",
+      "pages": [
+        "arella"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7375-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "BR 3 ARELLA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7376",
+      "src": "/images/properties/alegria/originals/7376-DINING-ARELLA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/DINING-ARELLA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/DINING-ARELLA-1024x683.jpg",
+      "originalFilename": "DINING-ARELLA.jpg",
+      "label": "Dining area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "56e27634597490513e37a9e5453f610b0cc224bfec8affb5f767bd154a2614b0",
+      "pages": [
+        "arella"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7376-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "DINING ARELLA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7377",
+      "src": "/images/properties/alegria/originals/7377-FAMILY-AREA-ARELLA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/FAMILY-AREA-ARELLA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/FAMILY-AREA-ARELLA-1024x683.jpg",
+      "originalFilename": "FAMILY-AREA-ARELLA.jpg",
+      "label": "Family area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "e2189f66172fd2a5d73fef606d7c4c8c7f780917faeef29027598c3c6e713cb7",
+      "pages": [
+        "arella"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7377-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "FAMILY AREA ARELLA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7378",
+      "src": "/images/properties/alegria/originals/7378-IMG_5560.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/IMG_5560.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/IMG_5560-1024x683.jpg",
+      "originalFilename": "IMG_5560.jpg",
+      "label": "Living and dining area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "d013f1becf285fe34652af76d30ea2181673848805b7b6ca4f104c9f97ed1cf8",
+      "pages": [
+        "arella"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7378-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "IMG_5560",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7379",
+      "src": "/images/properties/alegria/originals/7379-KITCHEN-ARELLA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/KITCHEN-ARELLA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/KITCHEN-ARELLA-1024x683.jpg",
+      "originalFilename": "KITCHEN-ARELLA.jpg",
+      "label": "Kitchen",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "ad79e92b1ddb12d01608a1f38a55f871d61c4aab89035f11f69a7cb45579fc8b",
+      "pages": [
+        "arella"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7379-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "KITCHEN ARELLA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7380",
+      "src": "/images/properties/alegria/originals/7380-LIVING-ARELLA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/LIVING-ARELLA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/LIVING-ARELLA-1024x683.jpg",
+      "originalFilename": "LIVING-ARELLA.jpg",
+      "label": "Living area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "f69357cb238587fbc0fa8a5dd5ac4a4076327ed90fd2a3c38beb294269051586",
+      "pages": [
+        "arella"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7380-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "LIVING ARELLA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7381",
+      "src": "/images/properties/alegria/originals/7381-MASTERS-ARELLA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-ARELLA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-ARELLA-1024x683.jpg",
+      "originalFilename": "MASTERS-ARELLA.jpg",
+      "label": "Primary bedroom",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "49808ed830908a92f78ba3181b47abf47f5654aa46e3716b3666cba944f9da46",
+      "pages": [
+        "arella"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7381-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "MASTERS ARELLA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7382",
+      "src": "/images/properties/alegria/originals/7382-MASTERS-TB-ARELLA-1.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-ARELLA-1.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-ARELLA-1-683x1024.jpg",
+      "originalFilename": "MASTERS-TB-ARELLA-1.jpg",
+      "label": "Primary bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "bef19f3ee5eb451d6f21467575b322e9e544ab36e1e3b979f9bde4685c831381",
+      "pages": [
+        "arella"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7382-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "MASTERS TB ARELLA 1",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7383",
+      "src": "/images/properties/alegria/originals/7383-MASTERS-TB-ARELLA-2.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-ARELLA-2.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-ARELLA-2-683x1024.jpg",
+      "originalFilename": "MASTERS-TB-ARELLA-2.jpg",
+      "label": "Primary bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "51a5adf70b12f848237d81621a7bc5ba1bfa56abdc63c3c45513202e4de7102f",
+      "pages": [
+        "arella"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7383-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "MASTERS TB ARELLA 2",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7384",
+      "src": "/images/properties/alegria/originals/7384-T-B-1ST-ARELLA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-1ST-ARELLA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-1ST-ARELLA-683x1024.jpg",
+      "originalFilename": "T-B-1ST-ARELLA.jpg",
+      "label": "First-floor bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "2401e0a6504d0b0a63a7b57a481ebb2ed565b496cf73b1e9d10b2cacf5e4ee73",
+      "pages": [
+        "arella"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7384-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "T B 1ST ARELLA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7385",
+      "src": "/images/properties/alegria/originals/7385-T-B-2ND-ARELLA.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-2ND-ARELLA.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-2ND-ARELLA-683x1024.jpg",
+      "originalFilename": "T-B-2ND-ARELLA.jpg",
+      "label": "Second-floor bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "2b04df1bc3460d952cb3e2b5e63c3e9da29a70b590ca17a8bf47b2e34d333125",
+      "pages": [
+        "arella"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7385-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "T B 2ND ARELLA",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7386",
+      "src": "/images/properties/alegria/originals/7386-BR-1-AVERIE.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-1-AVERIE.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-1-AVERIE-1024x683.jpg",
+      "originalFilename": "BR-1-AVERIE.jpg",
+      "label": "Bedroom 1",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "962cc6bac5475722449e83da7033d7a5a2c43b927d7c7ff5ec09c3ec8deebcad",
+      "pages": [
+        "averie-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7386-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "BR 1 AVERIE",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7387",
+      "src": "/images/properties/alegria/originals/7387-BR-2-AVERIE.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-2-AVERIE.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-2-AVERIE-1024x683.jpg",
+      "originalFilename": "BR-2-AVERIE.jpg",
+      "label": "Bedroom 2",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "31d0455cf02bc38587faa16ef00f74bdbc8b828b2fb404abe24ba3f19f1ece84",
+      "pages": [
+        "averie-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7387-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "BR 2 AVERIE",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7388",
+      "src": "/images/properties/alegria/originals/7388-BR-3-AVERIE.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-3-AVERIE.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/BR-3-AVERIE-1024x683.jpg",
+      "originalFilename": "BR-3-AVERIE.jpg",
+      "label": "Bedroom 3",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "095aa804a05ccf64c172c719b74b8d36fce96dda03d793d0acfd98e578082cfa",
+      "pages": [
+        "averie-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7388-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "BR 3 AVERIE",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7389",
+      "src": "/images/properties/alegria/originals/7389-DINING-AVERIE.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/DINING-AVERIE.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/DINING-AVERIE-1024x683.jpg",
+      "originalFilename": "DINING-AVERIE.jpg",
+      "label": "Dining area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "8cefe3873c489901266225a6f64f98eff67baa3c4fa6dd18852b37138311bc23",
+      "pages": [
+        "averie-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7389-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "DINING AVERIE",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7390",
+      "src": "/images/properties/alegria/originals/7390-KITCHEN-AVERIE.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/KITCHEN-AVERIE.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/KITCHEN-AVERIE-1024x683.jpg",
+      "originalFilename": "KITCHEN-AVERIE.jpg",
+      "label": "Kitchen",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "4e0a4e65860da4ad86564a5f554619697f9922fff8d1d73a8098252049bd0f2a",
+      "pages": [
+        "averie-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7390-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "KITCHEN AVERIE",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7391",
+      "src": "/images/properties/alegria/originals/7391-LIVING-AVERIE.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/LIVING-AVERIE.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/LIVING-AVERIE-1024x683.jpg",
+      "originalFilename": "LIVING-AVERIE.jpg",
+      "label": "Living area",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "d92202954f1b7af5adb39b9042e718940530bf5175b561525ede3715a263d65d",
+      "pages": [
+        "averie-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7391-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "LIVING AVERIE",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7392",
+      "src": "/images/properties/alegria/originals/7392-MASTERS-AVERIE.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-AVERIE.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-AVERIE-1024x683.jpg",
+      "originalFilename": "MASTERS-AVERIE.jpg",
+      "label": "Primary bedroom",
+      "width": 5184,
+      "height": 3456,
+      "format": "jpeg",
+      "sha256": "7826930b458d185d3ef2bd75ccebab4c01b00623f0097f44f6e9601b4cfd68ce",
+      "pages": [
+        "averie-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7392-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "MASTERS AVERIE",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7393",
+      "src": "/images/properties/alegria/originals/7393-MASTERS-TB-AVERIE-1.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-AVERIE-1.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-AVERIE-1-683x1024.jpg",
+      "originalFilename": "MASTERS-TB-AVERIE-1.jpg",
+      "label": "Primary bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "832e58a6374d3102ea9f4e02ece3a6078c41da1436bb2f7da27160c98c6e4494",
+      "pages": [
+        "averie-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7393-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "MASTERS TB AVERIE 1",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7394",
+      "src": "/images/properties/alegria/originals/7394-MASTERS-TB-AVERIE-2.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-AVERIE-2.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/MASTERS-TB-AVERIE-2-683x1024.jpg",
+      "originalFilename": "MASTERS-TB-AVERIE-2.jpg",
+      "label": "Primary bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "4bc1f2a75a4337822812109dd6613c1f6019a6749ed8066c958304cd9b5d0bab",
+      "pages": [
+        "averie-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7394-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "MASTERS TB AVERIE 2",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7395",
+      "src": "/images/properties/alegria/originals/7395-T-B-1ST-AVERIE.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-1ST-AVERIE.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-1ST-AVERIE-683x1024.jpg",
+      "originalFilename": "T-B-1ST-AVERIE.jpg",
+      "label": "First-floor bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "7b9e83d21e532f58162f807d4efd4a353d6f58ba3e7f4a29773e0ea2f7c87681",
+      "pages": [
+        "averie-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7395-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "T B 1ST AVERIE",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    },
+    {
+      "id": "7396",
+      "src": "/images/properties/alegria/originals/7396-T-B-2ND-AVERIE.jpg",
+      "sourceUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-2ND-AVERIE.jpg",
+      "observedUrl": "https://rocka.ph/wp-content/uploads/2024/02/T-B-2ND-AVERIE-683x1024.jpg",
+      "originalFilename": "T-B-2ND-AVERIE.jpg",
+      "label": "Second-floor bathroom",
+      "width": 3456,
+      "height": 5184,
+      "format": "jpeg",
+      "sha256": "f2419b82abdccb93a46144b830fa1c1386b20a66a867dcfeefef1230a05c8c55",
+      "pages": [
+        "averie-2"
+      ],
+      "role": "interiorGallery",
+      "originalOnly": false,
+      "displaySrc": "/images/properties/alegria/originals/7396-display.webp",
+      "sourceBytesVerified": true,
+      "publisherLabel": "T B 2ND AVERIE",
+      "includeInWebsite": true,
+      "kind": "photograph",
+      "captionEvidence": "Source filename and clearly visible room contents; no inferred architectural dimensions."
+    }
+  ],
+  "originalPreservation": "Original downloaded bytes retained; separate display files are optimized copies."
+}

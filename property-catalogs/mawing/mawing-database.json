@@ -1,0 +1,2301 @@
+{
+  "reviewedAt": "2026-10-16",
+  "projects": [
+    {
+      "id": "mawing-residences",
+      "name": "Mawing Residences Sta. Cruz",
+      "developer": "Herencia de Julieta Realty and Development, Inc.",
+      "category": "House & Lot",
+      "region": "Central Luzon",
+      "province": "Pampanga",
+      "city": "Porac",
+      "barangay": "Sta. Cruz",
+      "description": "A community of two-storey, single-attached homes in Sta. Cruz, Porac. Compare Julieta, Gregoria and Gerardo, each with a 96 sqm reference lot and approximately 92 sqm of floor area.",
+      "source": "S102 pages 3, 8, 10-12; S013; public reference page",
+      "constructionStatus": "Contract-specific construction and turnover status require confirmation.",
+      "sourceCompletionWording": "Project Completion Date: L.D. December 2030",
+      "licenseClaim": "Developer material states DHSUD LTS No. 0003010 (04Sep2025); not independently verified with the regulator.",
+      "targetMarket": "Not found in the provided files.",
+      "architecturalConcept": "Modern single-attached homes (source marketing description).",
+      "landAreaHectares": 4.5,
+      "amenities": [
+        "Clubhouse",
+        "Basketball court",
+        "Parks",
+        "Jogging path"
+      ],
+      "amenitiesStatus": "Advertised in source seminar page 7. Completion and access unverified.",
+      "nearby": [
+        "Puregold Central Town",
+        "Friendship Highway",
+        "Holy Angel University",
+        "Clark Freeport Zone",
+        "Clark International Airport",
+        "NLEX Angeles connection"
+      ],
+      "nearbyNote": "Landmarks shown in the supplied maps. Opening status, distances and routes require confirmation.",
+      "sourceUrl": "https://www.pampanga-properties.com/mawing-residences-sta-cruz-porac.html"
+    }
+  ],
+  "models": [
+    {
+      "id": "mawing-julieta",
+      "projectId": "mawing-residences",
+      "name": "Julieta",
+      "category": "Single Attached",
+      "storeys": 2,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSlots": 1,
+      "floorAreaSqm": 92,
+      "floorAreaQualifier": "Approximate (+/- 92 sqm in source)",
+      "lotAreaSqm": 96,
+      "features": [
+        "Living and dining areas",
+        "Formal kitchen",
+        "Service / dirty kitchen area",
+        "Laundry area",
+        "Storage area",
+        "Balcony",
+        "Porch",
+        "Carport"
+      ],
+      "source": "S102 page 10; S013",
+      "floorPlans": [
+        "/images/mawing/julieta-plan.png"
+      ],
+      "layout": "Ground floor: living, dining, kitchen, common toilet and bath, service/laundry and carport. Second floor: three bedrooms, common toilet and bath and balcony. See the model-specific source sheet for arrangement.",
+      "roomDimensions": "Not found in the provided files.",
+      "description": "Julieta is a two-storey single-attached home with three bedrooms, two toilets and baths, a balcony and one carport. The source model sheet identifies a 96 sqm lot and approximately 92 sqm of floor area.",
+      "inclusionsNote": "Furnished package advertised in S013 / S102 page 16. Photographs show varying fit-out stages; furniture, appliances and finishes must be confirmed in the written offer.",
+      "price": 5958750,
+      "currency": "PHP",
+      "priceType": "Dated 96 sqm package reference, not a current quotation or starting-price promise",
+      "priceDate": "2026-10-08",
+      "priceSource": "S101 (public package-price portion only; source lot identifiers and availability removed)",
+      "gallery": [
+        "/images/mawing/julieta-s012-model-promotional-flyer.jpg",
+        "/images/mawing/julieta-s048-front-exterior.jpg",
+        "/images/mawing/julieta-s049-living-area.jpg",
+        "/images/mawing/julieta-s050-living-and-dining-area.jpg",
+        "/images/mawing/julieta-s051-kitchen.jpg",
+        "/images/mawing/julieta-s052-storage-area.jpg",
+        "/images/mawing/julieta-s053-ground-floor-toilet-and-bath.jpg",
+        "/images/mawing/julieta-s054-service-and-laundry-area.jpg",
+        "/images/mawing/julieta-s055-second-floor-toilet-and-bath.jpg",
+        "/images/mawing/julieta-s056-bedroom.jpg",
+        "/images/mawing/julieta-s057-bedroom.jpg",
+        "/images/mawing/julieta-s058-bedroom.jpg",
+        "/images/mawing/julieta-s059-bedroom-with-balcony-access.jpg",
+        "/images/mawing/julieta-s060-balcony.jpg",
+        "/images/mawing/julieta-s061-exterior-architectural-perspective.png"
+      ],
+      "missing": [
+        "Current quotation and availability",
+        "Written turnover inclusions",
+        "Contract-specific completion/turnover",
+        "Room dimensions and exact offered lot plan"
+      ]
+    },
+    {
+      "id": "mawing-gregoria",
+      "projectId": "mawing-residences",
+      "name": "Gregoria",
+      "category": "Single Attached",
+      "storeys": 2,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSlots": 1,
+      "floorAreaSqm": 92,
+      "floorAreaQualifier": "Approximate (+/- 92 sqm in source)",
+      "lotAreaSqm": 96,
+      "features": [
+        "Living and dining areas",
+        "Formal kitchen",
+        "Service / dirty kitchen area",
+        "Laundry area",
+        "Storage area",
+        "Balcony",
+        "Porch",
+        "Carport"
+      ],
+      "source": "S102 page 11; S013",
+      "floorPlans": [
+        "/images/mawing/gregoria-plan.png"
+      ],
+      "layout": "Ground floor: living, dining, kitchen, common toilet and bath, service/laundry and carport. Second floor: three bedrooms, common toilet and bath and balcony. See the model-specific source sheet for arrangement.",
+      "roomDimensions": "Not found in the provided files.",
+      "description": "Gregoria is a two-storey single-attached home with three bedrooms, two toilets and baths, a balcony and one carport. The source model sheet identifies a 96 sqm lot and approximately 92 sqm of floor area.",
+      "inclusionsNote": "Furnished package advertised in S013 / S102 page 16. Photographs show varying fit-out stages; furniture, appliances and finishes must be confirmed in the written offer.",
+      "price": 5958750,
+      "currency": "PHP",
+      "priceType": "Dated 96 sqm package reference, not a current quotation or starting-price promise",
+      "priceDate": "2026-10-08",
+      "priceSource": "S101 (public package-price portion only; source lot identifiers and availability removed)",
+      "gallery": [
+        "/images/mawing/gregoria-s010-model-promotional-flyer.jpg",
+        "/images/mawing/gregoria-s031-front-exterior.jpg",
+        "/images/mawing/gregoria-s032-front-garden.jpg",
+        "/images/mawing/gregoria-s033-carport.jpg",
+        "/images/mawing/gregoria-s034-service-and-laundry-area.jpg",
+        "/images/mawing/gregoria-s035-living-area.jpg",
+        "/images/mawing/gregoria-s036-living-and-dining-area.jpg",
+        "/images/mawing/gregoria-s037-living-and-kitchen-area.jpg",
+        "/images/mawing/gregoria-s038-kitchen.jpg",
+        "/images/mawing/gregoria-s039-storage-area.jpg",
+        "/images/mawing/gregoria-s040-ground-floor-toilet-and-bath.jpg",
+        "/images/mawing/gregoria-s041-stairway.jpg",
+        "/images/mawing/gregoria-s042-second-floor-toilet-and-bath.jpg",
+        "/images/mawing/gregoria-s043-bedroom.jpg",
+        "/images/mawing/gregoria-s044-bedroom.jpg",
+        "/images/mawing/gregoria-s045-bedroom.jpg",
+        "/images/mawing/gregoria-s046-bedroom-with-balcony-access.jpg",
+        "/images/mawing/gregoria-s047-balcony.jpg",
+        "/images/mawing/gregoria-s063-exterior-architectural-perspective.png"
+      ],
+      "missing": [
+        "Current quotation and availability",
+        "Written turnover inclusions",
+        "Contract-specific completion/turnover",
+        "Room dimensions and exact offered lot plan"
+      ]
+    },
+    {
+      "id": "mawing-gerardo",
+      "projectId": "mawing-residences",
+      "name": "Gerardo",
+      "category": "Single Attached",
+      "storeys": 2,
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "parkingSlots": 1,
+      "floorAreaSqm": 92,
+      "floorAreaQualifier": "Approximate (+/- 92 sqm in source)",
+      "lotAreaSqm": 96,
+      "features": [
+        "Living and dining areas",
+        "Formal kitchen",
+        "Service / dirty kitchen area",
+        "Laundry area",
+        "Storage area",
+        "Balcony",
+        "Porch",
+        "Carport"
+      ],
+      "source": "S102 page 12; S013",
+      "floorPlans": [
+        "/images/mawing/gerardo-plan.png"
+      ],
+      "layout": "Ground floor: living, dining, kitchen, common toilet and bath, service/laundry and carport. Second floor: three bedrooms, common toilet and bath and balcony. See the model-specific source sheet for arrangement.",
+      "roomDimensions": "Not found in the provided files.",
+      "description": "Gerardo is a two-storey single-attached home with three bedrooms, two toilets and baths, a balcony and one carport. The source model sheet identifies a 96 sqm lot and approximately 92 sqm of floor area.",
+      "inclusionsNote": "Furnished package advertised in S013 / S102 page 16. Photographs show varying fit-out stages; furniture, appliances and finishes must be confirmed in the written offer.",
+      "price": 5958750,
+      "currency": "PHP",
+      "priceType": "Dated 96 sqm package reference, not a current quotation or starting-price promise",
+      "priceDate": "2026-10-08",
+      "priceSource": "S101 (public package-price portion only; source lot identifiers and availability removed)",
+      "gallery": [
+        "/images/mawing/gerardo-s011-model-promotional-flyer.jpg",
+        "/images/mawing/gerardo-s014-front-exterior.jpg",
+        "/images/mawing/gerardo-s015-front-garden.jpg",
+        "/images/mawing/gerardo-s016-carport.jpg",
+        "/images/mawing/gerardo-s017-service-and-laundry-area.jpg",
+        "/images/mawing/gerardo-s018-living-area.jpg",
+        "/images/mawing/gerardo-s019-living-and-dining-area.jpg",
+        "/images/mawing/gerardo-s020-living-and-kitchen-area.jpg",
+        "/images/mawing/gerardo-s021-kitchen.jpg",
+        "/images/mawing/gerardo-s022-storage-area.jpg",
+        "/images/mawing/gerardo-s023-ground-floor-toilet-and-bath.jpg",
+        "/images/mawing/gerardo-s024-stairway.jpg",
+        "/images/mawing/gerardo-s025-second-floor-toilet-and-bath.jpg",
+        "/images/mawing/gerardo-s026-bedroom.jpg",
+        "/images/mawing/gerardo-s027-bedroom.jpg",
+        "/images/mawing/gerardo-s028-bedroom.jpg",
+        "/images/mawing/gerardo-s029-bedroom-with-balcony-access.jpg",
+        "/images/mawing/gerardo-s030-balcony.jpg",
+        "/images/mawing/gerardo-s062-exterior-architectural-perspective.png"
+      ],
+      "missing": [
+        "Current quotation and availability",
+        "Written turnover inclusions",
+        "Contract-specific completion/turnover",
+        "Room dimensions and exact offered lot plan"
+      ]
+    }
+  ],
+  "pricing": [
+    {
+      "modelId": "mawing-julieta",
+      "currency": "PHP",
+      "amount": 5958750,
+      "kind": "Dated 96 sqm package reference, not a current quotation or starting-price promise",
+      "sourceDate": "2026-10-08",
+      "context": "96 sqm package example present for each model in supplied official dated pricelist. Not all orientations, lot sizes or stages are equivalent.",
+      "source": "S101",
+      "current": false,
+      "reservationFee": null,
+      "monthlyAmortization": null,
+      "paymentOptions": [
+        "Cash",
+        "Bank financing"
+      ],
+      "financingNote": "S102 page 19 lists Pag-IBIG as on process; it is not presented as approved. Lot-specific computations and discount arrangements withheld for confidentiality review.",
+      "disclaimer": "Pricing may change at any time. Contact JMG Realty PH for current prices."
+    },
+    {
+      "modelId": "mawing-gregoria",
+      "currency": "PHP",
+      "amount": 5958750,
+      "kind": "Dated 96 sqm package reference, not a current quotation or starting-price promise",
+      "sourceDate": "2026-10-08",
+      "context": "96 sqm package example present for each model in supplied official dated pricelist. Not all orientations, lot sizes or stages are equivalent.",
+      "source": "S101",
+      "current": false,
+      "reservationFee": null,
+      "monthlyAmortization": null,
+      "paymentOptions": [
+        "Cash",
+        "Bank financing"
+      ],
+      "financingNote": "S102 page 19 lists Pag-IBIG as on process; it is not presented as approved. Lot-specific computations and discount arrangements withheld for confidentiality review.",
+      "disclaimer": "Pricing may change at any time. Contact JMG Realty PH for current prices."
+    },
+    {
+      "modelId": "mawing-gerardo",
+      "currency": "PHP",
+      "amount": 5958750,
+      "kind": "Dated 96 sqm package reference, not a current quotation or starting-price promise",
+      "sourceDate": "2026-10-08",
+      "context": "96 sqm package example present for each model in supplied official dated pricelist. Not all orientations, lot sizes or stages are equivalent.",
+      "source": "S101",
+      "current": false,
+      "reservationFee": null,
+      "monthlyAmortization": null,
+      "paymentOptions": [
+        "Cash",
+        "Bank financing"
+      ],
+      "financingNote": "S102 page 19 lists Pag-IBIG as on process; it is not presented as approved. Lot-specific computations and discount arrangements withheld for confidentiality review.",
+      "disclaimer": "Pricing may change at any time. Contact JMG Realty PH for current prices."
+    }
+  ],
+  "amenities": [
+    {
+      "projectId": "mawing-residences",
+      "name": "Clubhouse",
+      "source": "S102 page 7",
+      "status": "Advertised; current operation unverified"
+    },
+    {
+      "projectId": "mawing-residences",
+      "name": "Basketball court",
+      "source": "S102 page 7",
+      "status": "Advertised; current operation unverified"
+    },
+    {
+      "projectId": "mawing-residences",
+      "name": "Parks",
+      "source": "S102 page 7",
+      "status": "Advertised; current operation unverified"
+    },
+    {
+      "projectId": "mawing-residences",
+      "name": "Jogging path",
+      "source": "S102 page 7",
+      "status": "Advertised; current operation unverified"
+    }
+  ],
+  "media": [
+    {
+      "sourceId": "S003",
+      "model": null,
+      "category": "render",
+      "label": "Community promotional perspective",
+      "asset": "/images/mawing/shared-s003-community-promotional-perspective.jpg",
+      "preview": "/images/mawing/shared-s003-community-promotional-perspective.webp",
+      "originalFilename": "Marketing Materials/For Ads/allinoneplace.jpg",
+      "sourceSha256": "97fa8d09ee253b433458405d349141585b4e68371a0a418a4808337c974c88c3",
+      "outputSha256": "97fa8d09ee253b433458405d349141585b4e68371a0a418a4808337c974c88c3",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S004",
+      "model": null,
+      "category": "styled photograph",
+      "label": "Styled bedroom 2",
+      "asset": "/images/mawing/shared-s004-styled-bedroom-2.jpg",
+      "preview": "/images/mawing/shared-s004-styled-bedroom-2.webp",
+      "originalFilename": "Marketing Materials/For Ads/interior 5.jpg",
+      "sourceSha256": "6b950441233ab793edaa8b2a5473468d0aa161f20b58140f33ddfe2c2c23e424",
+      "outputSha256": "6b950441233ab793edaa8b2a5473468d0aa161f20b58140f33ddfe2c2c23e424",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S005",
+      "model": null,
+      "category": "styled photograph",
+      "label": "Styled living area",
+      "asset": "/images/mawing/shared-s005-styled-living-area.jpg",
+      "preview": "/images/mawing/shared-s005-styled-living-area.webp",
+      "originalFilename": "Marketing Materials/For Ads/interior 6.jpg",
+      "sourceSha256": "fc7da9adfdc6d871a7ff3658315493cc8d7a4d64c0bbbf8fd13e1ac27a6dc692",
+      "outputSha256": "fc7da9adfdc6d871a7ff3658315493cc8d7a4d64c0bbbf8fd13e1ac27a6dc692",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S006",
+      "model": null,
+      "category": "styled photograph",
+      "label": "Styled main bedroom",
+      "asset": "/images/mawing/shared-s006-styled-main-bedroom.jpg",
+      "preview": "/images/mawing/shared-s006-styled-main-bedroom.webp",
+      "originalFilename": "Marketing Materials/For Ads/interior1.jpg",
+      "sourceSha256": "e1cd1d31a193a4a8a283910633397edcc9b6bc9042e0372931b773e1038cf27b",
+      "outputSha256": "e1cd1d31a193a4a8a283910633397edcc9b6bc9042e0372931b773e1038cf27b",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S007",
+      "model": null,
+      "category": "styled photograph",
+      "label": "Styled dining area",
+      "asset": "/images/mawing/shared-s007-styled-dining-area.jpg",
+      "preview": "/images/mawing/shared-s007-styled-dining-area.webp",
+      "originalFilename": "Marketing Materials/For Ads/interior2.jpg",
+      "sourceSha256": "23f85bdd4e7fc5a285b71909481274d9b06f7192479f5a60557e4fed12613906",
+      "outputSha256": "23f85bdd4e7fc5a285b71909481274d9b06f7192479f5a60557e4fed12613906",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S008",
+      "model": null,
+      "category": "styled photograph",
+      "label": "Styled bedroom 3",
+      "asset": "/images/mawing/shared-s008-styled-bedroom-3.jpg",
+      "preview": "/images/mawing/shared-s008-styled-bedroom-3.webp",
+      "originalFilename": "Marketing Materials/For Ads/interior3.jpg",
+      "sourceSha256": "ce82e4f0b14a1a8fb1c2d48966b0f33807c838acb6b06432455e8308a2561a00",
+      "outputSha256": "ce82e4f0b14a1a8fb1c2d48966b0f33807c838acb6b06432455e8308a2561a00",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S009",
+      "model": null,
+      "category": "styled photograph",
+      "label": "Styled bedroom 2",
+      "asset": "/images/mawing/shared-s004-styled-bedroom-2.jpg",
+      "preview": "/images/mawing/shared-s004-styled-bedroom-2.webp",
+      "originalFilename": "Marketing Materials/For Ads/interior4.jpg",
+      "sourceSha256": "6b950441233ab793edaa8b2a5473468d0aa161f20b58140f33ddfe2c2c23e424",
+      "outputSha256": "6b950441233ab793edaa8b2a5473468d0aa161f20b58140f33ddfe2c2c23e424",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": "S004",
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S010",
+      "model": "gregoria",
+      "category": "render",
+      "label": "Gregoria - Model promotional flyer",
+      "asset": "/images/mawing/gregoria-s010-model-promotional-flyer.jpg",
+      "preview": "/images/mawing/gregoria-s010-model-promotional-flyer.webp",
+      "originalFilename": "Marketing Materials/For Ads/unit1.jpg",
+      "sourceSha256": "d484dad2dae12976b39e050a272b23bfd773c8459281119eecdf075065f13616",
+      "outputSha256": "d484dad2dae12976b39e050a272b23bfd773c8459281119eecdf075065f13616",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S011",
+      "model": "gerardo",
+      "category": "render",
+      "label": "Gerardo - Model promotional flyer",
+      "asset": "/images/mawing/gerardo-s011-model-promotional-flyer.jpg",
+      "preview": "/images/mawing/gerardo-s011-model-promotional-flyer.webp",
+      "originalFilename": "Marketing Materials/For Ads/unit2.jpg",
+      "sourceSha256": "2e04fb8fac5d3054e7cb09f3aa88076f53c1a2a09ad859ede0e9b9af0ddc039b",
+      "outputSha256": "2e04fb8fac5d3054e7cb09f3aa88076f53c1a2a09ad859ede0e9b9af0ddc039b",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S012",
+      "model": "julieta",
+      "category": "render",
+      "label": "Julieta - Model promotional flyer",
+      "asset": "/images/mawing/julieta-s012-model-promotional-flyer.jpg",
+      "preview": "/images/mawing/julieta-s012-model-promotional-flyer.webp",
+      "originalFilename": "Marketing Materials/For Ads/unit3.jpg",
+      "sourceSha256": "8418044b962cb9aa9cdfb257291732331f1c7d29aa70d24b81c5bbb3fc6f3c2a",
+      "outputSha256": "8418044b962cb9aa9cdfb257291732331f1c7d29aa70d24b81c5bbb3fc6f3c2a",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S014",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Front exterior",
+      "asset": "/images/mawing/gerardo-s014-front-exterior.jpg",
+      "preview": "/images/mawing/gerardo-s014-front-exterior.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3160.HEIC",
+      "sourceSha256": "33f01272aceb88aa8846b31ee4b5192c4fc59de53d24241c788f5eb76bc1733e",
+      "outputSha256": "d665e7cacd172e8fa318c1d98b86aa7810eea0617822a063e3b5d112b6c025fb",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S015",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Front garden",
+      "asset": "/images/mawing/gerardo-s015-front-garden.jpg",
+      "preview": "/images/mawing/gerardo-s015-front-garden.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3162.HEIC",
+      "sourceSha256": "4c67018ab7460713aea95bc442dcd00adffe90ea02fb97eaa36be61da6ac58b6",
+      "outputSha256": "f40738a93f79ee29450325424fc7dd431c0a96bbb9ecd30289354ced5792d359",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S016",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Carport",
+      "asset": "/images/mawing/gerardo-s016-carport.jpg",
+      "preview": "/images/mawing/gerardo-s016-carport.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3163.HEIC",
+      "sourceSha256": "b12e37959b99964fe16522a2c77a95393e7e4ec1351396b8e92ba16ca12e34b6",
+      "outputSha256": "fe526323ba44a96984037f2ae80ca0fe1854fdbf1c78c5aa0cd3c1080b522a20",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S017",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Service and laundry area",
+      "asset": "/images/mawing/gerardo-s017-service-and-laundry-area.jpg",
+      "preview": "/images/mawing/gerardo-s017-service-and-laundry-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3164.HEIC",
+      "sourceSha256": "9841888d6670f67a7b39e2264f2611b741fba3097332317a6548fec638ab4d28",
+      "outputSha256": "25f2cad41785c5fa60d6fbb44d71c7884bff00ff526873c5425becb74097a108",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S018",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Living area",
+      "asset": "/images/mawing/gerardo-s018-living-area.jpg",
+      "preview": "/images/mawing/gerardo-s018-living-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3165.HEIC",
+      "sourceSha256": "fc9105b3e81f7a6cb0bd13a8f2a7bdfebe634b60ca81099d3ae87f0dd38c2e93",
+      "outputSha256": "e5b1490522a6aa2b27c92378ed4f770b700e3d713b0265bec5e972c99dce6d28",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S019",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Living and dining area",
+      "asset": "/images/mawing/gerardo-s019-living-and-dining-area.jpg",
+      "preview": "/images/mawing/gerardo-s019-living-and-dining-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3166.HEIC",
+      "sourceSha256": "45f45a1a82de2a953d29baf1bc4062476e204dac39d2db7399c31d9834d21efc",
+      "outputSha256": "0f3d1112388509578ea4831570870562b1a242a7dc26a45b9804dfc4900f058b",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S020",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Living and kitchen area",
+      "asset": "/images/mawing/gerardo-s020-living-and-kitchen-area.jpg",
+      "preview": "/images/mawing/gerardo-s020-living-and-kitchen-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3167.HEIC",
+      "sourceSha256": "48f4cc2fb2385851acb4d0b02e4beb2d777b302e219bfdc1d496076d556de8a5",
+      "outputSha256": "4092cb52fe0d3b9249b748aec1acc941db38b96e3373e542bd385e47ee2e2ef6",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S021",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Kitchen",
+      "asset": "/images/mawing/gerardo-s021-kitchen.jpg",
+      "preview": "/images/mawing/gerardo-s021-kitchen.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3168.HEIC",
+      "sourceSha256": "e676ef798409b1adcf01865945f7750745ad6a06092251813cbf7c871942d800",
+      "outputSha256": "667a213867dd774ad4da3dfeb6ad886b614e882bd427f98efe9c1305452dd923",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S022",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Storage area",
+      "asset": "/images/mawing/gerardo-s022-storage-area.jpg",
+      "preview": "/images/mawing/gerardo-s022-storage-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3169.HEIC",
+      "sourceSha256": "24c2630e1c477d23ee04a127d6c511d5bf6a93ef3c75b14ad6eaa42cdcf0774d",
+      "outputSha256": "0be8e4dff06a4b19b789d7579970807a9644c232e52f957c281334843069f8a5",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S023",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Ground-floor toilet and bath",
+      "asset": "/images/mawing/gerardo-s023-ground-floor-toilet-and-bath.jpg",
+      "preview": "/images/mawing/gerardo-s023-ground-floor-toilet-and-bath.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3170.HEIC",
+      "sourceSha256": "c5e761753eb35b4fc1912403517bc5cc85660484f6234935ad749fab3dfc7557",
+      "outputSha256": "9b47b5fa920549e6b39d83041a65589eeabe6c41a0f275a6990898315b838f8d",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S024",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Stairway",
+      "asset": "/images/mawing/gerardo-s024-stairway.jpg",
+      "preview": "/images/mawing/gerardo-s024-stairway.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3171.HEIC",
+      "sourceSha256": "2f948569a648be0014c6a278e17da6476ed310c81357e8173140ce324e68eb9c",
+      "outputSha256": "4f4b392f6e2290c3f9ebd1e99e99ec04e547d18fa45a073b845c0fea15b56e23",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S025",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Second-floor toilet and bath",
+      "asset": "/images/mawing/gerardo-s025-second-floor-toilet-and-bath.jpg",
+      "preview": "/images/mawing/gerardo-s025-second-floor-toilet-and-bath.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3172.HEIC",
+      "sourceSha256": "f6752e082ff6a97920ab8f40c915eabc208ee3602b21adf4d08788b7bd9461f6",
+      "outputSha256": "63401cacf838125393a5794cf1df75a879f4e16dd683f5850f93583ca6266161",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S026",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Bedroom",
+      "asset": "/images/mawing/gerardo-s026-bedroom.jpg",
+      "preview": "/images/mawing/gerardo-s026-bedroom.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3173.HEIC",
+      "sourceSha256": "5457ae8347937f22b097ae52e5ac0c1747563893783b341457457854d0b89250",
+      "outputSha256": "e98556987a7b31db2e55fa8b50c14bdb020cfd35c847052cccdc108730111aa0",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S027",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Bedroom",
+      "asset": "/images/mawing/gerardo-s027-bedroom.jpg",
+      "preview": "/images/mawing/gerardo-s027-bedroom.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3174.HEIC",
+      "sourceSha256": "24db0590ca1e3fd1b6b37ffe07e9f45b9c6a0814a3d8d80f2026d34549a3a494",
+      "outputSha256": "ed7f251cf81156e7a89767dd0cd8a9e555dc81d8d9595c615f9c00d604a4718c",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S028",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Bedroom",
+      "asset": "/images/mawing/gerardo-s028-bedroom.jpg",
+      "preview": "/images/mawing/gerardo-s028-bedroom.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3175.HEIC",
+      "sourceSha256": "0b8172f85c65c65887316ab1726fd2ae71eadb6786cd04bb3a7de7a74bae7823",
+      "outputSha256": "252ded5c6cdcb8df7b92953148c6dd4c3c59f7c6409976dfd7a832923a5c4b26",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S029",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Bedroom with balcony access",
+      "asset": "/images/mawing/gerardo-s029-bedroom-with-balcony-access.jpg",
+      "preview": "/images/mawing/gerardo-s029-bedroom-with-balcony-access.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3176.HEIC",
+      "sourceSha256": "c860754b2daa05e981d92fd75fe5f86a12c32cab838e3a036472c9c7566eba84",
+      "outputSha256": "6dead5838cd3395c925d8f62b617d8e4b84ad321828a9fdc1359f27fe8a67241",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S030",
+      "model": "gerardo",
+      "category": "photograph",
+      "label": "Gerardo - Balcony",
+      "asset": "/images/mawing/gerardo-s030-balcony.jpg",
+      "preview": "/images/mawing/gerardo-s030-balcony.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3177.HEIC",
+      "sourceSha256": "f7102068a389536f69c12e0d2865e3bf4c6be27af8b2d4f548b1e66665ed21d5",
+      "outputSha256": "f3a333b293df9850e9e8aa6ea049479f5bd8726aa280c95251a195b758c0988c",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S031",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Front exterior",
+      "asset": "/images/mawing/gregoria-s031-front-exterior.jpg",
+      "preview": "/images/mawing/gregoria-s031-front-exterior.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3137.HEIC",
+      "sourceSha256": "1892140c5aeb0dfe9ab6db60c15cb740029ee43f247347717ab09accc439f237",
+      "outputSha256": "2820d85dba9c954c89939fec52a6ef4f8f4083200d18fd934040d36e6a8856cd",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S032",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Front garden",
+      "asset": "/images/mawing/gregoria-s032-front-garden.jpg",
+      "preview": "/images/mawing/gregoria-s032-front-garden.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3138.HEIC",
+      "sourceSha256": "87306480d067a671bd8c74f3ab75a8c5aa6bdb3529c5b2d0e888699eb73e8d0f",
+      "outputSha256": "1984583116d8c31c107608a0d93dfb3ed13f5c5362d77283c23fd56ce719037d",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S033",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Carport",
+      "asset": "/images/mawing/gregoria-s033-carport.jpg",
+      "preview": "/images/mawing/gregoria-s033-carport.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3139.HEIC",
+      "sourceSha256": "0db274842a06b417d1e3f3e857af68c3355396c7b7c13dc1dc51e74810c04926",
+      "outputSha256": "20014fdd1cb1dde0506b30bc8587d49ebd09fcc21e2a45ce6b7809f536f9b46f",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S034",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Service and laundry area",
+      "asset": "/images/mawing/gregoria-s034-service-and-laundry-area.jpg",
+      "preview": "/images/mawing/gregoria-s034-service-and-laundry-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3140.HEIC",
+      "sourceSha256": "e4857aa23a0e5444432d331dbc0c37defae2cec25fd41c283cb70ff9e73a505c",
+      "outputSha256": "6eb6f5579ac96e9ee34fe0ddb87f4e683e34c2daca29f47c42a4bd76483cf87c",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S035",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Living area",
+      "asset": "/images/mawing/gregoria-s035-living-area.jpg",
+      "preview": "/images/mawing/gregoria-s035-living-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3141.HEIC",
+      "sourceSha256": "fecc42d95a3d19bc264a737a7d7ea85af68696473ac82a1e7dcb57770c5f68b7",
+      "outputSha256": "a93500543328d53c319cd40299b85c6f06fd6b7118e0380417b9dd811afc4ff1",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S036",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Living and dining area",
+      "asset": "/images/mawing/gregoria-s036-living-and-dining-area.jpg",
+      "preview": "/images/mawing/gregoria-s036-living-and-dining-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3142.HEIC",
+      "sourceSha256": "7350a8e7f187d243c8ec79b3fec86071744452500858041b17781787ace5ea46",
+      "outputSha256": "e50567dcfbf80ae72b816168f5c8cfe8e5063a3d055006a09e85cbb08c024eae",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S037",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Living and kitchen area",
+      "asset": "/images/mawing/gregoria-s037-living-and-kitchen-area.jpg",
+      "preview": "/images/mawing/gregoria-s037-living-and-kitchen-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3143.HEIC",
+      "sourceSha256": "d1bebe4c8a43235ffe1d3eab5192a2214ff9cb57f72eab438b2f48d578cb6596",
+      "outputSha256": "8e3709504fca442f4384a892969b99ae259a38c68151bc108f8676ff7c63b1e2",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S038",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Kitchen",
+      "asset": "/images/mawing/gregoria-s038-kitchen.jpg",
+      "preview": "/images/mawing/gregoria-s038-kitchen.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3144.HEIC",
+      "sourceSha256": "0fb4ce9e11e6755d4fe0289962521164e18f8d25b73b6b22b7d46d5769d8f6f1",
+      "outputSha256": "ff5a82e2fccd5e4443f879258888aae31a984d346aa5fcf7412008cce54fe748",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S039",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Storage area",
+      "asset": "/images/mawing/gregoria-s039-storage-area.jpg",
+      "preview": "/images/mawing/gregoria-s039-storage-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3145.HEIC",
+      "sourceSha256": "2847f42a337d4016747c89e3fc75da0a451040000e63f32ecbcce58ce48f425b",
+      "outputSha256": "3a4c8356d643a034d2d923e439280c80c61a9b48948d9fd96377b598b6f0379d",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S040",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Ground-floor toilet and bath",
+      "asset": "/images/mawing/gregoria-s040-ground-floor-toilet-and-bath.jpg",
+      "preview": "/images/mawing/gregoria-s040-ground-floor-toilet-and-bath.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3146.HEIC",
+      "sourceSha256": "766c32a4f6ddedab5c37a1d1f87f14b06e3a45fc0279136c279a3f64179cfae4",
+      "outputSha256": "dc3435a6b4ee558fe73166ec8e78af04b4a3190de090169edacbae333a5704b4",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S041",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Stairway",
+      "asset": "/images/mawing/gregoria-s041-stairway.jpg",
+      "preview": "/images/mawing/gregoria-s041-stairway.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3147.HEIC",
+      "sourceSha256": "d31ef2bc9d2ed9122225a5207d05bbbd2ce62340fcd5c48ae448763bfa6443e8",
+      "outputSha256": "fa258a8e409d4d80ca8a109b26efc839253146ca127c5c5dd73ded3b73870f05",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S042",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Second-floor toilet and bath",
+      "asset": "/images/mawing/gregoria-s042-second-floor-toilet-and-bath.jpg",
+      "preview": "/images/mawing/gregoria-s042-second-floor-toilet-and-bath.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3148.HEIC",
+      "sourceSha256": "6d9d59d38a6267fdcceaa19ce6cd418a636531ed2fe1f5cbbf82e4649851be3a",
+      "outputSha256": "8d111102d6e97c48a0f470ba31551e1b68a42032ed9daf51ab1761d2c9f9d573",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S043",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Bedroom",
+      "asset": "/images/mawing/gregoria-s043-bedroom.jpg",
+      "preview": "/images/mawing/gregoria-s043-bedroom.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3149.HEIC",
+      "sourceSha256": "f0e9db827f6a79aa1b180c6a202dcc632725e642c7943db4cca904129238f171",
+      "outputSha256": "83da07ff3f51687269d32cd5e69bb3eab9964933389641b38c6e0a1ae0052f5f",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S044",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Bedroom",
+      "asset": "/images/mawing/gregoria-s044-bedroom.jpg",
+      "preview": "/images/mawing/gregoria-s044-bedroom.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3150.HEIC",
+      "sourceSha256": "def90943f04e1f9a94d9c823a8e2aa51063ac9e3af369fed04dd0bfab364c3cc",
+      "outputSha256": "631762d1d7f78a74785f2e751b376b5b0600ee7c8fb5cd09e3f14085a6638ee8",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S045",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Bedroom",
+      "asset": "/images/mawing/gregoria-s045-bedroom.jpg",
+      "preview": "/images/mawing/gregoria-s045-bedroom.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3151.HEIC",
+      "sourceSha256": "decc810e281eac6077c0578d21435aa7f75f7f1fb26bf1eb38200d60b9e75dbe",
+      "outputSha256": "51a514fe2d4c7c10cb24bdbeb554c4052f1b80bdd521ddeeb721828ec4a681e9",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S046",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Bedroom with balcony access",
+      "asset": "/images/mawing/gregoria-s046-bedroom-with-balcony-access.jpg",
+      "preview": "/images/mawing/gregoria-s046-bedroom-with-balcony-access.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3152.HEIC",
+      "sourceSha256": "2f23f7e9e5d8847ee37fea4fb428c478f237113a020d8311a03387f36fe65c43",
+      "outputSha256": "2a953f38ac00b1644ecba6e782acd697d807e55c91c4955c763ca9264143b547",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S047",
+      "model": "gregoria",
+      "category": "photograph",
+      "label": "Gregoria - Balcony",
+      "asset": "/images/mawing/gregoria-s047-balcony.jpg",
+      "preview": "/images/mawing/gregoria-s047-balcony.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3154.HEIC",
+      "sourceSha256": "674e2ffd57a650048b8c0f8a6c108d60a6689315e381267af9bef390c2d79f11",
+      "outputSha256": "afd3b89a02ca3c3693dac06123c517a8ddbbbf576a0522ebc111e496404135e6",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S048",
+      "model": "julieta",
+      "category": "photograph",
+      "label": "Julieta - Front exterior",
+      "asset": "/images/mawing/julieta-s048-front-exterior.jpg",
+      "preview": "/images/mawing/julieta-s048-front-exterior.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3181.HEIC",
+      "sourceSha256": "13784e96391dd32ca42afc1d74ae3767ab61a104f2f6febdd175c1153c348d99",
+      "outputSha256": "74c4039936e3395f6f022209b8cec3ef8f324ee3e4e5e78e9ae755ae227bffef",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S049",
+      "model": "julieta",
+      "category": "photograph",
+      "label": "Julieta - Living area",
+      "asset": "/images/mawing/julieta-s049-living-area.jpg",
+      "preview": "/images/mawing/julieta-s049-living-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3182.HEIC",
+      "sourceSha256": "27c38fa0ef1abfa5a21b39fbc9dec3ecef095314e3bab35d1cc87609fa7651d4",
+      "outputSha256": "22a6aa82b51d59be8d59da13591a60988bf12a4b41f08782afea624f52b0b4c5",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S050",
+      "model": "julieta",
+      "category": "photograph",
+      "label": "Julieta - Living and dining area",
+      "asset": "/images/mawing/julieta-s050-living-and-dining-area.jpg",
+      "preview": "/images/mawing/julieta-s050-living-and-dining-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3184.HEIC",
+      "sourceSha256": "b7c80fe2d98fe294307c01fb10b5cbd0c7d52451822cfc61afafb5800606a593",
+      "outputSha256": "6db36b4059e207ff2558b55de6faf4495bfac7539f1299aa05aecc0ca4da5905",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S051",
+      "model": "julieta",
+      "category": "photograph",
+      "label": "Julieta - Kitchen",
+      "asset": "/images/mawing/julieta-s051-kitchen.jpg",
+      "preview": "/images/mawing/julieta-s051-kitchen.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3185.HEIC",
+      "sourceSha256": "4e10fa13e40d0724232bbf84988c4e173893cffc6d6c67fcb2d2e7585b6635bf",
+      "outputSha256": "4b3e762904d4e0ce595e8b287fdb3569d90d06f4bfac444510c74e78db2665a8",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S052",
+      "model": "julieta",
+      "category": "photograph",
+      "label": "Julieta - Storage area",
+      "asset": "/images/mawing/julieta-s052-storage-area.jpg",
+      "preview": "/images/mawing/julieta-s052-storage-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3186.HEIC",
+      "sourceSha256": "1cd85361ad9d5f5035b754d1536b3959641a66c7c6761dafdfae7534b70c1ce4",
+      "outputSha256": "10787359f00b163443744041d5a0bd2652f2bbfc661b5ae520befecb664c8917",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S053",
+      "model": "julieta",
+      "category": "photograph",
+      "label": "Julieta - Ground-floor toilet and bath",
+      "asset": "/images/mawing/julieta-s053-ground-floor-toilet-and-bath.jpg",
+      "preview": "/images/mawing/julieta-s053-ground-floor-toilet-and-bath.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3187.HEIC",
+      "sourceSha256": "f8cc88c6390c54dc8961d92584ae1537832d6e6c7910a805d5e81d62740adf21",
+      "outputSha256": "05e46e60d7a1dd951d9b71257b420776151a02d784d2e00a35e713f2fe0fa9af",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S054",
+      "model": "julieta",
+      "category": "photograph",
+      "label": "Julieta - Service and laundry area",
+      "asset": "/images/mawing/julieta-s054-service-and-laundry-area.jpg",
+      "preview": "/images/mawing/julieta-s054-service-and-laundry-area.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3188.HEIC",
+      "sourceSha256": "1062c127d68239eb102164bd96530968fba4cb8dac04518d7a93ca56fa76929f",
+      "outputSha256": "be4449c90e51b02f0d7b898991c23545c87faeb3021bf388f9150777c5df0987",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S055",
+      "model": "julieta",
+      "category": "photograph",
+      "label": "Julieta - Second-floor toilet and bath",
+      "asset": "/images/mawing/julieta-s055-second-floor-toilet-and-bath.jpg",
+      "preview": "/images/mawing/julieta-s055-second-floor-toilet-and-bath.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3189.HEIC",
+      "sourceSha256": "3601757b9228bc4abba29fdec6af87299b0dc5881d855f374ad15fb4353d3423",
+      "outputSha256": "040019d469767853408b019db37d7b5baac8604cc1048ff484b4b3f45c2d5a4e",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S056",
+      "model": "julieta",
+      "category": "photograph",
+      "label": "Julieta - Bedroom",
+      "asset": "/images/mawing/julieta-s056-bedroom.jpg",
+      "preview": "/images/mawing/julieta-s056-bedroom.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3190.HEIC",
+      "sourceSha256": "bb6758fb8da931f3904112102705cb968f0bbd7c6f48899713ca6b1e96ba9c29",
+      "outputSha256": "0af2212509ba4686d861fa8265fb5a5a4689fb66a960fb378cbf3e31f3d99ae7",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S057",
+      "model": "julieta",
+      "category": "photograph",
+      "label": "Julieta - Bedroom",
+      "asset": "/images/mawing/julieta-s057-bedroom.jpg",
+      "preview": "/images/mawing/julieta-s057-bedroom.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3191.HEIC",
+      "sourceSha256": "afc4f879470cf07002cac89f0b6a7710a1ce1f97cc62a7c0442f9d614650761f",
+      "outputSha256": "6e888b7c54fff883b1fab22bcd6e3af58e5784a4da822be7db014eac5f1168ac",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S058",
+      "model": "julieta",
+      "category": "photograph",
+      "label": "Julieta - Bedroom",
+      "asset": "/images/mawing/julieta-s058-bedroom.jpg",
+      "preview": "/images/mawing/julieta-s058-bedroom.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3192.HEIC",
+      "sourceSha256": "58a0b7fe3dca6dd9f0f35c684087b7724071a8c5f235268dd0d523b17300c08d",
+      "outputSha256": "f0a4330c15030b032c633a9cd888cb7becda4f104012cc994d0c3c3d4e005613",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S059",
+      "model": "julieta",
+      "category": "photograph",
+      "label": "Julieta - Bedroom with balcony access",
+      "asset": "/images/mawing/julieta-s059-bedroom-with-balcony-access.jpg",
+      "preview": "/images/mawing/julieta-s059-bedroom-with-balcony-access.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3193.HEIC",
+      "sourceSha256": "2de02c52cc4acbf7d00a5f560f4f210a26fb3a8fc1fbcdbea0d7a523b0956292",
+      "outputSha256": "fddddcee72fc5ed71770be2fde8459039b6dffa1183e468ca1a7670fc816a2dc",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S060",
+      "model": "julieta",
+      "category": "photograph",
+      "label": "Julieta - Balcony",
+      "asset": "/images/mawing/julieta-s060-balcony.jpg",
+      "preview": "/images/mawing/julieta-s060-balcony.webp",
+      "originalFilename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3195.HEIC",
+      "sourceSha256": "beaad4e2f72360887e9e54adb76eb2db08fadc08bbf8c5d108a9003139e0735b",
+      "outputSha256": "3ed6cb8727b72a9ff1eee9c4a2ff7d8950360dcc7282d609d22a9b0739238092",
+      "preservation": "Full-resolution JPEG conversion; GPS and EXIF removed. Source HEIC retained only in the supplied folder.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S061",
+      "model": "julieta",
+      "category": "render",
+      "label": "Julieta - Exterior architectural perspective",
+      "asset": "/images/mawing/julieta-s061-exterior-architectural-perspective.png",
+      "preview": "/images/mawing/julieta-s061-exterior-architectural-perspective.webp",
+      "originalFilename": "Marketing Materials/Rendered Photos/Exterior/10.png",
+      "sourceSha256": "0449a106f6d132eae63d887172f859e01b009e8a575b657fa3e474ae9bd147d7",
+      "outputSha256": "0449a106f6d132eae63d887172f859e01b009e8a575b657fa3e474ae9bd147d7",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S062",
+      "model": "gerardo",
+      "category": "render",
+      "label": "Gerardo - Exterior architectural perspective",
+      "asset": "/images/mawing/gerardo-s062-exterior-architectural-perspective.png",
+      "preview": "/images/mawing/gerardo-s062-exterior-architectural-perspective.webp",
+      "originalFilename": "Marketing Materials/Rendered Photos/Exterior/11.png",
+      "sourceSha256": "a637b0e89d42e33367a54a18140b95e2cc0aa2e00d95d0bbf248275419303105",
+      "outputSha256": "a637b0e89d42e33367a54a18140b95e2cc0aa2e00d95d0bbf248275419303105",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S063",
+      "model": "gregoria",
+      "category": "render",
+      "label": "Gregoria - Exterior architectural perspective",
+      "asset": "/images/mawing/gregoria-s063-exterior-architectural-perspective.png",
+      "preview": "/images/mawing/gregoria-s063-exterior-architectural-perspective.webp",
+      "originalFilename": "Marketing Materials/Rendered Photos/Exterior/12.png",
+      "sourceSha256": "1b4100fadaa2468c8ef9a16bdceb4916fd53c2e0542d19ae537bb017840c7e16",
+      "outputSha256": "1b4100fadaa2468c8ef9a16bdceb4916fd53c2e0542d19ae537bb017840c7e16",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Supplied model folder / caption"
+    },
+    {
+      "sourceId": "S064",
+      "model": null,
+      "category": "render",
+      "label": "Three-model streetscape perspective",
+      "asset": "/images/mawing/shared-s064-three-model-streetscape-perspective.png",
+      "preview": "/images/mawing/shared-s064-three-model-streetscape-perspective.webp",
+      "originalFilename": "Marketing Materials/Rendered Photos/Exterior/13.png",
+      "sourceSha256": "902ceaf5ee12e50ce5f1ba78eb543ab9ab396dc4d0fbcda85be2db63c89d7722",
+      "outputSha256": "902ceaf5ee12e50ce5f1ba78eb543ab9ab396dc4d0fbcda85be2db63c89d7722",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S065",
+      "model": null,
+      "category": "render",
+      "label": "Shared interior architectural perspective 1",
+      "asset": "/images/mawing/shared-s065-shared-interior-architectural-perspective-1.png",
+      "preview": "/images/mawing/shared-s065-shared-interior-architectural-perspective-1.webp",
+      "originalFilename": "Marketing Materials/Rendered Photos/Interior/1.png",
+      "sourceSha256": "516210ae3fd71c3cbe1b1b89ce5cc2d30411bc0191284c7358f780a24cedc0ea",
+      "outputSha256": "516210ae3fd71c3cbe1b1b89ce5cc2d30411bc0191284c7358f780a24cedc0ea",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S066",
+      "model": null,
+      "category": "render",
+      "label": "Shared interior architectural perspective 2",
+      "asset": "/images/mawing/shared-s066-shared-interior-architectural-perspective-2.png",
+      "preview": "/images/mawing/shared-s066-shared-interior-architectural-perspective-2.webp",
+      "originalFilename": "Marketing Materials/Rendered Photos/Interior/2.png",
+      "sourceSha256": "e84c5d2325f23a5485e99925e4b0185ba842d080742b21a5ccd9899e2e4501a9",
+      "outputSha256": "e84c5d2325f23a5485e99925e4b0185ba842d080742b21a5ccd9899e2e4501a9",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S067",
+      "model": null,
+      "category": "render",
+      "label": "Shared interior architectural perspective 3",
+      "asset": "/images/mawing/shared-s067-shared-interior-architectural-perspective-3.png",
+      "preview": "/images/mawing/shared-s067-shared-interior-architectural-perspective-3.webp",
+      "originalFilename": "Marketing Materials/Rendered Photos/Interior/3.png",
+      "sourceSha256": "ee8a6512717af928607235679e563425e528521051d70ef6d70cf470d11bc1ae",
+      "outputSha256": "ee8a6512717af928607235679e563425e528521051d70ef6d70cf470d11bc1ae",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S068",
+      "model": null,
+      "category": "render",
+      "label": "Shared interior architectural perspective 4",
+      "asset": "/images/mawing/shared-s068-shared-interior-architectural-perspective-4.png",
+      "preview": "/images/mawing/shared-s068-shared-interior-architectural-perspective-4.webp",
+      "originalFilename": "Marketing Materials/Rendered Photos/Interior/4.png",
+      "sourceSha256": "43634deb1ae358a00ce7811f0b474f50e41c240ac2640804173deb1be6eb054f",
+      "outputSha256": "43634deb1ae358a00ce7811f0b474f50e41c240ac2640804173deb1be6eb054f",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S069",
+      "model": null,
+      "category": "render",
+      "label": "Shared interior architectural perspective 5",
+      "asset": "/images/mawing/shared-s069-shared-interior-architectural-perspective-5.png",
+      "preview": "/images/mawing/shared-s069-shared-interior-architectural-perspective-5.webp",
+      "originalFilename": "Marketing Materials/Rendered Photos/Interior/5.png",
+      "sourceSha256": "bdc900d409a4b16205d1efee34c77433380f86a01832d9638d166fa6c9ae73d7",
+      "outputSha256": "bdc900d409a4b16205d1efee34c77433380f86a01832d9638d166fa6c9ae73d7",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S070",
+      "model": null,
+      "category": "render",
+      "label": "Shared interior architectural perspective 6",
+      "asset": "/images/mawing/shared-s070-shared-interior-architectural-perspective-6.png",
+      "preview": "/images/mawing/shared-s070-shared-interior-architectural-perspective-6.webp",
+      "originalFilename": "Marketing Materials/Rendered Photos/Interior/6.png",
+      "sourceSha256": "0434502393c41374664bbdb15a10c9f0c9f2f6d5c6123eadf02695f17e2c8176",
+      "outputSha256": "0434502393c41374664bbdb15a10c9f0c9f2f6d5c6123eadf02695f17e2c8176",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S071",
+      "model": null,
+      "category": "render",
+      "label": "Shared interior architectural perspective 7",
+      "asset": "/images/mawing/shared-s071-shared-interior-architectural-perspective-7.png",
+      "preview": "/images/mawing/shared-s071-shared-interior-architectural-perspective-7.webp",
+      "originalFilename": "Marketing Materials/Rendered Photos/Interior/7.png",
+      "sourceSha256": "64fdb752fd415c728a5cf654667f4736a4c84f8907476da923b5fa7aa50fc3a7",
+      "outputSha256": "64fdb752fd415c728a5cf654667f4736a4c84f8907476da923b5fa7aa50fc3a7",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S072",
+      "model": null,
+      "category": "render",
+      "label": "Shared interior architectural perspective 8",
+      "asset": "/images/mawing/shared-s072-shared-interior-architectural-perspective-8.png",
+      "preview": "/images/mawing/shared-s072-shared-interior-architectural-perspective-8.webp",
+      "originalFilename": "Marketing Materials/Rendered Photos/Interior/8.png",
+      "sourceSha256": "7a1f5e5421a1cf4ff4e200fbc11b6344f6b7682283f2f580e47a2b596fd4cf70",
+      "outputSha256": "7a1f5e5421a1cf4ff4e200fbc11b6344f6b7682283f2f580e47a2b596fd4cf70",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S073",
+      "model": null,
+      "category": "render",
+      "label": "Shared interior architectural perspective 9",
+      "asset": "/images/mawing/shared-s073-shared-interior-architectural-perspective-9.png",
+      "preview": "/images/mawing/shared-s073-shared-interior-architectural-perspective-9.webp",
+      "originalFilename": "Marketing Materials/Rendered Photos/Interior/9.png",
+      "sourceSha256": "2599a9c05a95fd119dd69d6e247a87add36b873161516d45ba7c320de94004f0",
+      "outputSha256": "2599a9c05a95fd119dd69d6e247a87add36b873161516d45ba7c320de94004f0",
+      "preservation": "Original source bytes retained.",
+      "duplicateOf": null,
+      "association": "Model association unverified; shared project reference"
+    },
+    {
+      "sourceId": "S102",
+      "page": 10,
+      "model": "julieta",
+      "category": "floor plan",
+      "label": "Julieta model sheet and ground- and second-floor plans",
+      "asset": "/images/mawing/julieta-plan.png",
+      "preview": "/images/mawing/julieta-plan.webp",
+      "originalFilename": "Product Knowledge Seminar - Mawing Residences Sta. Cruz.pdf, page 10",
+      "outputSha256": "8863f1ebc75b3abc5f6a9cea7468c38d7ab9ffbdb1b230f6fefe2c3238590abc",
+      "preservation": "Complete unaltered source page rendered to PNG. No crop, redraw or replacement."
+    },
+    {
+      "sourceId": "S102",
+      "page": 11,
+      "model": "gregoria",
+      "category": "floor plan",
+      "label": "Gregoria model sheet and ground- and second-floor plans",
+      "asset": "/images/mawing/gregoria-plan.png",
+      "preview": "/images/mawing/gregoria-plan.webp",
+      "originalFilename": "Product Knowledge Seminar - Mawing Residences Sta. Cruz.pdf, page 11",
+      "outputSha256": "719efa71e822b2d6f67a465f4c2e322d2c03134ea04dc14db90a0b2aa57f7f93",
+      "preservation": "Complete unaltered source page rendered to PNG. No crop, redraw or replacement."
+    },
+    {
+      "sourceId": "S102",
+      "page": 12,
+      "model": "gerardo",
+      "category": "floor plan",
+      "label": "Gerardo model sheet and ground- and second-floor plans",
+      "asset": "/images/mawing/gerardo-plan.png",
+      "preview": "/images/mawing/gerardo-plan.webp",
+      "originalFilename": "Product Knowledge Seminar - Mawing Residences Sta. Cruz.pdf, page 12",
+      "outputSha256": "8f1513d869ad33c4565aadc40334bdbb53b2a5e46a1cfb4b054754fb3bc3fab3",
+      "preservation": "Complete unaltered source page rendered to PNG. No crop, redraw or replacement."
+    },
+    {
+      "sourceId": "S102",
+      "page": 7,
+      "model": null,
+      "category": "marketing document",
+      "label": "Advertised community amenities",
+      "asset": "/images/mawing/amenities.png",
+      "preview": "/images/mawing/amenities.webp",
+      "originalFilename": "Product Knowledge Seminar - Mawing Residences Sta. Cruz.pdf, page 7",
+      "outputSha256": "ca462b00c6ec3fa9ed4912b20f2c7d29784fafabd60c108d3b90a4b17fad0d7c",
+      "preservation": "Complete unaltered source page rendered to PNG. No crop, redraw or replacement."
+    },
+    {
+      "sourceId": "S102",
+      "page": 5,
+      "model": null,
+      "category": "marketing document",
+      "label": "Original schematic vicinity map",
+      "asset": "/images/mawing/vicinity.png",
+      "preview": "/images/mawing/vicinity.webp",
+      "originalFilename": "Product Knowledge Seminar - Mawing Residences Sta. Cruz.pdf, page 5",
+      "outputSha256": "79696b97ac9a728583bbe42c1335138ca5ece185b9ef496d35d04699ea3a859b",
+      "preservation": "Complete unaltered source page rendered to PNG. No crop, redraw or replacement."
+    },
+    {
+      "sourceId": "S102",
+      "page": 16,
+      "model": null,
+      "category": "marketing document",
+      "label": "Advertised furnished package inclusions",
+      "asset": "/images/mawing/inclusions.png",
+      "preview": "/images/mawing/inclusions.webp",
+      "originalFilename": "Product Knowledge Seminar - Mawing Residences Sta. Cruz.pdf, page 16",
+      "outputSha256": "ba987f63830dded824322fb6fbe7764187adf4472467ac33af3188035ad78a2b",
+      "preservation": "Complete unaltered source page rendered to PNG. No crop, redraw or replacement."
+    },
+    {
+      "sourceId": "S102",
+      "page": 19,
+      "model": null,
+      "category": "marketing document",
+      "label": "Advertised financing options",
+      "asset": "/images/mawing/financing.png",
+      "preview": "/images/mawing/financing.webp",
+      "originalFilename": "Product Knowledge Seminar - Mawing Residences Sta. Cruz.pdf, page 19",
+      "outputSha256": "3bd7e3998bc49dfb89ff810aea2b7f8f380644a63e8caf40adc910709b6147da",
+      "preservation": "Complete unaltered source page rendered to PNG. No crop, redraw or replacement."
+    }
+  ],
+  "verification": [
+    {
+      "id": "V01",
+      "topic": "Prices",
+      "observation": "The dated pricelist and computation sheets identify individual lots. Only a generic 96 sqm package-price reference is released.",
+      "action": "Obtain current public model-level quotations.",
+      "source": "S101; S075-S100"
+    },
+    {
+      "id": "V02",
+      "topic": "Promotions and financing",
+      "observation": "Lot-specific computations contain dated schedules, different financing assumptions and discounts. Public validity is unconfirmed.",
+      "action": "Do not publish raw computations, discounts or monthly amounts until a current public offer is approved.",
+      "source": "S075-S100"
+    },
+    {
+      "id": "V03",
+      "topic": "Amenities",
+      "observation": "Reference website advertises swimming pool, security and playground. Supplied seminar instead identifies clubhouse, basketball court, parks and jogging path.",
+      "action": "Use supplied seminar list and confirm current amenities; omit conflicting website claims.",
+      "source": "S102 page 7; W001"
+    },
+    {
+      "id": "V04",
+      "topic": "Bathrooms",
+      "observation": "Website says provision for two bathrooms; supplied model sheets explicitly specify two toilets and baths.",
+      "action": "Use primary model sheets and confirm offered turnover specifications.",
+      "source": "S102 pages 10-12; S013; W001"
+    },
+    {
+      "id": "V05",
+      "topic": "Completion",
+      "observation": "Marketing pages show L.D. December 2030. It does not establish the turnover date of every home.",
+      "action": "Keep original wording and request contract-specific completion and turnover.",
+      "source": "S102; S013"
+    },
+    {
+      "id": "V06",
+      "topic": "Furnished inclusions",
+      "observation": "Furnished marketing schedule and source photos show different fit-out stages.",
+      "action": "Show schedule as advertised, with written inclusions required.",
+      "source": "S013; S014-S060"
+    },
+    {
+      "id": "V07",
+      "topic": "Original photo metadata",
+      "observation": "All 47 HEIC photographs contain GPS metadata.",
+      "action": "Publish full-resolution JPEG conversions with EXIF/GPS removed; source HEICs stay in supplied folder.",
+      "source": "S014-S060"
+    },
+    {
+      "id": "V08",
+      "topic": "Image association",
+      "observation": "Shared styled photographs and nine interior renders do not identify a model.",
+      "action": "Keep shared project media separate; do not assign to a specific model.",
+      "source": "S004-S009; S065-S073"
+    },
+    {
+      "id": "V09",
+      "topic": "Duplicate media",
+      "observation": "interior 5.jpg and interior4.jpg have the same SHA-256.",
+      "action": "Keep two source records with one physical output asset.",
+      "source": "S004; S009"
+    },
+    {
+      "id": "V10",
+      "topic": "Map currency",
+      "observation": "Supplied vicinity map labels some landmarks as very soon. Distances are publisher estimates.",
+      "action": "Use schematic map and neutral landmark names; verify openings and route before viewing.",
+      "source": "S074; S102 pages 5-6"
+    },
+    {
+      "id": "V11",
+      "topic": "Permissions and regulation",
+      "observation": "Developer assets supplied for JMG use; independent licensing and regulator validation are not supplied.",
+      "action": "Retain source attribution and obtain any required redistribution clearance; verify regulatory claims before treating them as independently confirmed.",
+      "source": "S102"
+    },
+    {
+      "id": "V12",
+      "topic": "Lot-size variants",
+      "observation": "Pricing material also contains nonstandard lot-size examples tied to individual inventory.",
+      "action": "Do not create additional model types or publish inventory-specific variants; request public variant sheets.",
+      "source": "S101"
+    }
+  ],
+  "fileReview": [
+    {
+      "sourceId": "S001",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Confidentiality screened; inventory content excluded",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S002",
+      "filename": "Marketing Materials/BANK CHECKLIST REQUIREMENTS.pdf",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Text/page visual reviewed",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S003",
+      "filename": "Marketing Materials/For Ads/allinoneplace.jpg",
+      "type": ".jpg",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S004",
+      "filename": "Marketing Materials/For Ads/interior 5.jpg",
+      "type": ".jpg",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S005",
+      "filename": "Marketing Materials/For Ads/interior 6.jpg",
+      "type": ".jpg",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S006",
+      "filename": "Marketing Materials/For Ads/interior1.jpg",
+      "type": ".jpg",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S007",
+      "filename": "Marketing Materials/For Ads/interior2.jpg",
+      "type": ".jpg",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S008",
+      "filename": "Marketing Materials/For Ads/interior3.jpg",
+      "type": ".jpg",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S009",
+      "filename": "Marketing Materials/For Ads/interior4.jpg",
+      "type": ".jpg",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S010",
+      "filename": "Marketing Materials/For Ads/unit1.jpg",
+      "type": ".jpg",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S011",
+      "filename": "Marketing Materials/For Ads/unit2.jpg",
+      "type": ".jpg",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S012",
+      "filename": "Marketing Materials/For Ads/unit3.jpg",
+      "type": ".jpg",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S013",
+      "filename": "Marketing Materials/INCLUSIONS.pdf",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Text/page visual reviewed",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S014",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3160.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S015",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3162.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S016",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3163.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S017",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3164.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S018",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3165.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S019",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3166.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S020",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3167.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S021",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3168.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S022",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3169.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S023",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3170.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S024",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3171.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S025",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3172.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S026",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3173.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S027",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3174.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S028",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3175.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S029",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3176.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S030",
+      "filename": "Marketing Materials/Raw Photos/Gerardo Model/Copy of IMG_3177.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S031",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3137.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S032",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3138.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S033",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3139.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S034",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3140.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S035",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3141.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S036",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3142.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S037",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3143.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S038",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3144.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S039",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3145.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S040",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3146.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S041",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3147.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S042",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3148.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S043",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3149.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S044",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3150.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S045",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3151.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S046",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3152.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S047",
+      "filename": "Marketing Materials/Raw Photos/Gregoria Model/Copy of IMG_3154.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S048",
+      "filename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3181.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S049",
+      "filename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3182.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S050",
+      "filename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3184.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S051",
+      "filename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3185.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S052",
+      "filename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3186.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S053",
+      "filename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3187.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S054",
+      "filename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3188.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S055",
+      "filename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3189.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S056",
+      "filename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3190.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S057",
+      "filename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3191.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S058",
+      "filename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3192.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S059",
+      "filename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3193.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S060",
+      "filename": "Marketing Materials/Raw Photos/Julieta Model/Copy of IMG_3195.HEIC",
+      "type": ".heic",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S061",
+      "filename": "Marketing Materials/Rendered Photos/Exterior/10.png",
+      "type": ".png",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S062",
+      "filename": "Marketing Materials/Rendered Photos/Exterior/11.png",
+      "type": ".png",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S063",
+      "filename": "Marketing Materials/Rendered Photos/Exterior/12.png",
+      "type": ".png",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S064",
+      "filename": "Marketing Materials/Rendered Photos/Exterior/13.png",
+      "type": ".png",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S065",
+      "filename": "Marketing Materials/Rendered Photos/Interior/1.png",
+      "type": ".png",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S066",
+      "filename": "Marketing Materials/Rendered Photos/Interior/2.png",
+      "type": ".png",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S067",
+      "filename": "Marketing Materials/Rendered Photos/Interior/3.png",
+      "type": ".png",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S068",
+      "filename": "Marketing Materials/Rendered Photos/Interior/4.png",
+      "type": ".png",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S069",
+      "filename": "Marketing Materials/Rendered Photos/Interior/5.png",
+      "type": ".png",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S070",
+      "filename": "Marketing Materials/Rendered Photos/Interior/6.png",
+      "type": ".png",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S071",
+      "filename": "Marketing Materials/Rendered Photos/Interior/7.png",
+      "type": ".png",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S072",
+      "filename": "Marketing Materials/Rendered Photos/Interior/8.png",
+      "type": ".png",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S073",
+      "filename": "Marketing Materials/Rendered Photos/Interior/9.png",
+      "type": ".png",
+      "pages": null,
+      "status": "Decoded and visually categorized",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S074",
+      "filename": "Marketing Materials/VICINITY MAP.pdf",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Text/page visual reviewed",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S075",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S076",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S077",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S078",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S079",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S080",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S081",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S082",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S083",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S084",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S085",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S086",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S087",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S088",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S089",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S090",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S091",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S092",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S093",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S094",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S095",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S096",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S097",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S098",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S099",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S100",
+      "filename": "[withheld: inventory or lot-specific computation]",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; excluded pending confidentiality review",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S101",
+      "filename": "Price and Computation/PRICELIST - OCT 8.pdf",
+      "type": ".pdf",
+      "pages": 1,
+      "status": "Screened; raw pricing excluded, generic dated model price only",
+      "unreadable": false
+    },
+    {
+      "sourceId": "S102",
+      "filename": "Product Knowledge Seminar/Product Knowledge Seminar - Mawing Residences Sta. Cruz.pdf",
+      "type": ".pdf",
+      "pages": 22,
+      "status": "Text and page visuals reviewed; selected public pages only",
+      "unreadable": false
+    }
+  ],
+  "summary": {
+    "sourceFiles": 102,
+    "projects": 1,
+    "models": 3,
+    "sourceImages": 70,
+    "uniqueSourceImages": 69,
+    "modelFloorPlanSheets": 3,
+    "floorPlanLevels": 6,
+    "PDFs": 32,
+    "inaccessibleFiles": 0,
+    "confidentialInventoryFilesExcluded": 1,
+    "rawPricingFilesWithheld": 27,
+    "GPSPhotosConverted": 47
+  },
+  "publicReferences": [
+    {
+      "id": "W001",
+      "url": "https://www.pampanga-properties.com/mawing-residences-sta-cruz-porac.html",
+      "publisher": "Pampanga Properties, broker reference website",
+      "accessed": "2026-10-16"
+    }
+  ]
+}

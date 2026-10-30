@@ -1,0 +1,1036 @@
+{
+  "reviewedOn": "2026-10-15",
+  "projects": [
+    {
+      "key": "milan",
+      "id": "milan-residenze-fairview",
+      "name": "Milan Residenze Fairview",
+      "locality": "Fairview",
+      "address": "Quirino Highway corner Maligaya Drive, Fairview, Quezon City",
+      "sourceUrl": "https://eurotowersintl.com/projects/milan-residenze-fairview/",
+      "description": "A mixed-use condominium in Fairview, Quezon City, near SM City Fairview, Ayala Malls Fairview Terraces and Robinsons Novaliches. Compare studio, one-bedroom and penthouse model families using original source layouts.",
+      "heroKey": "building-exterior",
+      "mapKeys": [
+        "location-map"
+      ],
+      "amenityKeys": [
+        "lap-pool",
+        "kiddie-pool",
+        "fitness-gym",
+        "jogging-deck",
+        "play-area",
+        "third-floor-amenities",
+        "rooftop-amenities",
+        "residential-lobby"
+      ],
+      "amenities": [
+        "Outdoor lap pool",
+        "Kiddie pool",
+        "Fitness gym",
+        "Children’s play area",
+        "Serenity garden",
+        "Reading hall",
+        "Jogging deck and view deck",
+        "Function rooms"
+      ],
+      "nearby": [
+        "SM City Fairview",
+        "Ayala Malls Fairview Terraces",
+        "Robinsons Novaliches"
+      ],
+      "buildingFeatures": [
+        "High-speed elevators",
+        "Mail room",
+        "Basement parking",
+        "CCTV in lobby, elevators and common areas",
+        "24-hour security services"
+      ],
+      "overviewNote": "Explore studio, one-bedroom and penthouse model families in Fairview, close to SM City Fairview, Ayala Malls Fairview Terraces and Robinsons Novaliches. The separate corner photo collection and 34.68 sqm source sheet are presented as a qualified one-bedroom corner reference.",
+      "pricingNotes": [
+        "Milan’s supplied sample net list prices are dated 23 September 2026 and expired on 30 September 2026. They are historical model-level examples before separate title-transfer, move-in, bank and other applicable charges; past cash discounts and payment schedules are not current offers.",
+        "The one-, two- and three-bedroom price examples include the stated 12% VAT. The Studio sample shows no separately added VAT row; confirm the current tax treatment. Studio and two-bedroom priced examples have slightly different areas from the illustrated sheets. The 34.68 sqm corner price remains on inquiry."
+      ],
+      "sourceNote": "Reviewed 15 October 2026 using the supplied Milan project presentation, selected unit photographs, anonymous historical sample price figures and the developer’s public project page. Photographs are unit-type references; source area differences and representative-plan limitations remain labeled.",
+      "models": [
+        {
+          "id": "milan-fairview-studio",
+          "title": "Studio with Balcony",
+          "area": 21.92,
+          "areaText": "Approx. 21.92 sqm · includes balcony",
+          "bedrooms": 0,
+          "bedroomText": "Studio / open plan",
+          "bathrooms": 1,
+          "price": 3023547.96,
+          "priceLabel": "Expired sample · fees extra",
+          "priceDate": "23 Sep 2026",
+          "priceNote": "Historical sample dated 23 September 2026, expired 30 September 2026. The historical source has no separately added VAT row; current tax treatment requires confirmation. Title-transfer, move-in, bank and other applicable charges are extra. Request a current written quotation. The priced example is 21.94 sqm; the illustrated sheet is 21.92 sqm.",
+          "specificationNote": "The supplied layout and developer page show 21.92 sqm including balcony. The anonymous priced example is 21.94 sqm; confirm the exact selected layout and measured area.",
+          "description": "An open-plan studio with a separate kitchen and bathroom and a balcony. The developer photographs show a furnished presentation unit.",
+          "features": [
+            "Open living and sleeping area",
+            "Separate kitchen and bathroom",
+            "Balcony",
+            "Approximate gross area includes balcony",
+            "Confirm parking and written turnover inclusions"
+          ],
+          "heroKey": "studio-living",
+          "galleryKeys": [
+            "studio-living",
+            "studio-room",
+            "studio-windows",
+            "studio-kitchen"
+          ],
+          "planKeys": [
+            "studio-plan"
+          ],
+          "sheetKeys": [
+            "studio-model-sheet"
+          ],
+          "photoNote": "Developer presentation-unit photographs show styling, furniture and appliances for illustration; these do not establish turnover inclusions.",
+          "planDescription": "Inspect the original published layout and complete source model sheet for this unit family. Gross areas include balcony space. The supplied layout and developer page show 21.92 sqm including balcony. The anonymous priced example is 21.94 sqm; confirm the exact selected layout and measured area.",
+          "planNote": "Complete original developer model drawing and available source model sheet. The supplied layout and developer page show 21.92 sqm including balcony. The anonymous priced example is 21.94 sqm; confirm the exact selected layout and measured area. Drawings are representative and may change. Request the approved plan matching the selected unit, exact area and written inclusions.",
+          "representativePlan": false
+        },
+        {
+          "id": "milan-fairview-one-bedroom",
+          "title": "1-Bedroom with Balcony",
+          "area": 28.32,
+          "areaText": "Approx. 28.32 sqm · includes balcony",
+          "bedrooms": 1,
+          "bedroomText": null,
+          "bathrooms": 1,
+          "price": 4507504.6,
+          "priceLabel": "Expired sample · fees extra",
+          "priceDate": "23 Sep 2026",
+          "priceNote": "Historical sample dated 23 September 2026, expired 30 September 2026. The historical example includes the stated 12% VAT. Title-transfer, move-in, bank and other applicable charges are extra. Request a current written quotation.",
+          "specificationNote": "The developer page and anonymous price sample identify 28.32 sqm. The developer’s one-bedroom floor illustration is representative and does not carry an area label; it visually resembles the separate 34.68 sqm corner sheet. Do not treat that illustration as a verified exact 28.32 sqm plan.",
+          "description": "A one-bedroom residence with living, dining and kitchen spaces and a balcony. Supplied photographs show an unfurnished example from the one-bedroom photo collection.",
+          "features": [
+            "One bedroom",
+            "Living and dining area",
+            "Balcony",
+            "Approximate gross area includes balcony",
+            "Confirm parking and written turnover inclusions"
+          ],
+          "heroKey": "one-bedroom-actual-1",
+          "galleryKeys": [
+            "one-bedroom-actual-1",
+            "one-bedroom-actual-2",
+            "one-bedroom-actual-3",
+            "one-bedroom-actual-4"
+          ],
+          "planKeys": [
+            "one-bedroom-plan"
+          ],
+          "sheetKeys": [],
+          "photoNote": "Photographs are grouped by the supplied one-bedroom folder; a measured floor area is not printed in the photos. They illustrate finishes and are not proof of a specific unit’s condition.",
+          "planDescription": "Official representative one-bedroom drawing. An exact 28.32 sqm floor plan was not verified; the published graphic resembles the separate 34.68 sqm model sheet.",
+          "planNote": "Official representative one-bedroom layout. The supplied drawing is not verified as the exact 28.32 sqm configuration; request the selected unit’s approved plan. Drawings are representative and may change. Request the approved plan matching the selected unit, exact area and written inclusions.",
+          "representativePlan": true
+        },
+        {
+          "id": "milan-fairview-one-bedroom-corner",
+          "title": "1-Bedroom Corner with Balcony",
+          "area": 34.68,
+          "areaText": "Approx. 34.68 sqm · includes balcony",
+          "bedrooms": 1,
+          "bedroomText": null,
+          "bathrooms": 1,
+          "price": null,
+          "priceLabel": "Request a current quotation",
+          "priceDate": null,
+          "priceNote": "No matching price example for the 34.68 sqm corner layout was supplied. Request a current written quotation from JMG Realty PH.",
+          "specificationNote": "34.68 sqm is the approximate gross area printed on the supplied one-bedroom model sheet, including a 3.15 sqm balcony. The actual-photo folder labels this variant 1BR Corner; the sheet itself is titled 1-Bedroom Unit Layout. Photo-to-exact-area matching is illustrative.",
+          "description": "A larger one-bedroom layout with a separate bedroom and balcony. The source includes a distinct corner-unit photo collection.",
+          "features": [
+            "One bedroom",
+            "Corner-unit photo reference",
+            "Balcony",
+            "Approximate gross area includes balcony",
+            "Confirm parking and written turnover inclusions"
+          ],
+          "heroKey": "one-bedroom-corner-actual-1",
+          "galleryKeys": [
+            "one-bedroom-corner-actual-1",
+            "one-bedroom-corner-actual-2",
+            "one-bedroom-corner-actual-3",
+            "one-bedroom-corner-actual-4"
+          ],
+          "planKeys": [
+            "one-bedroom-corner-plan"
+          ],
+          "sheetKeys": [
+            "one-bedroom-corner-plan"
+          ],
+          "photoNote": "Supplied corner-unit photographs illustrate the model family; confirm the exact layout and current condition during viewing.",
+          "planDescription": "Inspect the original published layout and complete source model sheet for this unit family. Gross areas include balcony space. 34.68 sqm is the approximate gross area printed on the supplied one-bedroom model sheet, including a 3.15 sqm balcony. The actual-photo folder labels this variant 1BR Corner; the sheet itself is titled 1-Bedroom Unit Layout. Photo-to-exact-area matching is illustrative.",
+          "planNote": "Full original 34.68 sqm model sheet from the supplied presentation. This is a generic architectural example, not an inventory record. Drawings are representative and may change. Request the approved plan matching the selected unit, exact area and written inclusions.",
+          "representativePlan": false
+        },
+        {
+          "id": "milan-fairview-two-bedroom",
+          "title": "2-Bedroom Penthouse with Balcony",
+          "area": 68.0,
+          "areaText": "Approx. 68 sqm · includes balcony",
+          "bedrooms": 2,
+          "bedroomText": null,
+          "bathrooms": 2,
+          "price": 13616968.78,
+          "priceLabel": "Expired sample · fees extra",
+          "priceDate": "23 Sep 2026",
+          "priceNote": "Historical sample dated 23 September 2026, expired 30 September 2026. The historical example includes the stated 12% VAT. Title-transfer, move-in, bank and other applicable charges are extra. Request a current written quotation. The priced example is 68.64 sqm; the supplied sheet is 68.00 sqm and the developer website describes 68.42 sqm.",
+          "specificationNote": "The supplied model sheet shows 68.00 sqm including balcony; the developer page lists 68.42 sqm and the anonymous priced example is 68.64 sqm. These are representative variants, not interchangeable measurements. Confirm the exact selected plan and area.",
+          "description": "A penthouse-level two-bedroom family layout with two bathrooms and a balcony. The supplied photographs show unfurnished living spaces and rooms.",
+          "features": [
+            "Two bedrooms",
+            "Two bathrooms",
+            "Balcony",
+            "Penthouse model family",
+            "Approximate gross area includes balcony",
+            "Confirm parking and written turnover inclusions"
+          ],
+          "heroKey": "two-bedroom-actual-1",
+          "galleryKeys": [
+            "two-bedroom-actual-1",
+            "two-bedroom-actual-2",
+            "two-bedroom-actual-3",
+            "two-bedroom-actual-4"
+          ],
+          "planKeys": [
+            "two-bedroom-plan"
+          ],
+          "sheetKeys": [
+            "two-bedroom-model-sheet"
+          ],
+          "photoNote": "Supplied two-bedroom photographs illustrate this model family; area and exact configuration require confirmation.",
+          "planDescription": "Inspect the original published layout and complete source model sheet for this unit family. Gross areas include balcony space. The supplied model sheet shows 68.00 sqm including balcony; the developer page lists 68.42 sqm and the anonymous priced example is 68.64 sqm. These are representative variants, not interchangeable measurements. Confirm the exact selected plan and area.",
+          "planNote": "Representative two-bedroom plan and full original 68.00 sqm model sheet; the historical priced example is 68.64 sqm. Drawings are representative and may change. Request the approved plan matching the selected unit, exact area and written inclusions.",
+          "representativePlan": false
+        },
+        {
+          "id": "milan-fairview-three-bedroom",
+          "title": "3-Bedroom Penthouse with Balcony",
+          "area": 90.34,
+          "areaText": "Approx. 90.34 sqm · includes balcony",
+          "bedrooms": 3,
+          "bedroomText": null,
+          "bathrooms": 2,
+          "price": 18225537.4,
+          "priceLabel": "Expired sample · fees extra",
+          "priceDate": "23 Sep 2026",
+          "priceNote": "Historical sample dated 23 September 2026, expired 30 September 2026. The historical example includes the stated 12% VAT. Title-transfer, move-in, bank and other applicable charges are extra. Request a current written quotation.",
+          "specificationNote": "The supplied model sheet, official developer page and anonymous priced example all show 90.34 sqm gross area. The model sheet includes a 13.14 sqm balcony.",
+          "description": "A three-bedroom penthouse layout with two bathrooms and an extended balcony, supported by supplied photographs and an original model sheet.",
+          "features": [
+            "Three bedrooms",
+            "Two bathrooms",
+            "13.14 sqm balcony in model sheet",
+            "Penthouse model family",
+            "Approximate gross area includes balcony",
+            "Confirm parking and written turnover inclusions"
+          ],
+          "heroKey": "three-bedroom-actual-1",
+          "galleryKeys": [
+            "three-bedroom-actual-1",
+            "three-bedroom-actual-2",
+            "three-bedroom-actual-3",
+            "three-bedroom-actual-4",
+            "three-bedroom-actual-5"
+          ],
+          "planKeys": [
+            "three-bedroom-plan"
+          ],
+          "sheetKeys": [
+            "three-bedroom-model-sheet"
+          ],
+          "photoNote": "Supplied three-bedroom photographs illustrate the model family; confirm the exact selected unit and turnover inclusions.",
+          "planDescription": "Inspect the original published layout and complete source model sheet for this unit family. Gross areas include balcony space. The supplied model sheet, official developer page and anonymous priced example all show 90.34 sqm gross area. The model sheet includes a 13.14 sqm balcony.",
+          "planNote": "Complete original developer model drawing and available source model sheet. The supplied model sheet, official developer page and anonymous priced example all show 90.34 sqm gross area. The model sheet includes a 13.14 sqm balcony. Drawings are representative and may change. Request the approved plan matching the selected unit, exact area and written inclusions.",
+          "representativePlan": false
+        }
+      ],
+      "assets": {
+        "building-exterior": {
+          "src": "/images/properties/milan-residenze-fairview/originals/building-exterior.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/building-exterior.webp",
+          "label": "Developer-published building exterior photograph.",
+          "width": 768,
+          "height": 1024,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2024/04/MRF-WEBSITE-PHOTO-copy.jpg",
+          "originalFilename": "building-exterior.jpg",
+          "sha256": "69694aa47d6a0d7e9a461f57f0f3bf21faea6d8870622a9898c570edc3142cf7"
+        },
+        "lap-pool": {
+          "src": "/images/properties/milan-residenze-fairview/originals/lap-pool.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/lap-pool.webp",
+          "label": "Developer-published pool photograph.",
+          "width": 1024,
+          "height": 683,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2025/05/mrf-swimming-pool-1024x683.jpg",
+          "originalFilename": "lap-pool.jpg",
+          "sha256": "3326c2b668ef646d22806f16d872cc2de0f0fb6def559ac7c9ace3d25d18f8cf"
+        },
+        "kiddie-pool": {
+          "src": "/images/properties/milan-residenze-fairview/originals/kiddie-pool.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/kiddie-pool.webp",
+          "label": "Developer-published children’s pool photograph.",
+          "width": 1024,
+          "height": 576,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2024/04/MRF-Kiddie-Pool-1024x576.jpg",
+          "originalFilename": "kiddie-pool.jpg",
+          "sha256": "f7ff98f04062d924c148dfaea1b0e0c6fbe744674f453926156453f10c126252"
+        },
+        "fitness-gym": {
+          "src": "/images/properties/milan-residenze-fairview/originals/fitness-gym.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/fitness-gym.webp",
+          "label": "Developer-published gym photograph.",
+          "width": 1024,
+          "height": 687,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2025/03/mrf-fitness-gym-1024x687.jpg",
+          "originalFilename": "fitness-gym.jpg",
+          "sha256": "e1993042f1ea18c8ed886f490b81f6bb01fde0ea844695c83af55655e5eac0ee"
+        },
+        "jogging-deck": {
+          "src": "/images/properties/milan-residenze-fairview/originals/jogging-deck.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/jogging-deck.webp",
+          "label": "Developer-published view of the jogging deck.",
+          "width": 1024,
+          "height": 683,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2025/05/MRF-Jogging-deck-1024x683.jpg",
+          "originalFilename": "jogging-deck.jpg",
+          "sha256": "ffe55097a89f59a926c556b006f24e156bcd78298088b4e52ce0fc60d0275a14"
+        },
+        "play-area": {
+          "src": "/images/properties/milan-residenze-fairview/originals/play-area.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/play-area.webp",
+          "label": "Developer-published play-area photograph.",
+          "width": 1024,
+          "height": 683,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2025/03/mrf-kids-playground-1024x683.jpg",
+          "originalFilename": "play-area.jpg",
+          "sha256": "b82cc59329a29bf82537c9049887bcc2d9fd53a6b349e81fd3023f5fb841684a"
+        },
+        "residential-lobby": {
+          "src": "/images/properties/milan-residenze-fairview/originals/residential-lobby.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/residential-lobby.webp",
+          "label": "Developer-published lobby photograph.",
+          "width": 1024,
+          "height": 683,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2025/03/mrf-lobby-1024x683.jpg",
+          "originalFilename": "residential-lobby.jpg",
+          "sha256": "06cf7b43e3343dca9d29805d5306055086db057ab197f7dd70d609ee529fe193"
+        },
+        "studio-living": {
+          "src": "/images/properties/milan-residenze-fairview/originals/studio-living.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/studio-living.webp",
+          "label": "Studio model · living and sleeping space",
+          "width": 1920,
+          "height": 1080,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2025/03/mrf-studio-resized.jpg",
+          "originalFilename": "studio-living.jpg",
+          "sha256": "82dfedf3d640c2574795f41c9c5f5146d718e4877e81bd4cb19173fab2a79cfc"
+        },
+        "studio-room": {
+          "src": "/images/properties/milan-residenze-fairview/originals/studio-room.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/studio-room.webp",
+          "label": "Studio model · room and dining area",
+          "width": 1920,
+          "height": 1080,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2025/03/mrf-studio-2-resized.jpg",
+          "originalFilename": "studio-room.jpg",
+          "sha256": "a68d8979ce79e9afb48f3b1678597119f188725f962fc1ffc60f8957651b81f8"
+        },
+        "studio-windows": {
+          "src": "/images/properties/milan-residenze-fairview/originals/studio-windows.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/studio-windows.webp",
+          "label": "Studio model · kitchen and room connection",
+          "width": 1920,
+          "height": 1080,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2025/03/mrf-studio-3-resized.jpg",
+          "originalFilename": "studio-windows.jpg",
+          "sha256": "e519afe41233f8e2a893a520f113dfe5bb094789ff670a5b19605a00636fe0ca"
+        },
+        "studio-kitchen": {
+          "src": "/images/properties/milan-residenze-fairview/originals/studio-kitchen.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/studio-kitchen.webp",
+          "label": "Studio model · kitchen",
+          "width": 1920,
+          "height": 1080,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2025/03/mrf-studio-kitchen-resized.jpg",
+          "originalFilename": "studio-kitchen.jpg",
+          "sha256": "bc8d6f8d7efc2952956a94818a5334017eaa6a71c8ae61cb8290e3e9bfc868f1"
+        },
+        "studio-plan": {
+          "src": "/images/properties/milan-residenze-fairview/originals/studio-plan.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/studio-plan.webp",
+          "label": "The supplied layout and developer page show 21.92 sqm including balcony. The anonymous priced example is 21.94 sqm; confirm the exact selected layout and measured area. Furniture in plan images is illustrative.",
+          "width": 1500,
+          "height": 1500,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2024/04/Fairview_Studio-Unit-Floor-Layout-1.jpg",
+          "originalFilename": "studio-plan.jpg",
+          "sha256": "eeb21f78c8acf924799b0312d9143a6d6798eaa384a6c76918fdd26237b55fee"
+        },
+        "one-bedroom-plan": {
+          "src": "/images/properties/milan-residenze-fairview/originals/one-bedroom-plan.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/one-bedroom-plan.webp",
+          "label": "Official representative one-bedroom layout · exact 28.32 sqm plan unverified",
+          "width": 1500,
+          "height": 1500,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2024/04/Fairview_1BR-Unit-Floor-Layout-1.jpg",
+          "originalFilename": "one-bedroom-plan.jpg",
+          "sha256": "b4a91110b1604428cc6e688357642deab74bc1f59269fdffdf4026091ee104d0"
+        },
+        "two-bedroom-plan": {
+          "src": "/images/properties/milan-residenze-fairview/originals/two-bedroom-plan.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/two-bedroom-plan.webp",
+          "label": "Representative two-bedroom plan and full original 68.00 sqm model sheet; the historical priced example is 68.64 sqm. Furniture in plan images is illustrative.",
+          "width": 1500,
+          "height": 1500,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2024/04/Fairview_2BR-Unit-Floor-Layout-1.jpg",
+          "originalFilename": "two-bedroom-plan.jpg",
+          "sha256": "1582b614a32f83c6700621d8ffb2f8d8738579d3ec91665a98f5fc4bb4a703ff"
+        },
+        "three-bedroom-plan": {
+          "src": "/images/properties/milan-residenze-fairview/originals/three-bedroom-plan.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/three-bedroom-plan.webp",
+          "label": "The supplied model sheet, official developer page and anonymous priced example all show 90.34 sqm gross area. The model sheet includes a 13.14 sqm balcony. Furniture in plan images is illustrative.",
+          "width": 1988,
+          "height": 1988,
+          "sourceUrl": "https://eurotowersintl.com/wp-content/uploads/2025/03/Fairview_3BR-Unit-Floor-Layout.jpg",
+          "originalFilename": "three-bedroom-plan.jpg",
+          "sha256": "f72db880493906f4966ad533712f2709e1479b2f0704a60f3f1639d935bdfdaa"
+        },
+        "one-bedroom-actual-1": {
+          "src": "/images/properties/milan-residenze-fairview/originals/one-bedroom-actual-1.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/one-bedroom-actual-1.webp",
+          "label": "One-bedroom sample · kitchen and living area",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 1BR / 20241219_165542.jpg",
+          "originalFilename": "one-bedroom-actual-1.jpg",
+          "sha256": "7335c8f5cd8cf81b43c4c0af80cc5a7fb0bd2e593cfa75e20f1dee1d5b5dff62"
+        },
+        "one-bedroom-actual-2": {
+          "src": "/images/properties/milan-residenze-fairview/originals/one-bedroom-actual-2.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/one-bedroom-actual-2.webp",
+          "label": "One-bedroom sample · living area and balcony access",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 1BR / 20241219_165551.jpg",
+          "originalFilename": "one-bedroom-actual-2.jpg",
+          "sha256": "9c2914d935a6a525bdf297390c6d64c684da55324b4f6ffffbb8f138b94e7ea8"
+        },
+        "one-bedroom-actual-3": {
+          "src": "/images/properties/milan-residenze-fairview/originals/one-bedroom-actual-3.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/one-bedroom-actual-3.webp",
+          "label": "One-bedroom sample · bedroom",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 1BR / 20241219_165605.jpg",
+          "originalFilename": "one-bedroom-actual-3.jpg",
+          "sha256": "ab500159bc4fbeae9dd8c284f2fe68c22ff37c1e0977cd157b75b474deb600c8"
+        },
+        "one-bedroom-actual-4": {
+          "src": "/images/properties/milan-residenze-fairview/originals/one-bedroom-actual-4.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/one-bedroom-actual-4.webp",
+          "label": "One-bedroom sample · bedroom and hallway",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 1BR / 20241219_165624.jpg",
+          "originalFilename": "one-bedroom-actual-4.jpg",
+          "sha256": "b528b85fccd37a687da7c09c359192b346f1b6d36e88e144ed5a6f36a9c4a253"
+        },
+        "one-bedroom-corner-actual-1": {
+          "src": "/images/properties/milan-residenze-fairview/originals/one-bedroom-corner-actual-1.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/one-bedroom-corner-actual-1.webp",
+          "label": "Corner one-bedroom sample · living and kitchen areas",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 1BR Corner / 20241219_170046.jpg",
+          "originalFilename": "one-bedroom-corner-actual-1.jpg",
+          "sha256": "64535a0a44d3d5fb4d361082241269bfe9f313486655c9697defeff2836d5e42"
+        },
+        "one-bedroom-corner-actual-2": {
+          "src": "/images/properties/milan-residenze-fairview/originals/one-bedroom-corner-actual-2.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/one-bedroom-corner-actual-2.webp",
+          "label": "Corner one-bedroom sample · kitchen",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 1BR Corner / 20241219_170107.jpg",
+          "originalFilename": "one-bedroom-corner-actual-2.jpg",
+          "sha256": "49d8c01b198b896005c53107689af2cdddc851defdc20e4219ccd426e24a6939"
+        },
+        "one-bedroom-corner-actual-3": {
+          "src": "/images/properties/milan-residenze-fairview/originals/one-bedroom-corner-actual-3.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/one-bedroom-corner-actual-3.webp",
+          "label": "Corner one-bedroom sample · living area",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 1BR Corner / 20241219_170121.jpg",
+          "originalFilename": "one-bedroom-corner-actual-3.jpg",
+          "sha256": "8005fabce149157563f608307e60f45a710432581f606d042b6a0a60e36ac2b1"
+        },
+        "one-bedroom-corner-actual-4": {
+          "src": "/images/properties/milan-residenze-fairview/originals/one-bedroom-corner-actual-4.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/one-bedroom-corner-actual-4.webp",
+          "label": "Corner one-bedroom sample · bedroom and balcony access",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 1BR Corner / 20241219_170146.jpg",
+          "originalFilename": "one-bedroom-corner-actual-4.jpg",
+          "sha256": "dc6d65c59cde77e092307f331e177ab566c4f9749514a2dd15c7f8b754f804ff"
+        },
+        "two-bedroom-actual-1": {
+          "src": "/images/properties/milan-residenze-fairview/originals/two-bedroom-actual-1.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/two-bedroom-actual-1.webp",
+          "label": "Two-bedroom sample · living area",
+          "width": 3581,
+          "height": 2014,
+          "sourceUrl": "Supplied actual photos / 2BR / 20251106_153138-2 (1).jpg",
+          "originalFilename": "two-bedroom-actual-1.jpg",
+          "sha256": "be962f04f792e5b947fca928a50e3cb39ef903756d31f2741aab34693099d98f"
+        },
+        "two-bedroom-actual-2": {
+          "src": "/images/properties/milan-residenze-fairview/originals/two-bedroom-actual-2.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/two-bedroom-actual-2.webp",
+          "label": "Two-bedroom sample · kitchen",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 2BR / 20251106_153143-2.jpg",
+          "originalFilename": "two-bedroom-actual-2.jpg",
+          "sha256": "e698197d634ab14c4e791c7f4a50fccab7fd14e0be8253bb3d69039ff40cbcd4"
+        },
+        "two-bedroom-actual-3": {
+          "src": "/images/properties/milan-residenze-fairview/originals/two-bedroom-actual-3.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/two-bedroom-actual-3.webp",
+          "label": "Two-bedroom sample · bedroom and balcony access",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 2BR / 20251106_153201-2.jpg",
+          "originalFilename": "two-bedroom-actual-3.jpg",
+          "sha256": "12ae835462c75845b801898d205af50c1c5e0a57bab3d05e887c079fbf1f89b9"
+        },
+        "two-bedroom-actual-4": {
+          "src": "/images/properties/milan-residenze-fairview/originals/two-bedroom-actual-4.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/two-bedroom-actual-4.webp",
+          "label": "Two-bedroom sample · second bedroom",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 2BR / 20251106_153246-2.jpg",
+          "originalFilename": "two-bedroom-actual-4.jpg",
+          "sha256": "34651a99f64ed6de14bd0c906c5b3ca9cf283dad74e0e51fd28923789a6849df"
+        },
+        "three-bedroom-actual-1": {
+          "src": "/images/properties/milan-residenze-fairview/originals/three-bedroom-actual-1.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/three-bedroom-actual-1.webp",
+          "label": "Three-bedroom sample · living and dining areas",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 3BR / 20251106_152522.jpg",
+          "originalFilename": "three-bedroom-actual-1.jpg",
+          "sha256": "6950356a2e647ed9d88bdfb26ad63343cadeeeab3e83246c79a32ca11df0ee40"
+        },
+        "three-bedroom-actual-2": {
+          "src": "/images/properties/milan-residenze-fairview/originals/three-bedroom-actual-2.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/three-bedroom-actual-2.webp",
+          "label": "Three-bedroom sample · bedroom",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 3BR / 20251106_152537.jpg",
+          "originalFilename": "three-bedroom-actual-2.jpg",
+          "sha256": "cb77f222cde0422b5f0a410050497debce104c217c0352ab548a5a1079ff22e9"
+        },
+        "three-bedroom-actual-3": {
+          "src": "/images/properties/milan-residenze-fairview/originals/three-bedroom-actual-3.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/three-bedroom-actual-3.webp",
+          "label": "Three-bedroom sample · kitchen",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 3BR / 20251106_152616.jpg",
+          "originalFilename": "three-bedroom-actual-3.jpg",
+          "sha256": "023d261e840f75bea62c3cf735e8e78ed9f765baf58a3228043d5df91b34b6b8"
+        },
+        "three-bedroom-actual-4": {
+          "src": "/images/properties/milan-residenze-fairview/originals/three-bedroom-actual-4.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/three-bedroom-actual-4.webp",
+          "label": "Three-bedroom sample · balcony",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 3BR / 20251106_152703.jpg",
+          "originalFilename": "three-bedroom-actual-4.jpg",
+          "sha256": "a271f30ce6f610f4ddca73b928ca20b0d374c2f99afdd0fc7146d188ceed0b6b"
+        },
+        "three-bedroom-actual-5": {
+          "src": "/images/properties/milan-residenze-fairview/originals/three-bedroom-actual-5.jpg",
+          "displaySrc": "/images/properties/milan-residenze-fairview/three-bedroom-actual-5.webp",
+          "label": "Three-bedroom sample · room and balcony access",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "Supplied actual photos / 3BR / 20251106_152835.jpg",
+          "originalFilename": "three-bedroom-actual-5.jpg",
+          "sha256": "7c5aefecba3af64c711887519bb8f8d39ac37124d9721c0591abdfeac2cc7eaf"
+        },
+        "studio-model-sheet": {
+          "src": "/images/properties/milan-residenze-fairview/originals/studio-model-sheet.png",
+          "displaySrc": "/images/properties/milan-residenze-fairview/studio-model-sheet.webp",
+          "label": "The supplied layout and developer page show 21.92 sqm including balcony. The anonymous priced example is 21.94 sqm; confirm the exact selected layout and measured area. Full original sheet; furniture and fixtures are not included as stated by the source.",
+          "width": 2400,
+          "height": 1349,
+          "sourceUrl": "Supplied project presentation / page 27 (full unaltered page rendering)",
+          "originalFilename": "studio-model-sheet.png",
+          "sha256": "22b3bad7a2926dd507f570c73b1205f6f9563da8388ac49889da5b27be57fcf9"
+        },
+        "two-bedroom-model-sheet": {
+          "src": "/images/properties/milan-residenze-fairview/originals/two-bedroom-model-sheet.png",
+          "displaySrc": "/images/properties/milan-residenze-fairview/two-bedroom-model-sheet.webp",
+          "label": "The supplied model sheet shows 68.00 sqm including balcony; the developer page lists 68.42 sqm and the anonymous priced example is 68.64 sqm. These are representative variants, not interchangeable measurements. Confirm the exact selected plan and area. Full original sheet; furniture and fixtures are not included as stated by the source.",
+          "width": 2400,
+          "height": 1349,
+          "sourceUrl": "Supplied project presentation / page 17 (full unaltered page rendering)",
+          "originalFilename": "two-bedroom-model-sheet.png",
+          "sha256": "237a3872ba687924563041ad4764f3672b970a434611e2429fb60a32fe4a3b15"
+        },
+        "three-bedroom-model-sheet": {
+          "src": "/images/properties/milan-residenze-fairview/originals/three-bedroom-model-sheet.png",
+          "displaySrc": "/images/properties/milan-residenze-fairview/three-bedroom-model-sheet.webp",
+          "label": "The supplied model sheet, official developer page and anonymous priced example all show 90.34 sqm gross area. The model sheet includes a 13.14 sqm balcony. Full original sheet; furniture and fixtures are not included as stated by the source.",
+          "width": 2400,
+          "height": 1349,
+          "sourceUrl": "Supplied project presentation / page 15 (full unaltered page rendering)",
+          "originalFilename": "three-bedroom-model-sheet.png",
+          "sha256": "4a35eaed72e6084be90cf66760dc3460c9f5980c46033ba8f1e9073032b596c6"
+        },
+        "one-bedroom-corner-plan": {
+          "src": "/images/properties/milan-residenze-fairview/originals/one-bedroom-corner-plan.png",
+          "displaySrc": "/images/properties/milan-residenze-fairview/one-bedroom-corner-plan.webp",
+          "label": "Full original 34.68 sqm model sheet from the supplied presentation. This is a generic architectural example, not an inventory record. Furniture in plan images is illustrative.",
+          "width": 2400,
+          "height": 1349,
+          "sourceUrl": "Supplied project presentation / page 21 (full unaltered page rendering)",
+          "originalFilename": "one-bedroom-corner-plan.png",
+          "sha256": "f4317dd9804143fae71c8ce96de3751c2e7ad918707d14c5605b045bb0f131ed"
+        },
+        "location-map": {
+          "src": "/images/properties/milan-residenze-fairview/originals/location-map.png",
+          "displaySrc": "/images/properties/milan-residenze-fairview/location-map.webp",
+          "label": "Original supplied location sheet; distances and transport references are illustrative and should be checked for current conditions.",
+          "width": 2400,
+          "height": 1349,
+          "sourceUrl": "Supplied project presentation / page 5 (full unaltered page rendering)",
+          "originalFilename": "location-map.png",
+          "sha256": "1993da74d892c3445aacbe34ede1aaffabaef2d4808733fdab27fe4a52b3e324"
+        },
+        "third-floor-amenities": {
+          "src": "/images/properties/milan-residenze-fairview/originals/third-floor-amenities.png",
+          "displaySrc": "/images/properties/milan-residenze-fairview/third-floor-amenities.webp",
+          "label": "Complete original amenity sheet from the supplied presentation; diagrams and renderings are illustrative.",
+          "width": 2400,
+          "height": 1349,
+          "sourceUrl": "Supplied project presentation / page 8 (full unaltered page rendering)",
+          "originalFilename": "third-floor-amenities.png",
+          "sha256": "6097ad20be6d3d505f2f8373b69db73cf77bd5809300060dea1388d5f8310697"
+        },
+        "rooftop-amenities": {
+          "src": "/images/properties/milan-residenze-fairview/originals/rooftop-amenities.png",
+          "displaySrc": "/images/properties/milan-residenze-fairview/rooftop-amenities.webp",
+          "label": "Complete original rooftop amenity sheet from the supplied presentation; diagrams and renderings are illustrative.",
+          "width": 2400,
+          "height": 1349,
+          "sourceUrl": "Supplied project presentation / page 10 (full unaltered page rendering)",
+          "originalFilename": "rooftop-amenities.png",
+          "sha256": "ede03586e0c22bd6ac596ac6e1b825e55f564cdefed50d78b3201b9b45eb7735"
+        }
+      }
+    },
+    {
+      "key": "vivaldi",
+      "id": "vivaldi-residences-cubao",
+      "name": "Vivaldi Residences Cubao",
+      "locality": "Cubao",
+      "address": "628 EDSA corner Aurora Boulevard, Cubao, Quezon City",
+      "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+      "description": "A mixed-use condominium at EDSA corner Aurora Boulevard in Cubao, Quezon City. Explore three documented balcony unit types with original layout sheets, selected unit photographs and separate amenities.",
+      "heroKey": "exterior",
+      "mapKeys": [
+        "vicinity-map"
+      ],
+      "amenityKeys": [
+        "sky-pool",
+        "function-hall",
+        "fitness-gym",
+        "jogging-path"
+      ],
+      "amenities": [
+        "SkyPool",
+        "Function hall",
+        "Fitness gym",
+        "Jogging path and view deck",
+        "Children's play area",
+        "Residential lobby"
+      ],
+      "nearby": [
+        "MRT-3 Araneta Center-Cubao",
+        "LRT-2 Araneta Center-Cubao",
+        "Gateway Mall and Gateway 2",
+        "Farmers Plaza / Farmers Market",
+        "Araneta Coliseum",
+        "SM Cubao",
+        "Cubao Expo"
+      ],
+      "buildingFeatures": [
+        "High-speed elevators",
+        "Mail room",
+        "Basement parking",
+        "Emergency power provisions",
+        "Centralized fire protection and smoke detection",
+        "CCTV in common areas",
+        "24-hour building security"
+      ],
+      "overviewNote": "Compare the documented 25.24 sqm Studio, 42.32 sqm one-bedroom and 68.00 sqm two-bedroom layouts. The Cubao location offers access to the MRT-3 and LRT-2 stations, Araneta City shopping and entertainment destinations.",
+      "pricingNotes": [
+        "The Studio’s ₱2.3M figure is an undated estimate on the developer’s website, checked 15 October 2026. Its tax, fee and payment basis is unstated. The supplied one- and two-bedroom net list examples are dated 25 September 2026 and expired on 2 October 2026; these include the stated 12% VAT, with title-transfer, move-in and other charges extra.",
+        "The developer’s public page also advertises a different ₱4.3M one-bedroom estimate and a 122.02 sqm two-bedroom presentation. Those website figures are not substituted for the supplied dated 42.32 sqm and 68.00 sqm examples shown here. Request a current configuration-matched quotation."
+      ],
+      "sourceNote": "Reviewed 15 October 2026 using the supplied Vivaldi Cubao project presentation, selected unit photographs, anonymous historical sample price figures and the developer’s public project page. These are representative unit-type guides. The Studio web estimate is undated; historical quotations have expired.",
+      "models": [
+        {
+          "id": "vivaldi-cubao-studio",
+          "title": "Studio with Balcony",
+          "area": 25.24,
+          "areaText": "Approx. 25.24 sqm · includes balcony",
+          "bedrooms": 0,
+          "bedroomText": "Studio (open plan)",
+          "bathrooms": 1,
+          "price": 2300000,
+          "priceLabel": "Developer web estimate · undated",
+          "priceDate": "Checked 15 Oct 2026",
+          "priceNote": "Undated developer website estimate for the 25.24 sqm Studio, checked 15 October 2026. VAT, fees, payment terms and current availability are unstated; request a written current quotation.",
+          "specificationNote": "Approximate gross area includes the balcony. Photographs and drawings are unit-type references; confirm the exact offered layout, orientation and inclusions.",
+          "description": "An open-plan Studio with a kitchen, one bathroom and balcony. The original sheet states approximately 25.24 sqm gross area including a 3.00 sqm balcony.",
+          "features": [
+            "Studio open-plan living",
+            "1 bathroom",
+            "Balcony space included in approximate gross area",
+            "Confirm parking and written turnover inclusions"
+          ],
+          "heroKey": "studio-dressed-living",
+          "galleryKeys": [
+            "studio-dressed-living",
+            "studio-dressed-dining",
+            "studio-bare-living",
+            "studio-bare-kitchen",
+            "studio-bare-bathroom"
+          ],
+          "planKeys": [
+            "studio-layout-sheet"
+          ],
+          "sheetKeys": [
+            "studio-layout-sheet"
+          ],
+          "photoNote": "Furnished photos show a dressed model unit. Furniture and styling are illustrative and are not included. Bare-unit photos show representative finishes.",
+          "planDescription": "Complete original unit layout and specification sheet from the supplied Cubao project presentation. The full model sheet is preserved with its labels, room breakdown and balcony area. Approximate gross area includes the balcony. Photographs and drawings are unit-type references; confirm the exact offered layout, orientation and inclusions.",
+          "planNote": "Generic drawing labels identify representative layouts and do not indicate current unit availability. Room-area breakdowns can differ slightly from the printed gross total; the published gross figure is retained. Confirm the exact approved plan and current inclusions.",
+          "representativePlan": false
+        },
+        {
+          "id": "vivaldi-cubao-one-bedroom",
+          "title": "1-Bedroom with Balcony",
+          "area": 42.32,
+          "areaText": "Approx. 42.32 sqm · includes balcony",
+          "bedrooms": 1,
+          "bedroomText": null,
+          "bathrooms": 1,
+          "price": 6495548.95,
+          "priceLabel": "Expired sample · VAT incl., fees extra",
+          "priceDate": "25 Sep 2026",
+          "priceNote": "Historical sample dated 25 September 2026, expired 2 October 2026. Includes the stated 12% VAT; title-transfer, move-in, financing and other charges are extra. Request a current written quotation.",
+          "specificationNote": "Approximate gross area includes the balcony. Photographs and drawings are unit-type references; confirm the exact offered layout, orientation and inclusions. The supplied actual photographs show a one-bedroom corner example; exact photo-to-plan matching is not verified.",
+          "description": "A one-bedroom residence with living and dining space, kitchen, one bathroom and balcony. The original source sheet states approximately 42.32 sqm gross area including a 4.72 sqm balcony.",
+          "features": [
+            "1 bedroom",
+            "1 bathroom",
+            "Balcony space included in approximate gross area",
+            "Confirm parking and written turnover inclusions"
+          ],
+          "heroKey": "one-bedroom-actual-living",
+          "galleryKeys": [
+            "one-bedroom-actual-living",
+            "one-bedroom-actual-bedroom",
+            "one-bedroom-actual-kitchen",
+            "one-bedroom-actual-bathroom"
+          ],
+          "planKeys": [
+            "one-bedroom-layout-sheet"
+          ],
+          "sheetKeys": [
+            "one-bedroom-layout-sheet"
+          ],
+          "photoNote": "Actual furnished condition and layout vary. Supplied actual photos are a representative one-bedroom corner sample photographed in January 2026. They do not advertise an identified unit as available.",
+          "planDescription": "Complete original unit layout and specification sheet from the supplied Cubao project presentation. The full model sheet is preserved with its labels, room breakdown and balcony area. Approximate gross area includes the balcony. Photographs and drawings are unit-type references; confirm the exact offered layout, orientation and inclusions. The supplied actual photographs show a one-bedroom corner example; exact photo-to-plan matching is not verified.",
+          "planNote": "Generic drawing labels identify representative layouts and do not indicate current unit availability. Room-area breakdowns can differ slightly from the printed gross total; the published gross figure is retained. Confirm the exact approved plan and current inclusions.",
+          "representativePlan": false
+        },
+        {
+          "id": "vivaldi-cubao-two-bedroom",
+          "title": "2-Bedroom with Balconies",
+          "area": 68,
+          "areaText": "Approx. 68.00 sqm · includes balcony",
+          "bedrooms": 2,
+          "bedroomText": null,
+          "bathrooms": 2,
+          "price": 10462200.85,
+          "priceLabel": "Expired sample · VAT incl., fees extra",
+          "priceDate": "25 Sep 2026",
+          "priceNote": "Historical sample dated 25 September 2026, expired 2 October 2026. Includes the stated 12% VAT; title-transfer, move-in, financing and other charges are extra. Request a current written quotation.",
+          "specificationNote": "Approximate gross area includes the balcony. Photographs and drawings are unit-type references; confirm the exact offered layout, orientation and inclusions. This is the supplied 68.00 sqm model, distinct from the 122.02 sqm two-bedroom presentation on the developer’s website.",
+          "description": "A two-bedroom layout with two bathrooms, living and dining spaces, kitchen and balconies. The supplied original sheet states approximately 68.00 sqm gross area including 12.72 sqm of balcony space.",
+          "features": [
+            "2 bedrooms",
+            "2 bathrooms",
+            "Balcony space included in approximate gross area",
+            "Confirm parking and written turnover inclusions"
+          ],
+          "heroKey": "two-bedroom-actual-living",
+          "galleryKeys": [
+            "two-bedroom-actual-living",
+            "two-bedroom-actual-bedroom",
+            "two-bedroom-actual-kitchen",
+            "two-bedroom-bathroom"
+          ],
+          "planKeys": [
+            "two-bedroom-layout-sheet"
+          ],
+          "sheetKeys": [
+            "two-bedroom-layout-sheet"
+          ],
+          "photoNote": "Supplied actual photos are a representative two-bedroom sample photographed in January 2026. Confirm the precise layout, condition, orientation and deliverables of the quoted unit.",
+          "planDescription": "Complete original unit layout and specification sheet from the supplied Cubao project presentation. The full model sheet is preserved with its labels, room breakdown and balcony area. Approximate gross area includes the balcony. Photographs and drawings are unit-type references; confirm the exact offered layout, orientation and inclusions. This is the supplied 68.00 sqm model, distinct from the 122.02 sqm two-bedroom presentation on the developer’s website.",
+          "planNote": "Generic drawing labels identify representative layouts and do not indicate current unit availability. Room-area breakdowns can differ slightly from the printed gross total; the published gross figure is retained. Confirm the exact approved plan and current inclusions.",
+          "representativePlan": false
+        }
+      ],
+      "assets": {
+        "exterior": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/exterior.jpg",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/exterior.webp",
+          "label": "Vivaldi Residences Cubao architectural perspective from the supplied project presentation.",
+          "width": 352,
+          "height": 476,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "exterior.jpg",
+          "sha256": "b238bd5d0d549a45704e09261b3689632e39da098724ab0f646dc33935347009"
+        },
+        "vicinity-map": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/vicinity-map.jpg",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/vicinity-map.webp",
+          "label": "Original vicinity map showing EDSA and Aurora Boulevard in Cubao.",
+          "width": 2000,
+          "height": 1125,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "vicinity-map.jpg",
+          "sha256": "e4f49c623f7efca2c7abe8b41a7ce588bb7f92ecd575b4eeca23f050a2ee447f"
+        },
+        "sky-pool": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/sky-pool.jpg",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/sky-pool.webp",
+          "label": "SkyPool at Vivaldi Residences Cubao.",
+          "width": 1536,
+          "height": 1025,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "sky-pool.jpg",
+          "sha256": "0ccc4b9c6462c2ef548251bf960e1bb88475ab8859494f0822851b6150ed8295"
+        },
+        "function-hall": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/function-hall.jpg",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/function-hall.webp",
+          "label": "Function hall at Vivaldi Residences Cubao.",
+          "width": 872,
+          "height": 582,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "function-hall.jpg",
+          "sha256": "11f75226c8a58f3ecf2415d4257fe7632fa10a27cf18c90e500b3ff15aba5c50"
+        },
+        "fitness-gym": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/fitness-gym.jpg",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/fitness-gym.webp",
+          "label": "Fitness gym at Vivaldi Residences Cubao.",
+          "width": 1460,
+          "height": 974,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "fitness-gym.jpg",
+          "sha256": "941e5f9a4ce5679306cdad88d1aa70d35d3d4e9ca865f5a5c729c43b0f451624"
+        },
+        "jogging-path": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/jogging-path.jpg",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/jogging-path.webp",
+          "label": "Jogging path at Vivaldi Residences Cubao.",
+          "width": 792,
+          "height": 540,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "jogging-path.jpg",
+          "sha256": "aec0395d1e3a5e6df765c9344a62012cd343c3f174c9ebf28a7e097735ccdcf1"
+        },
+        "studio-layout-sheet": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/studio-layout-sheet.png",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/studio-layout-sheet.webp",
+          "label": "Complete original Studio layout and specification sheet.",
+          "width": 2670,
+          "height": 1500,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "studio-layout-sheet.png",
+          "sha256": "6e713fe60d9511d1d02a0a3b1f203a64dd81bf8ef7617317a3c9d4b05cad38bf"
+        },
+        "one-bedroom-layout-sheet": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/one-bedroom-layout-sheet.png",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/one-bedroom-layout-sheet.webp",
+          "label": "Complete original 1-Bedroom layout and specification sheet.",
+          "width": 2670,
+          "height": 1500,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "one-bedroom-layout-sheet.png",
+          "sha256": "3f8965053da29dbf6ec99a4ffc75f6b2ad66c11c3ca9c163041ec4706d2da34e"
+        },
+        "two-bedroom-layout-sheet": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/two-bedroom-layout-sheet.png",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/two-bedroom-layout-sheet.webp",
+          "label": "Complete original 2-Bedroom layout and specification sheet.",
+          "width": 2670,
+          "height": 1500,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "two-bedroom-layout-sheet.png",
+          "sha256": "d3e9c6773a76a6735ccee7159332dcbaf979f76395a44f3f4834699b99c82938"
+        },
+        "studio-dressed-living": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/studio-dressed-living.png",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/studio-dressed-living.webp",
+          "label": "Furnished Studio model unit showing the combined living, dining and sleeping space.",
+          "width": 1277,
+          "height": 897,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "studio-dressed-living.png",
+          "sha256": "2ffcf3d4f4d8cf0f1b223e524660e47caf92e94cced612b51c3c965931dcf318"
+        },
+        "studio-dressed-dining": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/studio-dressed-dining.png",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/studio-dressed-dining.webp",
+          "label": "Furnished Studio model unit dining and living reference.",
+          "width": 1315,
+          "height": 906,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "studio-dressed-dining.png",
+          "sha256": "06338cf9b6b7ada77069270f6aedcb649d4eb37e8c24c77eb4c67a1eb9dfab49"
+        },
+        "studio-bare-living": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/studio-bare-living.png",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/studio-bare-living.webp",
+          "label": "Studio standard finish reference showing the unfurnished living and sleeping area.",
+          "width": 713,
+          "height": 441,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "studio-bare-living.png",
+          "sha256": "65df5f7f8699685381007d61f8d59656fba43ea253c4eb37688b81dac862c814"
+        },
+        "studio-bare-kitchen": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/studio-bare-kitchen.png",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/studio-bare-kitchen.webp",
+          "label": "Studio kitchen finish reference.",
+          "width": 556,
+          "height": 733,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "studio-bare-kitchen.png",
+          "sha256": "1eda0e9ac81ef585a7ae3c5a2d1cfc31adfab742698c7cfe6ba4d351e547f147"
+        },
+        "studio-bare-bathroom": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/studio-bare-bathroom.png",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/studio-bare-bathroom.webp",
+          "label": "Studio toilet and bath finish reference.",
+          "width": 517,
+          "height": 684,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "studio-bare-bathroom.png",
+          "sha256": "b8d2d8028daabbca1dd93d949896d32b2698f6a6ac51abddcc138d4174fdbd16"
+        },
+        "one-bedroom-actual-living": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/one-bedroom-actual-living.jpg",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/one-bedroom-actual-living.webp",
+          "label": "Actual 1-bedroom sample interior showing the living area and balcony access.",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "one-bedroom-actual-living.jpg",
+          "sha256": "04cdf4e1b549f0116db66140d334ba86611cd764f269387f1bc6b9fbcca2631d"
+        },
+        "one-bedroom-actual-bedroom": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/one-bedroom-actual-bedroom.jpg",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/one-bedroom-actual-bedroom.webp",
+          "label": "Actual 1-bedroom sample interior showing the bedroom.",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "one-bedroom-actual-bedroom.jpg",
+          "sha256": "77a771f62fc387954d9a74512a80b53c0aacd14636c714dd52308e798489022a"
+        },
+        "one-bedroom-actual-kitchen": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/one-bedroom-actual-kitchen.jpg",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/one-bedroom-actual-kitchen.webp",
+          "label": "Actual 1-bedroom sample interior showing the kitchen.",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "one-bedroom-actual-kitchen.jpg",
+          "sha256": "934743f75c8e2bcb7cba9da3196365740998c7a3d89174d1fe1dc6280f207c99"
+        },
+        "one-bedroom-actual-bathroom": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/one-bedroom-actual-bathroom.jpg",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/one-bedroom-actual-bathroom.webp",
+          "label": "Actual 1-bedroom sample interior showing the toilet and bath.",
+          "width": 2252,
+          "height": 4000,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "one-bedroom-actual-bathroom.jpg",
+          "sha256": "694a3fe1384cc0ae396ccf36c71be60b11b9d6e3e780e3f1789ef43e4e42fcef"
+        },
+        "two-bedroom-actual-living": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/two-bedroom-actual-living.jpg",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/two-bedroom-actual-living.webp",
+          "label": "Actual 2-bedroom sample interior showing the living and kitchen area.",
+          "width": 3778,
+          "height": 2125,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "two-bedroom-actual-living.jpg",
+          "sha256": "8f7d66b24f04a58219920f395ec80b29269a95de0648113f377e6d50de79918e"
+        },
+        "two-bedroom-actual-bedroom": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/two-bedroom-actual-bedroom.jpg",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/two-bedroom-actual-bedroom.webp",
+          "label": "Actual 2-bedroom sample interior showing a bedroom and balcony access.",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "two-bedroom-actual-bedroom.jpg",
+          "sha256": "fafba8f305ed74f78a3b4f43ca244003f7258c1e98484ffe10fed902d6028948"
+        },
+        "two-bedroom-actual-kitchen": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/two-bedroom-actual-kitchen.jpg",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/two-bedroom-actual-kitchen.webp",
+          "label": "Actual 2-bedroom sample interior showing the kitchen and living space.",
+          "width": 4000,
+          "height": 2252,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "two-bedroom-actual-kitchen.jpg",
+          "sha256": "71444f4ee03620158efc1828fc3773074d1b9fdd08b6a493a6fe2010eecc124b"
+        },
+        "two-bedroom-bathroom": {
+          "src": "/images/properties/vivaldi-residences-cubao/originals/two-bedroom-bathroom.png",
+          "displaySrc": "/images/properties/vivaldi-residences-cubao/display/two-bedroom-bathroom.webp",
+          "label": "2-bedroom toilet and bath standard finish reference.",
+          "width": 536,
+          "height": 700,
+          "sourceUrl": "https://eurotowersintl.com/projects/vivaldi-residences-cubao/",
+          "originalFilename": "two-bedroom-bathroom.png",
+          "sha256": "ab10bcf6fe1e0463050e5fdcb6779f5393da81659d59dddd64e44e1d41b813ea"
+        }
+      }
+    }
+  ]
+}

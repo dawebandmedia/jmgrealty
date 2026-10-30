@@ -1,0 +1,199 @@
+{
+  "project": "Lanello Heights",
+  "reviewedAt": "2026-10-15",
+  "publicReference": "https://lanelloheights.phproperty.com/",
+  "images": {
+    "abbie-brochure": {
+      "src": "/images/properties/lanello/originals/abbie-brochure.jpg",
+      "displaySrc": "/images/properties/lanello/originals/abbie-brochure-display.webp",
+      "label": "Abbie original brochure and two-level floor plans",
+      "width": 927,
+      "height": 692,
+      "sourceUrl": "https://images.myproperties.ph/uploads/gallery/abbie-hm.jpg",
+      "originalFilename": "abbie-hm.jpg",
+      "sha256": "c9331f6e11df9589ae2d136daab3fd516b73a0aac91f08aaff321f73ee7d2973",
+      "kind": "originalFloorPlan",
+      "publisher": "phproperty.com reference website",
+      "levels": [
+        "Ground floor",
+        "Second floor"
+      ]
+    },
+    "abbie-facade": {
+      "src": "/images/properties/lanello/originals/abbie-facade.jpg",
+      "displaySrc": "/images/properties/lanello/originals/abbie-facade-display.webp",
+      "label": "Abbie annotated facade illustration",
+      "width": 960,
+      "height": 720,
+      "sourceUrl": "https://images.myproperties.ph/uploads/gallery/abbie-house-specs.jpg",
+      "originalFilename": "abbie-house-specs.jpg",
+      "sha256": "92bab00adbb77a2fa591edb43e4f5fe7ac2d03308d9670b9c6927c8eed423730",
+      "kind": "architecturalRendering",
+      "publisher": "phproperty.com reference website"
+    },
+    "entrance": {
+      "src": "/images/properties/lanello/originals/entrance.jpg",
+      "displaySrc": "/images/properties/lanello/originals/entrance-display.webp",
+      "label": "Entrance gate — architectural rendering",
+      "width": 960,
+      "height": 720,
+      "sourceUrl": "https://images.myproperties.ph/uploads/gallery/entrance-gate2.jpg",
+      "originalFilename": "entrance-gate2.jpg",
+      "sha256": "ee0484f243b09d529aee87e69abea09d6c7eb8912f1f4124b34d618abef437c7",
+      "kind": "architecturalRendering",
+      "publisher": "phproperty.com reference website"
+    },
+    "aerial": {
+      "src": "/images/properties/lanello/originals/aerial.jpg",
+      "displaySrc": "/images/properties/lanello/originals/aerial-display.webp",
+      "label": "Development aerial perspective — architectural rendering",
+      "width": 960,
+      "height": 720,
+      "sourceUrl": "https://images.myproperties.ph/uploads/gallery/aerial-view3.jpg",
+      "originalFilename": "aerial-view3.jpg",
+      "sha256": "e58f1c5e04826648411bfed30afa9ca45b205c8a319c8c2c6c6d40a5e2d91e64",
+      "kind": "architecturalRendering",
+      "publisher": "phproperty.com reference website"
+    },
+    "hall": {
+      "src": "/images/properties/lanello/originals/hall.jpg",
+      "displaySrc": "/images/properties/lanello/originals/hall-display.webp",
+      "label": "Multipurpose hall — architectural rendering",
+      "width": 960,
+      "height": 720,
+      "sourceUrl": "https://images.myproperties.ph/uploads/gallery/multi-purpose-hall1.jpg",
+      "originalFilename": "multi-purpose-hall1.jpg",
+      "sha256": "a25767f327a2ecdcd2af270e92fc8b67c513ca65e6b0b536582ab2afcbc22218",
+      "kind": "architecturalRendering",
+      "publisher": "phproperty.com reference website"
+    },
+    "open-space": {
+      "src": "/images/properties/lanello/originals/open-space.jpg",
+      "displaySrc": "/images/properties/lanello/originals/open-space-display.webp",
+      "label": "Phase 1 community spaces — architectural rendering",
+      "width": 960,
+      "height": 720,
+      "sourceUrl": "https://images.myproperties.ph/uploads/gallery/open-space.jpg",
+      "originalFilename": "open-space.jpg",
+      "sha256": "bac920b10b8a4d0e5be75d16196b0a6a2ab63f7423c5985772f4cd973b94f0ae",
+      "kind": "architecturalRendering",
+      "publisher": "phproperty.com reference website"
+    },
+    "park": {
+      "src": "/images/properties/lanello/originals/park.jpg",
+      "displaySrc": "/images/properties/lanello/originals/park-display.webp",
+      "label": "Phase 2 open space — architectural rendering",
+      "width": 960,
+      "height": 720,
+      "sourceUrl": "https://images.myproperties.ph/uploads/gallery/phase-2-open-space.jpg",
+      "originalFilename": "phase-2-open-space.jpg",
+      "sha256": "ea2c2530b5adc32c6e78c2a2bbaf01a32caaa7c1734cedd0f0df554fbbcd1807",
+      "kind": "architecturalRendering",
+      "publisher": "phproperty.com reference website"
+    },
+    "chelsea-brochure": {
+      "src": "/images/properties/lanello/originals/chelsea-brochure.jpg",
+      "displaySrc": "/images/properties/lanello/originals/chelsea-brochure-display.webp",
+      "label": "Chelsea original brochure and two-level floor plans",
+      "width": 956,
+      "height": 685,
+      "sourceUrl": "https://images.myproperties.ph/uploads/gallery/chelsea-hm.jpg",
+      "originalFilename": "chelsea-hm.jpg",
+      "sha256": "14f6a901012601b51c2e30c708ff64d1876324712218c2963e6a779b0aac5619",
+      "kind": "originalFloorPlan",
+      "publisher": "phproperty.com reference website",
+      "levels": [
+        "Ground floor",
+        "Second floor"
+      ]
+    },
+    "chelsea-facade": {
+      "src": "/images/properties/lanello/originals/chelsea-facade.jpg",
+      "displaySrc": "/images/properties/lanello/originals/chelsea-facade-display.webp",
+      "label": "Chelsea annotated facade illustration",
+      "width": 960,
+      "height": 720,
+      "sourceUrl": "https://images.myproperties.ph/uploads/gallery/chelsea-house-specs.jpg",
+      "originalFilename": "chelsea-house-specs.jpg",
+      "sha256": "b57cfd8451b226e572b18cbbfaa6d0d937f55acc3bf10e7bb207e15ff98fc969",
+      "kind": "architecturalRendering",
+      "publisher": "phproperty.com reference website"
+    },
+    "brenda-brochure": {
+      "src": "/images/properties/lanello/originals/brenda-brochure.jpg",
+      "displaySrc": "/images/properties/lanello/originals/brenda-brochure-display.webp",
+      "label": "Brenda original brochure and two-level floor plans",
+      "width": 957,
+      "height": 693,
+      "sourceUrl": "https://images.myproperties.ph/uploads/gallery/brenda-hm.jpg",
+      "originalFilename": "brenda-hm.jpg",
+      "sha256": "c615adfb3d4db37bb518aa4d432edb510f92ab656acf412be85e7efd75891e57",
+      "kind": "originalFloorPlan",
+      "publisher": "phproperty.com reference website",
+      "levels": [
+        "Ground floor",
+        "Second floor"
+      ]
+    },
+    "brenda-facade": {
+      "src": "/images/properties/lanello/originals/brenda-facade.jpg",
+      "displaySrc": "/images/properties/lanello/originals/brenda-facade-display.webp",
+      "label": "Brenda annotated facade illustration",
+      "width": 960,
+      "height": 720,
+      "sourceUrl": "https://images.myproperties.ph/uploads/gallery/brenda-house-specs.jpg",
+      "originalFilename": "brenda-house-specs.jpg",
+      "sha256": "b1a6091cddc2bbb21dd84c52b6ea8ecf9a2db213d2ea4ddd56e7e697af3f4a66",
+      "kind": "architecturalRendering",
+      "publisher": "phproperty.com reference website"
+    },
+    "vicinity": {
+      "src": "/images/properties/lanello/originals/vicinity.jpg",
+      "displaySrc": "/images/properties/lanello/originals/vicinity-display.webp",
+      "label": "Original publisher vicinity map",
+      "width": 960,
+      "height": 720,
+      "sourceUrl": "https://images.myproperties.ph/uploads/gallery/location-map10.jpg",
+      "originalFilename": "location-map10.jpg",
+      "sha256": "72b210ecea546c0032cbe61ea72cb0f2ab426af2df7d1c0e409972a86b0262d0",
+      "kind": "vicinityMap",
+      "publisher": "phproperty.com reference website"
+    },
+    "abbie-photo": {
+      "src": "/images/properties/lanello/originals/abbie-photo.jpg",
+      "displaySrc": "/images/properties/lanello/originals/abbie-photo-display.webp",
+      "label": "Abbie model exterior — supplied promotional photograph",
+      "width": 2048,
+      "height": 1896,
+      "sourceUrl": "https://lanelloheights.phproperty.com/",
+      "originalFilename": "848831353_2321408728613125_5058803814884780318_n.jpg",
+      "sha256": "85c9919112363269846845237112ed9138f5f50be88707b1ef74de84cdec841d",
+      "kind": "suppliedModelPhotograph",
+      "publisher": "User-supplied Masaito Homes promotional image"
+    },
+    "brenda-photo": {
+      "src": "/images/properties/lanello/originals/brenda-photo.jpg",
+      "displaySrc": "/images/properties/lanello/originals/brenda-photo-display.webp",
+      "label": "Brenda model exterior — supplied promotional photograph",
+      "width": 2032,
+      "height": 1888,
+      "sourceUrl": "https://lanelloheights.phproperty.com/",
+      "originalFilename": "847115617_2727958514273150_7295042747748119905_n (1).jpg",
+      "sha256": "f83d284d2b21c9298356b901f0b766377add5bc33709745057c8ad169d867d56",
+      "kind": "suppliedModelPhotograph",
+      "publisher": "User-supplied Masaito Homes promotional image"
+    },
+    "chelsea-photo": {
+      "src": "/images/properties/lanello/originals/chelsea-photo.jpg",
+      "displaySrc": "/images/properties/lanello/originals/chelsea-photo-display.webp",
+      "label": "Chelsea model exterior — supplied promotional photograph",
+      "width": 2048,
+      "height": 1892,
+      "sourceUrl": "https://lanelloheights.phproperty.com/",
+      "originalFilename": "849370526_1087034360999722_3729686633874604921_n.jpg",
+      "sha256": "d0027a03c934a0d5dc7551d6846ce7c6fae1cfaed46d8f4c9c1e2c7a4089316b",
+      "kind": "suppliedModelPhotograph",
+      "publisher": "User-supplied Masaito Homes promotional image"
+    }
+  }
+}

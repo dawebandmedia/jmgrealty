@@ -1,0 +1,4 @@
+.greenway-phase-heading {display:block;font-size:.52em;line-height:1.25;margin-top:10px;color:var(--green);}
+.greenway-proposed {margin-top:40px;padding-top:25px;border-top:1px solid var(--line,#d9ddd5);}
+.site-greenway .glam-spec-table {min-width:960px;}
+.site-greenway .development-heading h1 {font-size:clamp(49px,6vw,86px);}

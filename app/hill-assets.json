@@ -1,0 +1,652 @@
+{
+  "images": {
+    "242": {
+      "id": 242,
+      "src": "/images/properties/hill/originals/242-image-180-4-scaled-1.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/image-180-4-scaled-1.webp",
+      "originalFilename": "image-180-4-scaled-1.webp",
+      "label": "Hill pool and buildings — architectural rendering",
+      "publisherLabel": "image-180-4-scaled",
+      "width": 2560,
+      "height": 2534,
+      "format": "webp",
+      "sha256": "53aa0b2819ccc253e2e071379d12c5f9a359cceb8e82d7766d29f9a7d4a7a4b9",
+      "pages": [
+        "home"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/image-180-4-scaled-1.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/242-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "257": {
+      "id": 257,
+      "src": "/images/properties/hill/originals/257-hill-map.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/hill-map.webp",
+      "originalFilename": "hill-map.webp",
+      "label": "Original Hill vicinity map",
+      "publisherLabel": "hill-map",
+      "width": 1600,
+      "height": 1080,
+      "format": "webp",
+      "sha256": "e89f9f6b375d4c4d0bd2402957282fc096b856e833268222dcd316074ad9b69e",
+      "pages": [
+        "location"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/hill-map.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/257-preview.webp",
+      "kind": "originalVicinityMap",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "274": {
+      "id": 274,
+      "src": "/images/properties/hill/originals/274-Hill-Residences-Model-Unit-3.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Model-Unit-3.webp",
+      "originalFilename": "Hill-Residences-Model-Unit-3.webp",
+      "label": "Shared dressed-up unit bedroom — source Artist’s Perspective",
+      "publisherLabel": "Hill-Residences-Model-Unit-3",
+      "width": 1080,
+      "height": 523,
+      "format": "webp",
+      "sha256": "df77c63df244eb657072389fd998a63462e80bedf2c34d6815374f66870224c7",
+      "pages": [
+        "units"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Model-Unit-3.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/274-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "275": {
+      "id": 275,
+      "src": "/images/properties/hill/originals/275-Hill-Residences-Model-Unit-2.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Model-Unit-2.webp",
+      "originalFilename": "Hill-Residences-Model-Unit-2.webp",
+      "label": "Shared model bedroom — source Artist’s Perspective",
+      "publisherLabel": "Hill-Residences-Model-Unit-2",
+      "width": 1080,
+      "height": 523,
+      "format": "webp",
+      "sha256": "85a0437c801b4fdde33f35a283a6d69da88a7ce4366b5c7c55e85bf612f6c2b0",
+      "pages": [
+        "units"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Model-Unit-2.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/275-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "276": {
+      "id": 276,
+      "src": "/images/properties/hill/originals/276-Hill-Residences-Model-Unit-1.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Model-Unit-1.webp",
+      "originalFilename": "Hill-Residences-Model-Unit-1.webp",
+      "label": "Shared model living area — source Artist’s Perspective",
+      "publisherLabel": "Hill-Residences-Model-Unit-1",
+      "width": 1080,
+      "height": 523,
+      "format": "webp",
+      "sha256": "b5c14c4265c5ea7cc219213c3c10bb581208ca3dd57d9cb40fb2d929e25bce32",
+      "pages": [
+        "home",
+        "units"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Model-Unit-1.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/276-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "311": {
+      "id": 311,
+      "src": "/images/properties/hill/originals/311-SDP-1.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/SDP-1.webp",
+      "originalFilename": "SDP-1.webp",
+      "label": "Original Hill site development plan with north arrow",
+      "publisherLabel": "SDP",
+      "width": 700,
+      "height": 500,
+      "format": "webp",
+      "sha256": "b37ca14e92af618c65b2e733d08cb9289c1832caf21fe450bdb75ce29769f8ee",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/SDP-1.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/311-preview.webp",
+      "kind": "originalSiteDevelopmentPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "319": {
+      "id": 319,
+      "src": "/images/properties/hill/originals/319-Hill-Residences-Site-Development-Plan.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Site-Development-Plan.webp",
+      "originalFilename": "Hill-Residences-Site-Development-Plan.webp",
+      "label": "Original Hill site development plan — floor-plans page",
+      "publisherLabel": "Hill Residences &#8211; Site Development Plan",
+      "width": 966,
+      "height": 802,
+      "format": "webp",
+      "sha256": "cbabc8d6ffa344333162844243aab49cba72afdf07a335a9e38eb652543ee0e1",
+      "pages": [
+        "floor-plans"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Site-Development-Plan.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/319-preview.webp",
+      "kind": "originalSiteDevelopmentPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "323": {
+      "id": 323,
+      "src": "/images/properties/hill/originals/323-Hill-Residences-_basketball-court.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-_basketball-court.webp",
+      "originalFilename": "Hill-Residences-_basketball-court.webp",
+      "label": "Basketball court — architectural rendering",
+      "publisherLabel": "Hill Residences _basketball court",
+      "width": 3840,
+      "height": 2160,
+      "format": "webp",
+      "sha256": "e49798ebb5d012cecad299e1ff340e8fb515dd796fcfb21481d1a7a4320fce61",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-_basketball-court-scaled.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/323-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "324": {
+      "id": 324,
+      "src": "/images/properties/hill/originals/324-Hill-Residences-Dressed-Up-Unit.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Dressed-Up-Unit.webp",
+      "originalFilename": "Hill-Residences-Dressed-Up-Unit.webp",
+      "label": "Illustrative dressed-up unit interior shared by all three Hill model pages",
+      "publisherLabel": "Hill Residences Dressed Up Unit",
+      "width": 1000,
+      "height": 668,
+      "format": "webp",
+      "sha256": "3f5e134404e553849d6778060bc2799374982675a639eb490365c88a63ecdb82",
+      "pages": [
+        "flexi-suite",
+        "flexi-suite-end",
+        "flexi-suite-with-balcony"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Dressed-Up-Unit.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/324-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "327": {
+      "id": 327,
+      "src": "/images/properties/hill/originals/327-Hill-Residences-Pool-Amenity-2.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Pool-Amenity-2.webp",
+      "originalFilename": "Hill-Residences-Pool-Amenity-2.webp",
+      "label": "Pool — architectural rendering",
+      "publisherLabel": "Hill Residences Pool Amenity 2",
+      "width": 3840,
+      "height": 2160,
+      "format": "webp",
+      "sha256": "26cc16d1fbee7f654956b31bdaa6a0a787c4279ad14d6f62be652a31b9062823",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Pool-Amenity-2-scaled.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/327-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "328": {
+      "id": 328,
+      "src": "/images/properties/hill/originals/328-Hill-Residences-Welcome-Rotunda.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Welcome-Rotunda.webp",
+      "originalFilename": "Hill-Residences-Welcome-Rotunda.webp",
+      "label": "Welcome rotunda — architectural rendering",
+      "publisherLabel": "Hill Residences Welcome Rotunda",
+      "width": 3840,
+      "height": 2160,
+      "format": "webp",
+      "sha256": "604cf7f0305dd968d3c19fc2b24c9e0fdd3f9534c48c6c1f8b2d2fc1ec912f07",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Welcome-Rotunda-scaled.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/328-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "329": {
+      "id": 329,
+      "src": "/images/properties/hill/originals/329-Hill-Residences__Linear-Park_2.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences__Linear-Park_2.webp",
+      "originalFilename": "Hill-Residences__Linear-Park_2.webp",
+      "label": "Linear park perspective 2 — architectural rendering",
+      "publisherLabel": "Hill Residences__Linear Park_2",
+      "width": 3840,
+      "height": 2160,
+      "format": "webp",
+      "sha256": "1f3c459721906ad67f46b46997bdc1bec5b3b45b9fd07a2a1a0535c08239f7d2",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences__Linear-Park_2-scaled.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/329-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "330": {
+      "id": 330,
+      "src": "/images/properties/hill/originals/330-Hill-Residences_Jogging-Path.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences_Jogging-Path.webp",
+      "originalFilename": "Hill-Residences_Jogging-Path.webp",
+      "label": "Jogging path — architectural rendering",
+      "publisherLabel": "Hill Residences_Jogging Path",
+      "width": 3840,
+      "height": 2160,
+      "format": "webp",
+      "sha256": "01ddf04749661e616b8b0bdade73923dbf450a6246b8c0f517c1a4428655690f",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences_Jogging-Path-scaled.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/330-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "331": {
+      "id": 331,
+      "src": "/images/properties/hill/originals/331-Hill-Residences-Lobby-Lounge-1.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Lobby-Lounge-1.webp",
+      "originalFilename": "Hill-Residences-Lobby-Lounge-1.webp",
+      "label": "Lobby lounge — architectural rendering",
+      "publisherLabel": "Hill Residences Lobby Lounge (1)",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "sha256": "84010c12bc08711638336275e6825f1f7ee719f864a2493a64dad4d8733a7b13",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Lobby-Lounge-1.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/331-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "332": {
+      "id": 332,
+      "src": "/images/properties/hill/originals/332-Hill-Residences-Linear-Park-1.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Linear-Park-1.webp",
+      "originalFilename": "Hill-Residences-Linear-Park-1.webp",
+      "label": "Linear park perspective 1 — architectural rendering",
+      "publisherLabel": "Hill Residences Linear Park (1)",
+      "width": 2560,
+      "height": 1440,
+      "format": "webp",
+      "sha256": "3f868f91a886ae67b54e1e131f83ddb61922c32fccf04f6f98cb3244c6ff0345",
+      "pages": [
+        "amenities"
+      ],
+      "isFloorPlan": false,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/Hill-Residences-Linear-Park-1.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/332-display.webp",
+      "kind": "architecturalRendering",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "348": {
+      "id": 348,
+      "src": "/images/properties/hill/originals/348-2-BEDROOM-UNIT-NO-COLUMN-1.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/2-BEDROOM-UNIT-NO-COLUMN-1.webp",
+      "originalFilename": "2-BEDROOM-UNIT-NO-COLUMN-1.webp",
+      "label": "Higher-resolution original two-bedroom reference layout — source floor-plans page",
+      "publisherLabel": "2-BEDROOM UNIT (NO COLUMN)",
+      "width": 1484,
+      "height": 2316,
+      "format": "webp",
+      "sha256": "6dc34091abd3e2aab60db353d962731e55d1df46ab0cea24f933fc97ee150ba1",
+      "pages": [
+        "floor-plans"
+      ],
+      "isFloorPlan": true,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/2-BEDROOM-UNIT-NO-COLUMN-1.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/348-preview.webp",
+      "kind": "originalFloorPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "349": {
+      "id": 349,
+      "src": "/images/properties/hill/originals/349-1-BEDROOM-UNIT-NO-COLUMN.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/1-BEDROOM-UNIT-NO-COLUMN.webp",
+      "originalFilename": "1-BEDROOM-UNIT-NO-COLUMN.webp",
+      "label": "Higher-resolution original one-bedroom reference layout — source floor-plans page",
+      "publisherLabel": "1-BEDROOM UNIT (NO COLUMN)",
+      "width": 1484,
+      "height": 2316,
+      "format": "webp",
+      "sha256": "efce118d5fdf1d797ddad01069694c044e57589f71311c85c38594d3695e23c0",
+      "pages": [
+        "floor-plans"
+      ],
+      "isFloorPlan": true,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/1-BEDROOM-UNIT-NO-COLUMN.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/349-preview.webp",
+      "kind": "originalFloorPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "351": {
+      "id": 351,
+      "src": "/images/properties/hill/originals/351-STUDIO-UNIT-NO-COLUMN.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/STUDIO-UNIT-NO-COLUMN.webp",
+      "originalFilename": "STUDIO-UNIT-NO-COLUMN.webp",
+      "label": "Higher-resolution original furnished studio reference layout — source floor-plans page",
+      "publisherLabel": "STUDIO UNIT (NO COLUMN)",
+      "width": 1484,
+      "height": 2316,
+      "format": "webp",
+      "sha256": "b6050523e77b50b1957bc2234c6a05f79a0905818071cecdf88662f8e8c78da6",
+      "pages": [
+        "floor-plans"
+      ],
+      "isFloorPlan": true,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/STUDIO-UNIT-NO-COLUMN.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/351-preview.webp",
+      "kind": "originalFloorPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "385": {
+      "id": 385,
+      "src": "/images/properties/hill/originals/385-ddb81849-e8dc-416c-a47a-4fee3c413cf9.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/ddb81849-e8dc-416c-a47a-4fee3c413cf9.webp",
+      "originalFilename": "ddb81849-e8dc-416c-a47a-4fee3c413cf9.webp",
+      "label": "Original narrow furnished studio reference layout — source floor-plans page",
+      "publisherLabel": "ddb81849-e8dc-416c-a47a-4fee3c413cf9",
+      "width": 406,
+      "height": 693,
+      "format": "webp",
+      "sha256": "bc3bc0a0372a11b54a16db1130ccc14b9dc354bdcca20e9bda4bd580bad623d0",
+      "pages": [
+        "floor-plans"
+      ],
+      "isFloorPlan": true,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/04/ddb81849-e8dc-416c-a47a-4fee3c413cf9.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/385-preview.webp",
+      "kind": "originalFloorPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "438": {
+      "id": 438,
+      "src": "/images/properties/hill/originals/438-Picture2.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/11/Picture2.webp",
+      "originalFilename": "Picture2.webp",
+      "label": "Shared original unpartitioned studio arrangement diagram",
+      "publisherLabel": "Picture2",
+      "width": 302,
+      "height": 370,
+      "format": "webp",
+      "sha256": "ddcf386ac2a6eb1731fed5c922886578891f9b2e807eab348fc2a7b30cee145a",
+      "pages": [
+        "flexi-suite",
+        "flexi-suite-end",
+        "flexi-suite-with-balcony"
+      ],
+      "isFloorPlan": true,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/11/Picture2.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/438-preview.webp",
+      "kind": "originalFloorPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "439": {
+      "id": 439,
+      "src": "/images/properties/hill/originals/439-Picture3.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/11/Picture3.webp",
+      "originalFilename": "Picture3.webp",
+      "label": "Shared original one-bedroom arrangement diagram",
+      "publisherLabel": "Picture3",
+      "width": 296,
+      "height": 359,
+      "format": "webp",
+      "sha256": "4ef7353901bc83c6c0b6d9f4e006afd21788583dd49f651653193e766b13098e",
+      "pages": [
+        "flexi-suite",
+        "flexi-suite-end",
+        "flexi-suite-with-balcony"
+      ],
+      "isFloorPlan": true,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/11/Picture3.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/439-preview.webp",
+      "kind": "originalFloorPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    },
+    "440": {
+      "id": 440,
+      "src": "/images/properties/hill/originals/440-Picture4.webp",
+      "sourceUrl": "https://hill-residences.com/wp-content/uploads/2024/11/Picture4.webp",
+      "originalFilename": "Picture4.webp",
+      "label": "Shared original two-bedroom arrangement diagram",
+      "publisherLabel": "Picture4",
+      "width": 291,
+      "height": 354,
+      "format": "webp",
+      "sha256": "0504c49a31569ba5d42fcaca5a166547717269eaa21a035c067fc707d78c4068",
+      "pages": [
+        "flexi-suite",
+        "flexi-suite-end",
+        "flexi-suite-with-balcony"
+      ],
+      "isFloorPlan": true,
+      "publisherSourceUrl": "https://hill-residences.com/wp-content/uploads/2024/11/Picture4.webp",
+      "sourceBytesVerified": true,
+      "displaySrc": "/images/properties/hill/originals/440-preview.webp",
+      "kind": "originalFloorPlan",
+      "includeInWebsite": true,
+      "captionEvidence": "Full source image visually inspected; model association follows source page placement; gallery274/275/276 explicitly print Artist’s Perspective. No drawing prints floor area, dimensions or model-title labels."
+    }
+  },
+  "modelMappings": {
+    "flexi-suite": {
+      "interiorIds": [
+        324
+      ],
+      "floorPlanIds": [
+        438,
+        439,
+        440
+      ],
+      "sharedGalleryIds": [
+        274,
+        275,
+        276
+      ]
+    },
+    "flexi-suite-end": {
+      "interiorIds": [
+        324
+      ],
+      "floorPlanIds": [
+        438,
+        439,
+        440
+      ],
+      "sharedGalleryIds": [
+        274,
+        275,
+        276
+      ]
+    },
+    "flexi-suite-with-balcony": {
+      "interiorIds": [
+        324
+      ],
+      "floorPlanIds": [
+        438,
+        439,
+        440
+      ],
+      "sharedGalleryIds": [
+        274,
+        275,
+        276
+      ]
+    }
+  },
+  "byPage": {
+    "home": [
+      239,
+      242,
+      276
+    ],
+    "prices-and-computations": [
+      295
+    ],
+    "flexi-suite": [
+      295,
+      324,
+      438,
+      439,
+      440
+    ],
+    "flexi-suite-end": [
+      295,
+      324,
+      438,
+      439,
+      440
+    ],
+    "flexi-suite-with-balcony": [
+      295,
+      324,
+      438,
+      439,
+      440
+    ],
+    "units": [
+      295,
+      274,
+      275,
+      276
+    ],
+    "floor-plans": [
+      295,
+      344,
+      343,
+      319,
+      349,
+      348,
+      385,
+      351
+    ],
+    "amenities": [
+      295,
+      311,
+      323,
+      331,
+      330,
+      329,
+      332,
+      327,
+      328
+    ],
+    "location": [
+      295,
+      257
+    ]
+  },
+  "failures": [],
+  "importedAt": "2026-10-13",
+  "auditStatus": "All22originalassets visually inspected and source hashes verified",
+  "excluded": [
+    {
+      "ids": [
+        239,
+        295
+      ],
+      "reason": "Source logos excluded to preserve JMG branding."
+    },
+    {
+      "ids": [
+        344,
+        343
+      ],
+      "reason": "Building-wide level layouts outside requested individual unit-plan scope."
+    }
+  ],
+  "limitations": [
+    "All3 supplied model pages use exactly the same image324 and colored diagrams438/439/440. Those diagrams show studio/one-bedroom/two-bedroom arrangements, not unique End or Balcony configurations.",
+    "No unit diagram prints numeric floor area, dimensions or model title; none ofthe7 collected unit diagrams shows a balcony. Floor-page labels identify349one-bedroom,348two-bedroom,351studio but do not establish correspondence to offered End/Balcony units.",
+    "Model-page diagrams are low-resolution302x370,296x359,291x354. Higher-resolution reference layouts349/348/351 are1484x2316; neither upscaling nor source dimension implies measured room size.",
+    "All illustrative interiors/project/amenity images are renderings. Shared gallery274/275/276 explicitly stateArtist’s Perspective. No actual unit photograph verified.",
+    "Balcony computation page displaysUnit not found despite overview guide₱3.3M/28.52sq m; no exact dated balcony price found.",
+    "Source price date isAugust5,2025; downloaded calculator reservation/payment dates are generated aroundOctober2026 and should not be used as current promotional validity dates."
+  ],
+  "priceAudit": {
+    "sourceDate": "2025-08-05",
+    "flexiSuite": {
+      "listPrice": 3262000,
+      "areaSqm": 28.52,
+      "view": "West"
+    },
+    "flexiSuiteEnd": {
+      "listPrice": 3478000,
+      "areaSqm": 29.76,
+      "view": "South"
+    },
+    "flexiSuiteWithBalcony": {
+      "listPrice": null,
+      "overviewPrice": "₱3.3M",
+      "overviewAreaSqm": 28.52,
+      "computationResult": "Unit not found"
+    }
+  }
+}

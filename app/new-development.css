@@ -1,0 +1,10 @@
+.site-added-development .development-heading h1 {font-size:clamp(43px,5.4vw,80px);overflow-wrap:normal;}
+.added-development-hero {margin:32px 0 0;}
+.added-development-hero img {display:block;width:100%;height:auto;max-height:650px;object-fit:contain;background:#f0eee8;}
+.added-development-hero figcaption {font-size:13px;line-height:1.7;max-width:950px;margin:12px 0;color:var(--muted);}
+.added-model-links {display:flex;flex-wrap:wrap;gap:12px;margin-top:26px;}
+.added-model-links .button {white-space:normal;text-align:left;}
+.added-reference-details {margin-top:28px;border-top:1px solid var(--line);padding-top:18px;}
+.added-reference-details summary {cursor:pointer;font-size:15px;font-weight:600;line-height:1.7;}
+.historical-sample-section .official-interior-photo {aspect-ratio:16/9;}
+@media(max-width:600px){.site-added-development .development-heading h1{font-size:42px;}.added-model-links{display:grid;}.site-added-development .glam-hero-actions{align-items:stretch;}}

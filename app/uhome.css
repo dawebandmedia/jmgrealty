@@ -1,0 +1,4 @@
+.site-uhome .development-hero img { object-fit: contain; background: var(--paper); }
+.uhome-plan-request { padding: 38px; border: 1px solid var(--line); background: var(--paper); margin-block: 56px; }
+.uhome-plan-request p { max-width: 760px; }
+@media(max-width:640px) { .uhome-plan-request { padding: 24px 18px; } }

@@ -1,0 +1,7 @@
+.site-vine .glam-hero-actions {display:flex;flex-direction:column;align-items:flex-start;gap:20px;flex-shrink:0;}
+.site-vine .development-heading h1 {font-size:clamp(49px,6vw,86px);}
+.vine-map .official-interior-grid,.vine-site .official-interior-grid {grid-template-columns:1fr;}
+.vine-map .official-interior-photo,.vine-site .official-interior-photo {aspect-ratio:auto!important;}
+.vine-map .official-interior-photo img,.vine-site .official-interior-photo img {position:static;width:100%;height:auto;object-fit:contain;}
+.site-vine .official-floor-plan-grid {grid-template-columns:1fr;}
+@media(max-width:640px){.site-vine .development-heading h1{font-size:49px;}.site-vine .official-interior-grid{grid-template-columns:1fr;}}

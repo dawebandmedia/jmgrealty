@@ -1,0 +1,116 @@
+.shore3-development-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 24px;
+  padding: 18px 0 28px;
+  border-top: 1px solid var(--line);
+}
+.shore3-development-nav a {
+  min-height: 44px;
+  display: inline-flex;
+  align-items: center;
+  font-size: 14px;
+  border-bottom: 1px solid var(--line);
+}
+.shore3-price-note {
+  border: 1px solid var(--line);
+  background: var(--cream);
+  padding: 24px;
+  margin: 28px 0;
+}
+.shore3-price-note p {
+  margin: 14px 0;
+  font-size: 14px;
+}
+.shore3-price-note p:last-child {
+  margin-bottom: 0;
+}
+.shore3-amenities,
+.shore3-show-unit {
+  scroll-margin-top: 110px;
+  margin-block: 72px;
+  padding-block: 48px;
+  border-top: 1px solid var(--line);
+}
+.shore3-amenities > header {
+  max-width: 760px;
+  margin-bottom: 32px;
+}
+.shore3-amenity-groups {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 24px;
+}
+.shore3-amenity-groups article {
+  min-width: 0;
+  background: var(--cream);
+  border: 1px solid var(--line);
+  padding: 26px;
+}
+.shore3-amenity-groups h3 {
+  font-size: 30px;
+  line-height: 1.2;
+  margin: 16px 0;
+}
+.shore3-amenity-groups ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+.shore3-amenity-groups li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  font-size: 14px;
+  line-height: 1.7;
+  padding-block: 8px;
+}
+.shore3-amenity-groups svg {
+  margin-top: 4px;
+  color: #72896a;
+}
+.shore3-source-note {
+  font-size: 13px;
+  margin-block: 24px;
+}
+.shore3-source-note a {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.shore3-amenities .official-interior-grid,
+.shore3-show-unit .official-interior-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+.shore3-amenities .official-interior-grid figure:first-child {
+  grid-column: auto;
+}
+.shore3-amenities .official-interior-grid figure:first-child .official-interior-photo {
+  aspect-ratio: 4 / 3;
+}
+.site-model .model-inquiry .inquiry-price {
+  color: var(--paper);
+}
+.shore3-unit-amenity-link {
+  margin-top: 24px;
+}
+@media (max-width: 930px) {
+  .shore3-amenity-groups {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 650px) {
+  .shore3-amenity-groups,
+  .shore3-amenities .official-interior-grid,
+  .shore3-show-unit .official-interior-grid {
+    grid-template-columns: 1fr;
+  }
+  .shore3-amenity-groups article,
+  .shore3-price-note {
+    padding: 20px;
+  }
+  .shore3-amenities,
+  .shore3-show-unit {
+    margin-block: 44px;
+    padding-block: 30px;
+  }
+}

@@ -1,0 +1,63 @@
+/* Progressive enhancement: native controls, readable prices and static layouts first. */
+.motion-image-stack{display:block;position:relative;width:100%;height:100%;overflow:hidden}
+.motion-image-outgoing{position:absolute!important;inset:0;width:100%;height:100%;object-fit:inherit;pointer-events:none;opacity:0}
+.model-lightbox .motion-image-stack{height:65vh;height:65svh}
+.model-lightbox .motion-image-stack>img{width:100%;height:100%;max-height:100%;object-fit:contain}
+.editorial-image{animation:none}.editorial-image>a{position:relative}
+.architectural-copy>.eyebrow,.architectural-copy h1,.architectural-copy p,.architectural-actions,.architectural-frame{animation:none}
+.model-selector>button:last-of-type,.location-index>button:last-of-type{border-right:0}
+.motion-choice-group{position:relative}
+.motion-selection-marker{position:absolute;left:0;top:0;width:40px;height:3px;background:#c8a954;border-radius:2px;pointer-events:none;opacity:0;z-index:1}
+.motion-architecture{display:block;color:#d1b46b;max-width:100%;margin-top:20px;overflow:visible}
+.motion-spotlight{position:absolute;left:0;top:0;width:320px;height:320px;border-radius:50%;pointer-events:none;opacity:0;background:radial-gradient(circle,rgba(255,244,200,.9),rgba(255,244,200,0) 68%);transition:opacity 160ms ease;z-index:1}
+.frame-image .frame-label{z-index:2}
+.bookmark-glyph{display:inline-flex;align-items:center;justify-content:center;flex:0 0 17px;transform-origin:center}
+.save-model{min-width:124px}.save-model.compact{min-width:104px}
+.motion-preference-control{min-height:44px;padding:8px 12px;color:inherit;background:transparent;border:1px solid #bac5ae80;border-radius:3px;font-size:12px;cursor:pointer}.motion-preference-control:disabled{cursor:default;opacity:.8}
+.compare-model dl>div{position:relative;isolation:isolate}
+.comparison-glow{position:absolute;inset:0;background:#d4b65d;opacity:0;pointer-events:none;z-index:-1}
+.catalog-card-image{overflow:hidden}.catalog-card-image>img{transition:none}
+.official-viewer-image-layer{position:absolute;left:50%;top:50%;transform-origin:center;pointer-events:none}
+.official-viewer-image-layer img{width:100%;height:100%;max-width:none;max-height:none;object-fit:contain;pointer-events:none}
+.official-viewer-viewport:not(.is-dragging)>.official-viewer-image-layer{transition:transform 180ms cubic-bezier(.2,.7,.3,1)}
+.official-viewer-viewport.is-dragging>.official-viewer-image-layer{transition:none!important}
+@supports not (height:100dvh){.official-media-dialog{height:calc(100vh - 48px);max-height:calc(100vh - 48px)}.official-media-dialog:fullscreen{height:100vh;max-height:100vh}@media(max-width:650px){.official-media-dialog{height:calc(100vh - 16px);max-height:calc(100vh - 16px)}}}
+@media(max-height:540px){
+ .official-media-dialog{height:calc(100vh - 16px);max-height:calc(100vh - 16px)}
+ @supports(height:100dvh){.official-media-dialog{height:calc(100dvh - 16px);max-height:calc(100dvh - 16px)}}
+ .official-viewer-content{overflow-y:auto}
+ .official-viewer-header{padding:8px 12px;gap:8px}.official-viewer-header h2{font-size:19px;line-height:1.15;margin-top:4px}.official-viewer-header .eyebrow{font-size:9px}
+ .official-viewer-toolbar{padding:4px 8px;gap:5px}.official-viewer-viewport{min-height:50px}
+ .official-viewer-footer{padding:6px 10px;gap:10px}.official-viewer-footer p{font-size:11px;line-height:1.4}
+ .official-viewer-navigation{padding:4px 8px;gap:6px}.official-viewer-thumbnails button{height:44px}
+ .model-lightbox{padding-top:45px}.model-lightbox .motion-image-stack{height:52vh;height:52svh}
+}
+@media(prefers-reduced-motion:no-preference){
+ .bookmark-glyph.was-toggled{animation:jmg-bookmark-spring 300ms ease-out both}
+ .motion-image-outgoing{animation:jmg-photo-crossfade 200ms ease-out both}
+ .motion-architecture path{animation:jmg-architecture-draw 1100ms cubic-bezier(.2,.6,.3,1) both}
+ .motion-success-check path{animation:jmg-check-draw 320ms ease-out both}
+ .comparison-glow{animation:jmg-fact-highlight 600ms ease-out both}
+ .official-media-dialog[open] .official-viewer-header,.model-lightbox[open] figcaption{animation:jmg-caption-appear 160ms ease-out both}
+ .catalog-active-filters button{animation:jmg-chip-appear 160ms ease-out both}
+}
+@media(hover:hover) and (pointer:fine) and (prefers-reduced-motion:no-preference){
+ .catalog-card-image>img{transition:transform 220ms cubic-bezier(.2,.7,.3,1)}
+ .catalog-card-image:hover>img{transform:scale(1.025)}
+}
+@keyframes jmg-bookmark-spring{0%{transform:scale(.78)}50%{transform:scale(1.12)}78%{transform:scale(.98)}100%{transform:scale(1)}}
+@keyframes jmg-photo-crossfade{from{opacity:1}to{opacity:0}}
+@keyframes jmg-architecture-draw{from{stroke-dasharray:1;stroke-dashoffset:1}to{stroke-dasharray:1;stroke-dashoffset:0}}
+@keyframes jmg-check-draw{from{stroke-dasharray:1;stroke-dashoffset:1}to{stroke-dasharray:1;stroke-dashoffset:0}}
+@keyframes jmg-fact-highlight{from{opacity:.25}to{opacity:0}}
+@keyframes jmg-caption-appear{from{opacity:.85}to{opacity:1}}
+@keyframes jmg-chip-appear{from{opacity:.8}to{opacity:1}}
+@media(hover:none),(pointer:coarse){.motion-spotlight{display:none}.catalog-card-image:hover>img{transform:none}.editorial-image:hover img{transform:none}}
+html[data-jmg-motion="reduced"] *,html[data-jmg-motion="reduced"] *::before,html[data-jmg-motion="reduced"] *::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+html[data-jmg-motion="reduced"] .motion-spotlight,html[data-jmg-motion="reduced"] .motion-image-outgoing{display:none}
+html[data-jmg-motion="reduced"] .frame-image img,html[data-jmg-motion="reduced"] .catalog-card-image:hover>img,html[data-jmg-motion="reduced"] .editorial-image:hover img{transform:none!important}
+@media(prefers-reduced-motion:reduce){
+ *,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}
+ .motion-spotlight,.motion-image-outgoing{display:none}
+ .frame-image img{transform:none!important}
+}

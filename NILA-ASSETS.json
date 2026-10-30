@@ -1,0 +1,212 @@
+{
+  "project": "Nila Residences",
+  "reviewedAt": "2026-10-15",
+  "publisher": "The Mont Property Group, Inc.",
+  "publicReference": "https://www.nila.ph/",
+  "images": {
+    "courtyard": {
+      "src": "/images/properties/nila/originals/courtyard.png",
+      "displaySrc": "/images/properties/nila/originals/courtyard-display.webp",
+      "label": "Landscaped courtyard — architectural rendering",
+      "width": 2480,
+      "height": 1274,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "15.png",
+      "archiveSource": "Social Media assets/15.png",
+      "sha256": "c8440e3740ee3b54bbe04af41c878aa1b21853da5c74e4f4d9875060dde54b27",
+      "kind": "architecturalRendering"
+    },
+    "entrance": {
+      "src": "/images/properties/nila/originals/entrance.png",
+      "displaySrc": "/images/properties/nila/originals/entrance-display.webp",
+      "label": "Project entrance — architectural rendering",
+      "width": 2576,
+      "height": 1424,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "1.png",
+      "archiveSource": "Social Media assets/1.png",
+      "sha256": "1d02f62dd7f926e6b338d4a0c91f7da614f745a827fede9ca46a95035b2cb989",
+      "kind": "architecturalRendering"
+    },
+    "courtyard-overview": {
+      "src": "/images/properties/nila/originals/courtyard-overview.png",
+      "displaySrc": "/images/properties/nila/originals/courtyard-overview-display.webp",
+      "label": "Courtyard overview — architectural rendering",
+      "width": 2486,
+      "height": 1282,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "14.png",
+      "archiveSource": "Social Media assets/14.png",
+      "sha256": "004daf81bdedac69d5a9b79c26cb7be912950f984f27bd4e496d431721a039c0",
+      "kind": "architecturalRendering"
+    },
+    "pool": {
+      "src": "/images/properties/nila/originals/pool.png",
+      "displaySrc": "/images/properties/nila/originals/pool-display.webp",
+      "label": "Swimming pool — architectural rendering",
+      "width": 2476,
+      "height": 1286,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "11.png",
+      "archiveSource": "Social Media assets/11.png",
+      "sha256": "fa257920f6c584d8c2eea2f75ed53dcb71150fd5d5d9a078259d1b4c777f24dc",
+      "kind": "architecturalRendering"
+    },
+    "poolside": {
+      "src": "/images/properties/nila/originals/poolside.png",
+      "displaySrc": "/images/properties/nila/originals/poolside-display.webp",
+      "label": "Poolside landscaping — architectural rendering",
+      "width": 2486,
+      "height": 1282,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "13.png",
+      "archiveSource": "Social Media assets/13.png",
+      "sha256": "c0f4e236caad7b4ddf103ac27061bc39e5471220873f40f00fe5c9df2d346ffc",
+      "kind": "architecturalRendering"
+    },
+    "living": {
+      "src": "/images/properties/nila/originals/living.png",
+      "displaySrc": "/images/properties/nila/originals/living-display.webp",
+      "label": "Shared living-room design perspective",
+      "width": 1950,
+      "height": 820,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "9.png",
+      "archiveSource": "Social Media assets/9.png",
+      "sha256": "9c1ad6d0353c64f30742a05aacb3fbe9a12ae4653fff637ca174890afce38f90",
+      "kind": "architecturalRendering"
+    },
+    "dining-kitchen": {
+      "src": "/images/properties/nila/originals/dining-kitchen.png",
+      "displaySrc": "/images/properties/nila/originals/dining-kitchen-display.webp",
+      "label": "Shared dining and kitchen design perspective",
+      "width": 1950,
+      "height": 812,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "10.png",
+      "archiveSource": "Social Media assets/10.png",
+      "sha256": "6bb9780c7f49a79a9afa60a7e350b778bad2f97b17016b132cfb3c5c876abd0d",
+      "kind": "architecturalRendering"
+    },
+    "bedroom": {
+      "src": "/images/properties/nila/originals/bedroom.png",
+      "displaySrc": "/images/properties/nila/originals/bedroom-display.webp",
+      "label": "Shared bedroom design perspective",
+      "width": 1942,
+      "height": 912,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "5.png",
+      "archiveSource": "Social Media assets/5.png",
+      "sha256": "f68d61eb49fe12bc2d02c048e17f34fc1dda068a35e87ffed0b00e304f3d7a43",
+      "kind": "architecturalRendering"
+    },
+    "bedroom-alternate": {
+      "src": "/images/properties/nila/originals/bedroom-alternate.png",
+      "displaySrc": "/images/properties/nila/originals/bedroom-alternate-display.webp",
+      "label": "Additional shared bedroom design perspective",
+      "width": 1940,
+      "height": 912,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "6.png",
+      "archiveSource": "Social Media assets/6.png",
+      "sha256": "e6cf037974fac4188f14fbbfc47b4c1ad728601663dbbe1f8dd565e377858de4",
+      "kind": "architecturalRendering"
+    },
+    "private-lift": {
+      "src": "/images/properties/nila/originals/private-lift.png",
+      "displaySrc": "/images/properties/nila/originals/private-lift-display.webp",
+      "label": "Private lift and stairs — design perspective",
+      "width": 1902,
+      "height": 1070,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "7.png",
+      "archiveSource": "Social Media assets/7.png",
+      "sha256": "5f4d418506cae760a171e8e52442bb59341e2e4ffc44a2ca214a7832d996c479",
+      "kind": "architecturalRendering"
+    },
+    "bathroom": {
+      "src": "/images/properties/nila/originals/bathroom.png",
+      "displaySrc": "/images/properties/nila/originals/bathroom-display.webp",
+      "label": "Shared bathroom design perspective",
+      "width": 1950,
+      "height": 1068,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "8.png",
+      "archiveSource": "Social Media assets/8.png",
+      "sha256": "6a1e683d71e0d2b986ab2f3ef4f0b724b79290b69b80b43fd8c0897649a0c68c",
+      "kind": "architecturalRendering"
+    },
+    "premium-3-plan": {
+      "src": "/images/properties/nila/originals/premium-3-plan.jpg",
+      "displaySrc": "/images/properties/nila/originals/premium-3-plan-display.webp",
+      "label": "Premium 3 Bedroom — original published plan",
+      "width": 4032,
+      "height": 2268,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "Unit Layouts.pdf — page 1",
+      "archiveSource": "Technical & FAQs/Unit Layouts.pdf",
+      "sha256": "731aa472ebac6bbd73d687f79c56840e2bdf4759ef5458e2ee6fb21432bb593e",
+      "kind": "originalFloorPlan",
+      "levels": [
+        "Lower Ground Floor",
+        "Upper Ground Floor",
+        "Second Floor",
+        "Third Floor"
+      ]
+    },
+    "signature-3-plan": {
+      "src": "/images/properties/nila/originals/signature-3-plan.jpg",
+      "displaySrc": "/images/properties/nila/originals/signature-3-plan-display.webp",
+      "label": "Signature 3 Bedroom — original published plan",
+      "width": 4032,
+      "height": 2268,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "Unit Layouts.pdf — page 2",
+      "archiveSource": "Technical & FAQs/Unit Layouts.pdf",
+      "sha256": "0d23c9abafd9bdc109cf7da7f27a8a7ce289987f95d2862b753dd2d465d979c7",
+      "kind": "originalFloorPlan",
+      "levels": [
+        "Lower Ground Floor",
+        "Upper Ground Floor",
+        "Second Floor",
+        "Third Floor"
+      ]
+    },
+    "premium-4-plan": {
+      "src": "/images/properties/nila/originals/premium-4-plan.jpg",
+      "displaySrc": "/images/properties/nila/originals/premium-4-plan-display.webp",
+      "label": "Premium 4 Bedroom — original published plan",
+      "width": 4032,
+      "height": 2268,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "Unit Layouts.pdf — page 3",
+      "archiveSource": "Technical & FAQs/Unit Layouts.pdf",
+      "sha256": "307b89f0da6259a23b4f3f488b0ead2844f655cc4ebaafdc4f7a04d9aed18145",
+      "kind": "originalFloorPlan",
+      "levels": [
+        "Lower Ground Floor",
+        "Upper Ground Floor",
+        "Second Floor",
+        "Third Floor"
+      ]
+    },
+    "garden-4-plan": {
+      "src": "/images/properties/nila/originals/garden-4-plan.jpg",
+      "displaySrc": "/images/properties/nila/originals/garden-4-plan-display.webp",
+      "label": "Garden 4 Bedroom — original published plan",
+      "width": 4032,
+      "height": 2268,
+      "sourceUrl": "https://www.nila.ph/courtyardunits",
+      "originalFilename": "Unit Layouts.pdf — page 4",
+      "archiveSource": "Technical & FAQs/Unit Layouts.pdf",
+      "sha256": "8e760017acde4c83fce3f56362ba37c9c46615bc408ab80635efdeb701d8c088",
+      "kind": "originalFloorPlan",
+      "levels": [
+        "Lower Ground Floor",
+        "Upper Ground Floor",
+        "Second Floor",
+        "Third Floor"
+      ]
+    }
+  }
+}

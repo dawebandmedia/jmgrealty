@@ -1,0 +1,146 @@
+{
+  "project": "APEC Homes Norzagaray",
+  "reviewedAt": "2026-10-15",
+  "source": "Supplied project profile and selected property images",
+  "publicSource": "https://apechomes.com/",
+  "images": {
+    "vicinity": {
+      "src": "/images/properties/norzagaray/originals/vicinity.jpg",
+      "displaySrc": "/images/properties/norzagaray/originals/vicinity-display.webp",
+      "label": "Original Norzagaray vicinity reference",
+      "width": 2500,
+      "height": 1406,
+      "sourceUrl": "https://apechomes.com/",
+      "originalFilename": "image2.jpg",
+      "sha256": "847bd5d22650b076af96aed4b0c37bfea2b5522ca688c71e4fdd8306f9cd3057",
+      "role": "referenceImage"
+    },
+    "townhouse-sheet": {
+      "src": "/images/properties/norzagaray/originals/townhouse-sheet.jpg",
+      "displaySrc": "/images/properties/norzagaray/originals/townhouse-sheet-display.webp",
+      "label": "Townhouse 44 — original model and specifications sheet",
+      "width": 2500,
+      "height": 1407,
+      "sourceUrl": "https://apechomes.com/",
+      "originalFilename": "image4.jpg",
+      "sha256": "b8693b881890715eafa97c19c3564b10deed157058a1c98f84f20952596aaea6",
+      "role": "modelSheet"
+    },
+    "townhouse-plan": {
+      "src": "/images/properties/norzagaray/originals/townhouse-plan.jpg",
+      "displaySrc": "/images/properties/norzagaray/originals/townhouse-plan-display.webp",
+      "label": "Townhouse 44 — original floor-plan sheet",
+      "width": 2500,
+      "height": 1406,
+      "sourceUrl": "https://apechomes.com/",
+      "originalFilename": "image5.jpg",
+      "sha256": "7e4719e92f5f298bace83d2e8ac52a6f9d7c219741f8261bcf2aab1a2263e7b0",
+      "role": "originalFloorPlan",
+      "levels": [
+        "Ground floor",
+        "Second floor"
+      ]
+    },
+    "carport-sheet": {
+      "src": "/images/properties/norzagaray/originals/carport-sheet.jpg",
+      "displaySrc": "/images/properties/norzagaray/originals/carport-sheet-display.webp",
+      "label": "Townhouse 44 with Provision for Carport — original model sheet",
+      "width": 2500,
+      "height": 1406,
+      "sourceUrl": "https://apechomes.com/",
+      "originalFilename": "image6.jpg",
+      "sha256": "73c3577a7f83a46f4d158a344947257b8cea335562077faf2f9372eca3ac68a8",
+      "role": "modelSheet"
+    },
+    "carport-plan": {
+      "src": "/images/properties/norzagaray/originals/carport-plan.jpg",
+      "displaySrc": "/images/properties/norzagaray/originals/carport-plan-display.webp",
+      "label": "Townhouse 44 with Provision for Carport — original floor-plan sheet",
+      "width": 2500,
+      "height": 1406,
+      "sourceUrl": "https://apechomes.com/",
+      "originalFilename": "image7.jpg",
+      "sha256": "d39f40147a132f6b41d80ee063eca795fb0b5f7f512e91d3778512702b1c2bcb",
+      "role": "originalFloorPlan",
+      "levels": [
+        "Ground floor",
+        "Second floor"
+      ]
+    },
+    "duplex-sheet": {
+      "src": "/images/properties/norzagaray/originals/duplex-sheet.jpg",
+      "displaySrc": "/images/properties/norzagaray/originals/duplex-sheet-display.webp",
+      "label": "Duplex 45.50 — original model and specifications sheet",
+      "width": 2500,
+      "height": 1407,
+      "sourceUrl": "https://apechomes.com/",
+      "originalFilename": "image8.jpg",
+      "sha256": "23004555014c6527f296e40dcce9a235ee25b12c2f78c73a8e9a3411ab6a8a24",
+      "role": "modelSheet"
+    },
+    "duplex-plan": {
+      "src": "/images/properties/norzagaray/originals/duplex-plan.jpg",
+      "displaySrc": "/images/properties/norzagaray/originals/duplex-plan-display.webp",
+      "label": "Duplex 45.50 — original floor-plan sheet",
+      "width": 2500,
+      "height": 1406,
+      "sourceUrl": "https://apechomes.com/",
+      "originalFilename": "image9.jpg",
+      "sha256": "74d514fa342c8eb075e2f6e161d0e4283f05034ea421b10bf59c98cdbaeb2607",
+      "role": "originalFloorPlan",
+      "levels": [
+        "Ground floor",
+        "Second floor"
+      ]
+    },
+    "single-attached-sheet": {
+      "src": "/images/properties/norzagaray/originals/single-attached-sheet.jpg",
+      "displaySrc": "/images/properties/norzagaray/originals/single-attached-sheet-display.webp",
+      "label": "Single Attached 45.50 — original model and specifications sheet",
+      "width": 2500,
+      "height": 1406,
+      "sourceUrl": "https://apechomes.com/",
+      "originalFilename": "image10.jpg",
+      "sha256": "fc0215d2aadd7081ac5df6b8a564cec5ca90cbc962b2fb2f25f26fc300a3b0c9",
+      "role": "modelSheet"
+    },
+    "single-attached-plan": {
+      "src": "/images/properties/norzagaray/originals/single-attached-plan.jpg",
+      "displaySrc": "/images/properties/norzagaray/originals/single-attached-plan-display.webp",
+      "label": "Single Attached 45.50 — original floor-plan sheet",
+      "width": 2500,
+      "height": 1407,
+      "sourceUrl": "https://apechomes.com/",
+      "originalFilename": "image11.jpg",
+      "sha256": "a23b06982ea7c5c031e3c76f64aeca597820958da7debf7998b2b4f178ee5384",
+      "role": "originalFloorPlan",
+      "levels": [
+        "Ground floor",
+        "Second floor"
+      ]
+    },
+    "bare-turnover": {
+      "src": "/images/properties/norzagaray/originals/bare-turnover.jpg",
+      "displaySrc": "/images/properties/norzagaray/originals/bare-turnover-display.webp",
+      "label": "Shared bare-type turnover photograph reference",
+      "width": 1920,
+      "height": 1080,
+      "sourceUrl": "https://apechomes.com/",
+      "originalFilename": "Baretype Turn-over (1).jpg",
+      "sha256": "7e2c81325ca8a3abbfda0268a746c35862e3f54d3431a197c4751c9fe3df7927",
+      "role": "referenceImage"
+    },
+    "site-update": {
+      "src": "/images/properties/norzagaray/originals/site-update.png",
+      "displaySrc": "/images/properties/norzagaray/originals/site-update-display.webp",
+      "label": "Archived Norzagaray site-update photographs",
+      "width": 1247,
+      "height": 706,
+      "sourceUrl": "https://apechomes.com/",
+      "originalFilename": "8.10.2026_pic2.png",
+      "sha256": "dc7a0620fce4a292b037b40166012b0cd0a4cca771448af8969d623618f4373a",
+      "role": "referenceImage"
+    }
+  },
+  "excluded": "Client and inventory materials, opening stock slides, lot-level price documents, sample computations, payment/booking instructions, sales awards and rankings. The full presentation and sales plan are not published."
+}

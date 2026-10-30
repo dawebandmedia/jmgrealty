@@ -1,0 +1,172 @@
+{
+  "amenities": {
+    "modelId": "shore-3-amenities",
+    "sourceUrl": "https://shore3residences.com/amenities/",
+    "publisher": "shore3residences.com",
+    "galleryId": "amenity-gallery",
+    "galleryHeading": "Places to unwind.",
+    "galleryEyebrow": "SHORE 3 RESIDENCES / AMENITY GALLERY",
+    "galleryDescription": "Published architectural renderings of the pool and lobby spaces. These illustrate the development concept rather than verify completed facilities.",
+    "gallerySourceNote": "Marketing renderings; images attributed by the source to SM Development Corporation",
+    "imageNoun": "illustrations",
+    "interiorImages": [
+      {
+        "id": 809,
+        "src": "/images/properties/shore-3/originals/809-SM-Shore-3-Pool-Amenity-Area-1536x1024-1-1.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/SM-Shore-3-Pool-Amenity-Area-1536x1024-1-1.webp",
+        "originalFilename": "SM-Shore-3-Pool-Amenity-Area-1536x1024-1-1.webp",
+        "label": "Pool courtyard — architectural rendering",
+        "width": 2200,
+        "height": 1466,
+        "format": "webp",
+        "sha256": "ba2ad9851568c0e1f5deb6addf33ba5b83f418f7562ae506d79a8f7f68908b8b",
+        "pages": [
+          "amenities"
+        ],
+        "displaySrc": "/images/properties/shore-3/originals/809-display.webp"
+      },
+      {
+        "id": 806,
+        "src": "/images/properties/shore-3/originals/806-Shore-3-Residences-Lobby-2-1536x1024-1-1.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/Shore-3-Residences-Lobby-2-1536x1024-1-1.webp",
+        "originalFilename": "Shore-3-Residences-Lobby-2-1536x1024-1-1.webp",
+        "label": "Lobby reception — architectural rendering",
+        "width": 2200,
+        "height": 1466,
+        "format": "webp",
+        "sha256": "cc182af993c034cf157decea2bfd4d1e1c14b5de4bcbf9c53ff05d88a4656817",
+        "pages": [
+          "amenities"
+        ],
+        "displaySrc": "/images/properties/shore-3/originals/806-display.webp"
+      },
+      {
+        "id": 808,
+        "src": "/images/properties/shore-3/originals/808-Shore-3-Residences-Lobby-Tower-4-1536x1024-1-1.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/Shore-3-Residences-Lobby-Tower-4-1536x1024-1-1.webp",
+        "originalFilename": "Shore-3-Residences-Lobby-Tower-4-1536x1024-1-1.webp",
+        "label": "Tower 4 lobby seating — architectural rendering",
+        "width": 2200,
+        "height": 1466,
+        "format": "webp",
+        "sha256": "149a271114517609814c86fbf4340deb93284dc3acf02e62526892dc66236fdc",
+        "pages": [
+          "home",
+          "amenities"
+        ],
+        "displaySrc": "/images/properties/shore-3/originals/808-display.webp"
+      },
+      {
+        "id": 810,
+        "src": "/images/properties/shore-3/originals/810-Shore-3-Residences-Lobby-1536x1024-1-1.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/Shore-3-Residences-Lobby-1536x1024-1-1.webp",
+        "originalFilename": "Shore-3-Residences-Lobby-1536x1024-1-1.webp",
+        "label": "Lobby lounge corridor — architectural rendering",
+        "width": 2200,
+        "height": 1466,
+        "format": "webp",
+        "sha256": "325716cc8e44f453f27c3a939c809d978517f48c954a3111afb407c3438bacd9",
+        "pages": [
+          "amenities"
+        ],
+        "displaySrc": "/images/properties/shore-3/originals/810-display.webp"
+      }
+    ],
+    "floorPlans": [],
+    "limitations": []
+  },
+  "showUnit": {
+    "modelId": "shore-3-show-unit",
+    "sourceUrl": "https://shore3residences.com/units/",
+    "publisher": "shore3residences.com",
+    "galleryId": "show-unit-gallery",
+    "galleryHeading": "A look inside.",
+    "galleryEyebrow": "SHORE 3 RESIDENCES / SHARED SHOW-UNIT GALLERY",
+    "galleryDescription": "Five images from the source’s dressed-up unit gallery. The source does not map these to particular unit types; they are shown here as development-level references.",
+    "gallerySourceNote": "Mixed show-unit photographs and marketing illustrations; not evidence of a specific available unit",
+    "imageNoun": "images",
+    "interiorImages": [
+      {
+        "id": 822,
+        "src": "/images/properties/shore-3/originals/822-1-1.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/1-1.webp",
+        "originalFilename": "1-1.webp",
+        "label": "Furnished living and dining area",
+        "width": 2200,
+        "height": 1650,
+        "format": "webp",
+        "sha256": "a3d3665b0937da6795d5327f25e071a0ec78ee40d01cefc28eef8daba3489afa",
+        "pages": [
+          "units"
+        ],
+        "displaySrc": "/images/properties/shore-3/originals/822-display.webp"
+      },
+      {
+        "id": 821,
+        "src": "/images/properties/shore-3/originals/821-3.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/3.webp",
+        "originalFilename": "3.webp",
+        "label": "Bedroom and study desk — marketing illustration",
+        "width": 2200,
+        "height": 1650,
+        "format": "webp",
+        "sha256": "b01899b010979e928178ca8f63e2c0db91403a0c6a26182825872788aedd839c",
+        "pages": [
+          "1-bedroom-balcony",
+          "units"
+        ],
+        "displaySrc": "/images/properties/shore-3/originals/821-display.webp"
+      },
+      {
+        "id": 820,
+        "src": "/images/properties/shore-3/originals/820-2-1.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/2-1.webp",
+        "originalFilename": "2-1.webp",
+        "label": "Living area and adjacent bedroom — marketing illustration",
+        "width": 2200,
+        "height": 1650,
+        "format": "webp",
+        "sha256": "d4878c180e3861a25e0b7917f56decf47f322891d080cfb1ddd9cb8c3bc87b8f",
+        "pages": [
+          "home",
+          "2-bedroom-balcony",
+          "2-bedroom-end-balcony",
+          "units"
+        ],
+        "displaySrc": "/images/properties/shore-3/originals/820-display.webp"
+      },
+      {
+        "id": 819,
+        "src": "/images/properties/shore-3/originals/819-5-3.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/5-3.webp",
+        "originalFilename": "5-3.webp",
+        "label": "Furnished dining area with bedroom beyond",
+        "width": 2200,
+        "height": 1650,
+        "format": "webp",
+        "sha256": "fa5ad33532afe513181b05ed0a660c9fd386ed83fe4689f2466459fd42526e5c",
+        "pages": [
+          "units"
+        ],
+        "displaySrc": "/images/properties/shore-3/originals/819-display.webp"
+      },
+      {
+        "id": 818,
+        "src": "/images/properties/shore-3/originals/818-4.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/4.webp",
+        "originalFilename": "4.webp",
+        "label": "Balcony-side seating — marketing illustration",
+        "width": 2200,
+        "height": 1650,
+        "format": "webp",
+        "sha256": "6c2d5005f5ee554599aec838cd9360f10be5714f2498d3b644bf7eca11102cbf",
+        "pages": [
+          "units"
+        ],
+        "displaySrc": "/images/properties/shore-3/originals/818-display.webp"
+      }
+    ],
+    "floorPlans": [],
+    "limitations": []
+  }
+}

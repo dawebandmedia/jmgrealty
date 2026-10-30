@@ -1,0 +1,45 @@
+{
+  "source": "User-supplied JMG Realty PH logo, 15 October 2026",
+  "originalFile": "logo-original.jpg",
+  "originalPreserved": true,
+  "variants": [
+    {
+      "file": "header-lockup.png",
+      "preparation": "Built-in image editing tool: transparent horizontal lockup; tagline omitted for small navigation use."
+    },
+    {
+      "file": "emblem.png",
+      "preparation": "Built-in image editing tool: transparent standalone emblem for browser icon."
+    },
+    {
+      "file": "header.svg",
+      "preparation": "SVG viewport wraps the prepared header artwork to remove excess canvas padding."
+    },
+    {
+      "file": "full-logo.svg",
+      "preparation": "SVG viewport displays the original JPEG with outer white margins reduced; original artwork and tagline retained."
+    },
+    {
+      "file": "header-display.webp",
+      "preparation": "Display-size format conversion of brand/header.svg; master artwork preserved."
+    },
+    {
+      "file": "full-display.webp",
+      "preparation": "Display-size format conversion of brand/full-logo.svg; master artwork preserved."
+    },
+    {
+      "file": "apple-touch-icon.png",
+      "preparation": "Display-size format conversion of brand/emblem.png; master artwork preserved."
+    }
+  ],
+  "sha256": {
+    "emblem.png": "3be1a698888578dade10d7cf12ede9374ce815c3d5ce743aef737b035ed84113",
+    "full-logo.svg": "49c858e32656b59f34d4c3c244eddfad28172af5328437660f9ee0e95b7aa88f",
+    "header-lockup.png": "1af491d1214f65dbc361dd6440ae26b918ce775137ad80c3ab4f9a3702072c6e",
+    "header.svg": "2f67269c74adc781ae73df5a5f5c903795dc3e11c617255909f0e560ad8437d6",
+    "logo-original.jpg": "5eb295ca8d77d7e6664cb45be6cbc50309ec7507340a5db08a50741af68a11d7",
+    "header-display.webp": "4638e19933421194aaead8dbbe34de6ced487dd3abf697cc62fc3447e886489e",
+    "full-display.webp": "c8c8fae8c6a275469d9a10128527e1a98cda8d219e72f055cdc6738fa5531941",
+    "apple-touch-icon.png": "c5b9acc9b4dad22d2dc01163cb6ec239d268c3acd40d73655470404754ec2e53"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "development": "Plaridel Heights",
+  "location": "Lalangan and Santa Ines, Plaridel, Bulacan",
+  "reviewDate": "2026-10-17",
+  "priceEffectiveDate": null,
+  "models": [
+    {
+      "id": "plaridel-dogwood",
+      "title": "Dogwood",
+      "price": 7125288,
+      "priceText": "₱7,125,288",
+      "priceLabel": "Undated 166 sqm lot / 72 sqm sample TCP",
+      "priceNote": "Undated supplied Dogwood sample with a 166 sqm lot and 72 sqm floor area, described with carport and solar. Published before conditional sample discounts. This is not a starting price or availability statement. The supplied generic plan has no printed floor area; obtain the exact 72 sqm package plan and written inclusions.",
+      "floorArea": "72 sqm · sample package",
+      "lotArea": "166 sqm · sample package",
+      "priceStatus": "Undated guide",
+      "planImages": 1,
+      "sourceImages": 14,
+      "originalFlyer": false,
+      "filterBounds": {
+        "floor": {
+          "min": 72,
+          "max": 72,
+          "basis": "Supplied sample floor area; matching limits in model record"
+        },
+        "lot": {
+          "min": 166,
+          "max": 166,
+          "basis": "Supplied example lot range, not available inventory"
+        },
+        "displayedPriceMax": 7125288
+      }
+    },
+    {
+      "id": "plaridel-esia",
+      "title": "Esia",
+      "price": 10422216,
+      "priceText": "₱10,422,216",
+      "priceLabel": "Undated 252 sqm lot sample TCP",
+      "priceNote": "Undated supplied Esia sample for a 252 sqm lot and 102 sqm floor area, before conditional DP discounts. It is not a current quotation or a promise for all lots. Ask JMG for current fees, inclusions, payment options and the matching property.",
+      "floorArea": "102 sqm",
+      "lotArea": "252 sqm · sample lot",
+      "priceStatus": "Undated guide",
+      "planImages": 1,
+      "sourceImages": 15,
+      "originalFlyer": true,
+      "filterBounds": {
+        "floor": {
+          "min": 102,
+          "max": 102,
+          "basis": "Supplied sample floor area; matching limits in model record"
+        },
+        "lot": {
+          "min": 252,
+          "max": 252,
+          "basis": "Supplied example lot range, not available inventory"
+        },
+        "displayedPriceMax": 10422216
+      }
+    },
+    {
+      "id": "plaridel-clara",
+      "title": "Clara",
+      "price": 14224224,
+      "priceText": "₱14,224,224–₱14,661,472",
+      "priceLabel": "Undated 228–244 sqm lot sample TCP range",
+      "priceNote": "Two undated supplied Clara examples for 228 sqm and 244 sqm lots, both with 200 sqm floor area, before conditional discounts. These are sample TCPs rather than current starting prices. Request a written quotation matching the exact lot, current fees and inclusions.",
+      "floorArea": "200 sqm",
+      "lotArea": "228–244 sqm · sample lots",
+      "priceStatus": "Undated guide",
+      "planImages": 2,
+      "sourceImages": 10,
+      "originalFlyer": true,
+      "filterBounds": {
+        "floor": {
+          "min": 200,
+          "max": 200,
+          "basis": "Supplied sample floor area; matching limits in model record"
+        },
+        "lot": {
+          "min": 228,
+          "max": 244,
+          "basis": "Supplied example lot range, not available inventory"
+        },
+        "displayedPriceMax": 14661472
+      }
+    },
+    {
+      "id": "plaridel-brisa-nero",
+      "title": "Brisa Nero",
+      "price": 17673408,
+      "priceText": "₱17,673,408",
+      "priceLabel": "Undated Brisa series sample · confirm facade",
+      "priceNote": "Undated Brisa House Series sample TCP for 220 sqm floor area and 247–252 sqm example lots, before conditional promotional discounts. The computation does not name Nero, Strata or Solenne individually; this is a shared series reference, not a facade-specific quotation or current offer. Confirm the matching design, exact lot, charges and terms.",
+      "floorArea": "220 sqm · series sample",
+      "lotArea": "247–252 sqm · series sample lots",
+      "priceStatus": "Undated guide",
+      "planImages": 2,
+      "sourceImages": 10,
+      "originalFlyer": false,
+      "filterBounds": {
+        "floor": {
+          "min": 220,
+          "max": 220,
+          "basis": "Supplied sample floor area; matching limits in model record"
+        },
+        "lot": {
+          "min": 247,
+          "max": 252,
+          "basis": "Supplied example lot range, not available inventory"
+        },
+        "displayedPriceMax": 17673408
+      }
+    },
+    {
+      "id": "plaridel-brisa-strata",
+      "title": "Brisa Strata",
+      "price": 17673408,
+      "priceText": "₱17,673,408",
+      "priceLabel": "Undated Brisa series sample · confirm facade",
+      "priceNote": "Undated Brisa House Series sample TCP for 220 sqm floor area and 247–252 sqm example lots, before conditional promotional discounts. The computation does not name Nero, Strata or Solenne individually; this is a shared series reference, not a facade-specific quotation or current offer. Confirm the matching design, exact lot, charges and terms.",
+      "floorArea": "220 sqm · series sample",
+      "lotArea": "247–252 sqm · series sample lots",
+      "priceStatus": "Undated guide",
+      "planImages": 2,
+      "sourceImages": 10,
+      "originalFlyer": false,
+      "filterBounds": {
+        "floor": {
+          "min": 220,
+          "max": 220,
+          "basis": "Supplied sample floor area; matching limits in model record"
+        },
+        "lot": {
+          "min": 247,
+          "max": 252,
+          "basis": "Supplied example lot range, not available inventory"
+        },
+        "displayedPriceMax": 17673408
+      }
+    },
+    {
+      "id": "plaridel-brisa-solenne",
+      "title": "Brisa Solenne",
+      "price": 17673408,
+      "priceText": "₱17,673,408",
+      "priceLabel": "Undated Brisa series sample · confirm facade",
+      "priceNote": "Undated Brisa House Series sample TCP for 220 sqm floor area and 247–252 sqm example lots, before conditional promotional discounts. The computation does not name Nero, Strata or Solenne individually; this is a shared series reference, not a facade-specific quotation or current offer. Confirm the matching design, exact lot, charges and terms.",
+      "floorArea": "220 sqm · series sample",
+      "lotArea": "247–252 sqm · series sample lots",
+      "priceStatus": "Undated guide",
+      "planImages": 2,
+      "sourceImages": 9,
+      "originalFlyer": false,
+      "filterBounds": {
+        "floor": {
+          "min": 220,
+          "max": 220,
+          "basis": "Supplied sample floor area; matching limits in model record"
+        },
+        "lot": {
+          "min": 247,
+          "max": 252,
+          "basis": "Supplied example lot range, not available inventory"
+        },
+        "displayedPriceMax": 17673408
+      }
+    },
+    {
+      "id": "plaridel-brisa-modern-minimalist",
+      "title": "Brisa Modern Minimalist",
+      "price": null,
+      "priceText": "Price on inquiry",
+      "priceLabel": "Matching Modern Minimalist quotation required",
+      "priceNote": "No separate Modern Minimalist specification or price sheet was supplied. The other Brisa computation is not treated as a confirmed quotation for this distinct layout. Ask JMG for the matching TCP, floor and lot areas, measured drawing and written inclusions.",
+      "floorArea": null,
+      "lotArea": null,
+      "priceStatus": "Price on inquiry",
+      "planImages": 2,
+      "sourceImages": 6,
+      "originalFlyer": false,
+      "filterBounds": {
+        "floor": null,
+        "lot": null,
+        "displayedPriceMax": null
+      }
+    }
+  ]
+}

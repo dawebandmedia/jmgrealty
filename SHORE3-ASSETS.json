@@ -1,0 +1,192 @@
+{
+  "assets": [
+    {
+      "id": 813,
+      "src": "/images/properties/shore-3/originals/813-Shore-3-Residences-1-1.webp",
+      "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/Shore-3-Residences-1-1.webp",
+      "originalFilename": "Shore-3-Residences-1-1.webp",
+      "label": "Shore-3-Residences (1)",
+      "width": 2200,
+      "height": 1466,
+      "format": "webp",
+      "sha256": "f869353b933a7494e630c64227d9182e06b0565d60af77e9bfcf410e3a461de6",
+      "pages": [
+        "home"
+      ],
+      "displaySrc": "/images/properties/shore-3/originals/813-display.webp"
+    },
+    {
+      "id": 820,
+      "src": "/images/properties/shore-3/originals/820-2-1.webp",
+      "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/2-1.webp",
+      "originalFilename": "2-1.webp",
+      "label": "2",
+      "width": 2200,
+      "height": 1650,
+      "format": "webp",
+      "sha256": "d4878c180e3861a25e0b7917f56decf47f322891d080cfb1ddd9cb8c3bc87b8f",
+      "pages": [
+        "home",
+        "2-bedroom-balcony",
+        "2-bedroom-end-balcony",
+        "units"
+      ],
+      "displaySrc": "/images/properties/shore-3/originals/820-display.webp"
+    },
+    {
+      "id": 821,
+      "src": "/images/properties/shore-3/originals/821-3.webp",
+      "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/3.webp",
+      "originalFilename": "3.webp",
+      "label": "3",
+      "width": 2200,
+      "height": 1650,
+      "format": "webp",
+      "sha256": "b01899b010979e928178ca8f63e2c0db91403a0c6a26182825872788aedd839c",
+      "pages": [
+        "1-bedroom-balcony",
+        "units"
+      ],
+      "displaySrc": "/images/properties/shore-3/originals/821-display.webp"
+    },
+    {
+      "id": 783,
+      "src": "/images/properties/shore-3/originals/783-33.webp",
+      "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/33.webp",
+      "originalFilename": "33.webp",
+      "label": "33",
+      "width": 2200,
+      "height": 5108,
+      "format": "webp",
+      "sha256": "a2db8d3f1d7354321ed646398188a026cf806b31f4e62e233cf4af99971d229e",
+      "pages": [
+        "1-bedroom-balcony",
+        "floor-plans"
+      ]
+    },
+    {
+      "id": 784,
+      "src": "/images/properties/shore-3/originals/784-44.webp",
+      "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/44.webp",
+      "originalFilename": "44.webp",
+      "label": "44",
+      "width": 2200,
+      "height": 1899,
+      "format": "webp",
+      "sha256": "78ee1d8993e427e2af14e44570a0f2d66a0f3e1886b555ee482203324b8449ac",
+      "pages": [
+        "2-bedroom-balcony",
+        "2-bedroom-end-balcony",
+        "floor-plans"
+      ]
+    },
+    {
+      "id": 822,
+      "src": "/images/properties/shore-3/originals/822-1-1.webp",
+      "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/1-1.webp",
+      "originalFilename": "1-1.webp",
+      "label": "1",
+      "width": 2200,
+      "height": 1650,
+      "format": "webp",
+      "sha256": "a3d3665b0937da6795d5327f25e071a0ec78ee40d01cefc28eef8daba3489afa",
+      "pages": [
+        "units"
+      ],
+      "displaySrc": "/images/properties/shore-3/originals/822-display.webp"
+    },
+    {
+      "id": 819,
+      "src": "/images/properties/shore-3/originals/819-5-3.webp",
+      "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/5-3.webp",
+      "originalFilename": "5-3.webp",
+      "label": "5 (3)",
+      "width": 2200,
+      "height": 1650,
+      "format": "webp",
+      "sha256": "fa5ad33532afe513181b05ed0a660c9fd386ed83fe4689f2466459fd42526e5c",
+      "pages": [
+        "units"
+      ],
+      "displaySrc": "/images/properties/shore-3/originals/819-display.webp"
+    },
+    {
+      "id": 818,
+      "src": "/images/properties/shore-3/originals/818-4.webp",
+      "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/4.webp",
+      "originalFilename": "4.webp",
+      "label": "4",
+      "width": 2200,
+      "height": 1650,
+      "format": "webp",
+      "sha256": "6c2d5005f5ee554599aec838cd9360f10be5714f2498d3b644bf7eca11102cbf",
+      "pages": [
+        "units"
+      ],
+      "displaySrc": "/images/properties/shore-3/originals/818-display.webp"
+    },
+    {
+      "id": 809,
+      "src": "/images/properties/shore-3/originals/809-SM-Shore-3-Pool-Amenity-Area-1536x1024-1-1.webp",
+      "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/SM-Shore-3-Pool-Amenity-Area-1536x1024-1-1.webp",
+      "originalFilename": "SM-Shore-3-Pool-Amenity-Area-1536x1024-1-1.webp",
+      "label": "SM-Shore-3-Pool-Amenity-Area-1536&#215;1024 (1)",
+      "width": 2200,
+      "height": 1466,
+      "format": "webp",
+      "sha256": "ba2ad9851568c0e1f5deb6addf33ba5b83f418f7562ae506d79a8f7f68908b8b",
+      "pages": [
+        "amenities"
+      ],
+      "displaySrc": "/images/properties/shore-3/originals/809-display.webp"
+    },
+    {
+      "id": 806,
+      "src": "/images/properties/shore-3/originals/806-Shore-3-Residences-Lobby-2-1536x1024-1-1.webp",
+      "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/Shore-3-Residences-Lobby-2-1536x1024-1-1.webp",
+      "originalFilename": "Shore-3-Residences-Lobby-2-1536x1024-1-1.webp",
+      "label": "Shore-3-Residences-Lobby-2-1536&#215;1024 (1)",
+      "width": 2200,
+      "height": 1466,
+      "format": "webp",
+      "sha256": "cc182af993c034cf157decea2bfd4d1e1c14b5de4bcbf9c53ff05d88a4656817",
+      "pages": [
+        "amenities"
+      ],
+      "displaySrc": "/images/properties/shore-3/originals/806-display.webp"
+    },
+    {
+      "id": 808,
+      "src": "/images/properties/shore-3/originals/808-Shore-3-Residences-Lobby-Tower-4-1536x1024-1-1.webp",
+      "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/Shore-3-Residences-Lobby-Tower-4-1536x1024-1-1.webp",
+      "originalFilename": "Shore-3-Residences-Lobby-Tower-4-1536x1024-1-1.webp",
+      "label": "Shore-3-Residences-Lobby-Tower-4-1536&#215;1024 (1)",
+      "width": 2200,
+      "height": 1466,
+      "format": "webp",
+      "sha256": "149a271114517609814c86fbf4340deb93284dc3acf02e62526892dc66236fdc",
+      "pages": [
+        "home",
+        "amenities"
+      ],
+      "displaySrc": "/images/properties/shore-3/originals/808-display.webp"
+    },
+    {
+      "id": 810,
+      "src": "/images/properties/shore-3/originals/810-Shore-3-Residences-Lobby-1536x1024-1-1.webp",
+      "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/Shore-3-Residences-Lobby-1536x1024-1-1.webp",
+      "originalFilename": "Shore-3-Residences-Lobby-1536x1024-1-1.webp",
+      "label": "Shore-3-Residences-Lobby-1536&#215;1024 (1)",
+      "width": 2200,
+      "height": 1466,
+      "format": "webp",
+      "sha256": "325716cc8e44f453f27c3a939c809d978517f48c954a3111afb407c3438bacd9",
+      "pages": [
+        "amenities"
+      ],
+      "displaySrc": "/images/properties/shore-3/originals/810-display.webp"
+    }
+  ],
+  "importedDate": "2026-10-13",
+  "priceDate": "2025-10-24"
+}

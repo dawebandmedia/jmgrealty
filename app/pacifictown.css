@@ -1,0 +1,13 @@
+.pacifictown-hero > a {display:block;max-width:840px;margin-inline:auto;background:#f1f0eb;}
+.pacifictown-phase-title {display:inline-block;white-space:nowrap;}
+.pacifictown-hero img {display:block;width:100%;height:auto;max-height:76vh;object-fit:contain;}
+.pacifictown-price-note {margin:16px 0 24px;color:var(--muted,#595d55);max-width:860px;line-height:1.65;}
+.pacifictown-related-amenities {display:grid;gap:16px;margin-top:34px;padding:22px;border:1px solid rgba(35,55,30,.16);background:rgba(245,246,238,.66);}
+.pacifictown-related-amenities > div {display:flex;flex-wrap:wrap;gap:10px;}
+.pacifictown-related-amenities > div span {padding:9px 13px;border-radius:999px;background:#e8eadf;color:var(--green,#243b25);font-size:14px;}
+.pacifictown-related-amenities .text-link {justify-self:start;}
+.pacifictown-source-links {display:grid;gap:12px;margin-top:22px;}
+.pacifictown-source-caveat {margin-top:24px;padding:18px 20px;background:#f4f1e8;color:#53584e;font-size:14px;line-height:1.65;}
+#model-flyer .official-interior-grid {grid-template-columns:minmax(0,1fr);}
+#model-flyer .official-interior-photo {aspect-ratio:1253/1201;}
+@media(max-width:640px){.pacifictown-related-amenities {padding:17px;}.pacifictown-related-amenities > div span {font-size:13px;}}

@@ -1,0 +1,439 @@
+{
+  "amaresa-alexandria": {
+    "sourceUrl": "https://www.amaresa.ph/alexandriaamamarilao",
+    "modelId": "amaresa-alexandria",
+    "interiorImages": [
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/f8fba680-9f8d-4da5-9b17-8f72e0071e33/AlexandriaLiving.jpg",
+        "width": 2400,
+        "height": 1600,
+        "src": "/images/properties/amaresa/alexandria/alexandria-interior-01-source.jpg",
+        "label": "Living area",
+        "originalFilename": "AlexandriaLiving.jpg",
+        "sha256": "73859c5a373eed378320eca5211f924f4415f74410f81f7228cc00ccc0337a9a",
+        "verifiedSourceSha256": "73859c5a373eed378320eca5211f924f4415f74410f81f7228cc00ccc0337a9a",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/alexandria/alexandria-interior-01-source-display.webp",
+        "initialCdnSha256": "8faa15a8451bb7d1a6dfe48991b30cd0c594b8cc8105c977c6c33a930d055937"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1678665846556-2Z0RKBPRNDPW5KVYF8LP/AlexandriaKids.jpg",
+        "width": 2400,
+        "height": 1600,
+        "src": "/images/properties/amaresa/alexandria/alexandria-interior-02-source.jpg",
+        "label": "Children’s bedroom",
+        "originalFilename": "AlexandriaKids.jpg",
+        "sha256": "ff4dc62604c6ded9751461910c59a40c3bb142c383247ce2f03e4b6a87e3025b",
+        "verifiedSourceSha256": "ff4dc62604c6ded9751461910c59a40c3bb142c383247ce2f03e4b6a87e3025b",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/alexandria/alexandria-interior-02-source-display.webp",
+        "initialCdnSha256": "6ff356d419bc5baa8d585725c3b66099a65db44c0bf9067b67924f7b29d317f3"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1678665862132-11F1FH8ORMFE4792SVU8/AlexandriaDining.jpg",
+        "width": 2400,
+        "height": 1600,
+        "src": "/images/properties/amaresa/alexandria/alexandria-interior-03-source.jpg",
+        "label": "Dining and kitchen area",
+        "originalFilename": "AlexandriaDining.jpg",
+        "sha256": "9fdba8bc5f6ebea129ade8353246a46dba297172a8a1a7ab29eafe087d033213",
+        "verifiedSourceSha256": "9fdba8bc5f6ebea129ade8353246a46dba297172a8a1a7ab29eafe087d033213",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/alexandria/alexandria-interior-03-source-display.webp",
+        "initialCdnSha256": "bcbe9878e85d8dfc0dae757ad844527f34b5e5b7b724b57459b7551a77fa29bb"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1678665879156-LLT3Y5SQC4DOUDX42KX5/AlexandriaMasters.jpg",
+        "width": 2400,
+        "height": 1629,
+        "src": "/images/properties/amaresa/alexandria/alexandria-interior-04-source.jpg",
+        "label": "Primary bedroom",
+        "originalFilename": "AlexandriaMasters.jpg",
+        "sha256": "19e69ca5d941ebabca09904d198f06fa87b14c3eaa5b27d7b810baf9feddf897",
+        "verifiedSourceSha256": "19e69ca5d941ebabca09904d198f06fa87b14c3eaa5b27d7b810baf9feddf897",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/alexandria/alexandria-interior-04-source-display.webp",
+        "initialCdnSha256": "57e5fc24823ac7ec53fed181996873b33acfdabd7598b3a1f4f8435b63abae9a"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1678665890008-YWV44ZXU1RQ2GHOAQP8N/IZ1A2481.jpeg",
+        "width": 2400,
+        "height": 1600,
+        "src": "/images/properties/amaresa/alexandria/alexandria-interior-05-source.jpg",
+        "label": "Interior seating area",
+        "originalFilename": "IZ1A2481.jpeg",
+        "sha256": "d6d42b6b9620fcbb0f73974cbad2f959e5e47be5a21823381905ed014f848976",
+        "verifiedSourceSha256": "d6d42b6b9620fcbb0f73974cbad2f959e5e47be5a21823381905ed014f848976",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/alexandria/alexandria-interior-05-source-display.webp",
+        "initialCdnSha256": "3e60b022aff00c03709fa95be975b6dde94a04b402d9d819c3e9d91095bc26d2"
+      }
+    ],
+    "floorPlans": [
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1543840783863-0UTIXXRHKBR58V5WI4YS/1498056604767.jpg",
+        "width": 1800,
+        "height": 527,
+        "src": "/images/properties/amaresa/alexandria/alexandria-original-floor-plan-source.jpg",
+        "label": "Original combined floor plan",
+        "originalFilename": "1498056604767.jpg",
+        "sha256": "b1783d37eaf307560211d76e76810bf0eca3d76f06ce17eb35a2eb7255be502f",
+        "levels": [
+          "Two-storey layouts",
+          "Attic"
+        ],
+        "panelCount": 3,
+        "printedLevelLabels": [
+          "ATTIC"
+        ],
+        "levelOrderNote": "The original image has no printed Ground Floor or Second Floor headings. Its left-to-right panel order is inferred as ground floor, second floor, attic. The two-storey arrangement is supported by the official model description.",
+        "verifiedSourceSha256": "b1783d37eaf307560211d76e76810bf0eca3d76f06ce17eb35a2eb7255be502f",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "initialCdnSha256": "51cb5bf022af3aa0d0bdcd2c728fa226e704cc59b5dae580e4e0ab9303c49871"
+      }
+    ],
+    "limitations": [],
+    "sourceLimitations": [
+      "The publisher’s combined drawing does not print Ground Floor or Second Floor headings; all supplied panels are preserved together."
+    ]
+  },
+  "amaresa-amara-expanded": {
+    "sourceUrl": "https://www.amaresa.ph/amaraamamarilao",
+    "modelId": "amaresa-amara-expanded",
+    "interiorImages": [
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/4fc68c79-a0c3-4b4d-8ce0-ee60192b8d13/AmaraLiving.jpg",
+        "width": 2500,
+        "height": 1667,
+        "src": "/images/properties/amaresa/amara-expanded/amara-expanded-interior-01-source.jpg",
+        "label": "Living area",
+        "originalFilename": "AmaraLiving.jpg",
+        "sha256": "ce168250543cd80ae2fed4d5f0e9f5c30cc2d99a44ac7f3fbc8d3bd4a94dee4b",
+        "publisherWidth": 3000,
+        "publisherHeight": 2000,
+        "resolutionNote": "The publisher HTML advertises the larger dimensions, but the original unparameterized CDN URL returned these actual decoded dimensions.",
+        "verifiedSourceSha256": "ce168250543cd80ae2fed4d5f0e9f5c30cc2d99a44ac7f3fbc8d3bd4a94dee4b",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/amara-expanded/amara-expanded-interior-01-source-display.webp",
+        "initialCdnSha256": "acb5e56fa007ed1328fca028c8b1cb81582047531bcb8d0a0a6f211477c6e022"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1678666873554-BFY2736I5VZP516EWMVM/AmaraKids.jpg",
+        "width": 2500,
+        "height": 1667,
+        "src": "/images/properties/amaresa/amara-expanded/amara-expanded-interior-02-source.jpg",
+        "label": "Children’s bedroom",
+        "originalFilename": "AmaraKids.jpg",
+        "sha256": "58cf8fe2f2b1e3703a2b55ae02fe88fab0d1606a1b2567f6846f75eddc2e63a7",
+        "publisherWidth": 3000,
+        "publisherHeight": 2000,
+        "resolutionNote": "The publisher HTML advertises the larger dimensions, but the original unparameterized CDN URL returned these actual decoded dimensions.",
+        "verifiedSourceSha256": "58cf8fe2f2b1e3703a2b55ae02fe88fab0d1606a1b2567f6846f75eddc2e63a7",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/amara-expanded/amara-expanded-interior-02-source-display.webp",
+        "initialCdnSha256": "64ef7238297f8c0a506cae1e9999ce0884b8c53578f21803a167f6953d7185fa"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1678666886180-NAGXMILEPR3Z33TGWBM7/AmaraMasters.jpg",
+        "width": 2500,
+        "height": 1667,
+        "src": "/images/properties/amaresa/amara-expanded/amara-expanded-interior-03-source.jpg",
+        "label": "Primary bedroom",
+        "originalFilename": "AmaraMasters.jpg",
+        "sha256": "a49ac0ed16974992c321b9151eddee15ad361fe982f77237fe15f4bbdc9eb85d",
+        "publisherWidth": 3000,
+        "publisherHeight": 2000,
+        "resolutionNote": "The publisher HTML advertises the larger dimensions, but the original unparameterized CDN URL returned these actual decoded dimensions.",
+        "verifiedSourceSha256": "a49ac0ed16974992c321b9151eddee15ad361fe982f77237fe15f4bbdc9eb85d",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/amara-expanded/amara-expanded-interior-03-source-display.webp",
+        "initialCdnSha256": "9ae3fe49215f41f78850b87fab2a22e284ffaefbcacc11695d2ff0b576f08f39"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1678666913470-AR9FVC47VOGABKV83WAJ/AmaraNursery.jpg",
+        "width": 2500,
+        "height": 1667,
+        "src": "/images/properties/amaresa/amara-expanded/amara-expanded-interior-04-source.jpg",
+        "label": "Nursery",
+        "originalFilename": "AmaraNursery.jpg",
+        "sha256": "9c68c6c52f425b3ee7238bf568c56e52ec3b2b6f14163f8517da897a25b973fb",
+        "publisherWidth": 3000,
+        "publisherHeight": 2000,
+        "resolutionNote": "The publisher HTML advertises the larger dimensions, but the original unparameterized CDN URL returned these actual decoded dimensions.",
+        "verifiedSourceSha256": "9c68c6c52f425b3ee7238bf568c56e52ec3b2b6f14163f8517da897a25b973fb",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/amara-expanded/amara-expanded-interior-04-source-display.webp",
+        "initialCdnSha256": "bb2155b3720637bae8ceaa78b6ca9db6e47934cef18e2c868ed29a2138df6d8f"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1678669281120-YETH6LW40CNB65B0OUM0/AmaraAttic.jpg",
+        "width": 2500,
+        "height": 1700,
+        "src": "/images/properties/amaresa/amara-expanded/amara-expanded-interior-05-source.jpg",
+        "label": "Attic",
+        "originalFilename": "AmaraAttic.jpg",
+        "sha256": "325d51be6d5e810ad37bf3893d1dedd470c1c1c56c03b4602406cc8a6cf15984",
+        "publisherWidth": 3000,
+        "publisherHeight": 2040,
+        "resolutionNote": "The publisher HTML advertises the larger dimensions, but the original unparameterized CDN URL returned these actual decoded dimensions.",
+        "verifiedSourceSha256": "325d51be6d5e810ad37bf3893d1dedd470c1c1c56c03b4602406cc8a6cf15984",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/amara-expanded/amara-expanded-interior-05-source-display.webp",
+        "initialCdnSha256": "74803da2f58c8778e075d01207a94dfaff0addb038c9183018e8a254750a85d0"
+      }
+    ],
+    "floorPlans": [
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1549876933880-2H73UE7Z9X1S4KPZ0WEL/AmaraExpanded.png",
+        "width": 2500,
+        "height": 1054,
+        "src": "/images/properties/amaresa/amara-expanded/amara-expanded-original-floor-plan-source.png",
+        "label": "Original combined floor plan",
+        "originalFilename": "AmaraExpanded.png",
+        "sha256": "bbe444dfb9b85aec54ac3eb5233ddde3cb79b85ee127fd5a4d7d5712695d0b1c",
+        "levels": [
+          "Two-storey layouts",
+          "Attic"
+        ],
+        "panelCount": 3,
+        "printedLevelLabels": [
+          "ATTIC AREA"
+        ],
+        "levelOrderNote": "The original image has no printed Ground Floor or Second Floor headings. Its left-to-right panel order is inferred as ground floor, second floor, attic. The two-storey arrangement is supported by the official model description.",
+        "verifiedSourceSha256": "bbe444dfb9b85aec54ac3eb5233ddde3cb79b85ee127fd5a4d7d5712695d0b1c",
+        "contentType": "image/png",
+        "fetchAccept": "image/jpeg,image/png",
+        "initialCdnSha256": "0833af3be7aa88a44e06cee93ed1a19d9f8c63955477e259e645d953ede34aef"
+      }
+    ],
+    "limitations": [],
+    "sourceLimitations": [
+      "The publisher’s combined drawing does not print Ground Floor or Second Floor headings; all supplied panels are preserved together."
+    ]
+  },
+  "amaresa-arya-prime": {
+    "sourceUrl": "https://www.amaresa.ph/aryaamamarilao",
+    "modelId": "amaresa-arya-prime",
+    "interiorImages": [
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1549944776450-XH18SAZZEI3QLA6I92FD/_X9B8474.jpg",
+        "width": 2500,
+        "height": 1667,
+        "src": "/images/properties/amaresa/arya-prime/arya-prime-interior-01-source.jpg",
+        "label": "Interior seating area",
+        "originalFilename": "_X9B8474.jpg",
+        "sha256": "1208fc57e9c1bce728c1d026c4faf6111968a85152ee5b118f88b7c5c911d1fe",
+        "verifiedSourceSha256": "1208fc57e9c1bce728c1d026c4faf6111968a85152ee5b118f88b7c5c911d1fe",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/arya-prime/arya-prime-interior-01-source-display.webp",
+        "initialCdnSha256": "733b573f7d3fb23f746a71643103b43837abad6719dd096cf47b2d1d16b1ceaa"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1549944908379-HTCA5712FO7H8BJLRNA0/_X9B8527.jpg",
+        "width": 2500,
+        "height": 1667,
+        "src": "/images/properties/amaresa/arya-prime/arya-prime-interior-02-source.jpg",
+        "label": "Staircase",
+        "originalFilename": "_X9B8527.jpg",
+        "sha256": "15947e42e6a5fc649c9c4b805accf83bdb2cdadccba6c9a88a74cd83a774b0b1",
+        "verifiedSourceSha256": "15947e42e6a5fc649c9c4b805accf83bdb2cdadccba6c9a88a74cd83a774b0b1",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/arya-prime/arya-prime-interior-02-source-display.webp",
+        "initialCdnSha256": "23f305a4bca21bea11883f05ec2a4bba9cb09e4ddf6ac10c5728d943837a68f3"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1549944827538-2MM8D6PF0S4KWZT9S3FM/_X9B8430.jpg",
+        "width": 2500,
+        "height": 1667,
+        "src": "/images/properties/amaresa/arya-prime/arya-prime-interior-03-source.jpg",
+        "label": "Living area",
+        "originalFilename": "_X9B8430.jpg",
+        "sha256": "ad00ce75015a0051d532f896ca9d911c39be12fa8f98aa0cae64f32ac3a0139c",
+        "verifiedSourceSha256": "ad00ce75015a0051d532f896ca9d911c39be12fa8f98aa0cae64f32ac3a0139c",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/arya-prime/arya-prime-interior-03-source-display.webp",
+        "initialCdnSha256": "0ef49fb52c1c43e88cbb0fce65b3580951370de39b36166850a620fba6373be4"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1549944934974-DISMWAKL713AJNBYT74P/_X9B8464.jpg",
+        "width": 2500,
+        "height": 1667,
+        "src": "/images/properties/amaresa/arya-prime/arya-prime-interior-04-source.jpg",
+        "label": "Dining area",
+        "originalFilename": "_X9B8464.jpg",
+        "sha256": "a8a6df3253b680c79bc517148f49f2b98407619b8e57c227875502668155a779",
+        "verifiedSourceSha256": "a8a6df3253b680c79bc517148f49f2b98407619b8e57c227875502668155a779",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/arya-prime/arya-prime-interior-04-source-display.webp",
+        "initialCdnSha256": "a183e1335f76e9508dbdd74f930325f5b8486f2539be258ceab7b9c158c73516"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1549944968826-5JVCKWHHPUBCEZ7265VF/_X9B8508.jpg",
+        "width": 2500,
+        "height": 1667,
+        "src": "/images/properties/amaresa/arya-prime/arya-prime-interior-05-source.jpg",
+        "label": "Bedroom and bathroom",
+        "originalFilename": "_X9B8508.jpg",
+        "sha256": "ae337c2945278e39ceb5f0f7f133918fe18267a7bd2156967a17d8cbfd5811b5",
+        "verifiedSourceSha256": "ae337c2945278e39ceb5f0f7f133918fe18267a7bd2156967a17d8cbfd5811b5",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/arya-prime/arya-prime-interior-05-source-display.webp",
+        "initialCdnSha256": "766e45225b7f283387b6baade5d4edeb76bef7741679b0973ce5cdd31d3db78f"
+      }
+    ],
+    "floorPlans": [
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1573817221323-KQXUIR6RJVX68WY48Z25/aryaprimefloorplansbig.jpg",
+        "width": 2400,
+        "height": 1500,
+        "src": "/images/properties/amaresa/arya-prime/arya-prime-original-floor-plan-source.jpg",
+        "label": "Original combined floor plan",
+        "originalFilename": "aryaprimefloorplansbig.jpg",
+        "sha256": "45c5e3faec8333e275814b4caf8bf3f258e21a6c8632b3bf778ddcf6a30ce0c3",
+        "levels": [
+          "Two-storey layouts"
+        ],
+        "panelCount": 2,
+        "printedLevelLabels": [],
+        "levelOrderNote": "The original image has no printed Ground Floor or Second Floor headings. Its left-to-right panel order is inferred as ground floor, second floor. The two-storey arrangement is supported by the official model description.",
+        "verifiedSourceSha256": "45c5e3faec8333e275814b4caf8bf3f258e21a6c8632b3bf778ddcf6a30ce0c3",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "initialCdnSha256": "d435d5180ab58818ca94702f4e3e2b69cc8d51b2662d76591de049f1465c408c"
+      }
+    ],
+    "limitations": [],
+    "sourceLimitations": [
+      "The publisher’s combined drawing does not print Ground Floor or Second Floor headings; all supplied panels are preserved together."
+    ]
+  },
+  "amaresa-kayla-prime": {
+    "sourceUrl": "https://www.amaresa.ph/kaylaamamarilao",
+    "modelId": "amaresa-kayla-prime",
+    "interiorImages": [
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1f38ff17-8801-4eba-b1c1-bf726bbcbecf/IZ1A2086-HDR.jpeg",
+        "width": 2400,
+        "height": 1600,
+        "src": "/images/properties/amaresa/kayla-prime/kayla-prime-interior-01-source.jpg",
+        "label": "Dining area",
+        "originalFilename": "IZ1A2086-HDR.jpeg",
+        "sha256": "665a746d27b1d5b8c32dac4a7281b9d90e0c25426660cda6c0b89a294842f9e1",
+        "verifiedSourceSha256": "665a746d27b1d5b8c32dac4a7281b9d90e0c25426660cda6c0b89a294842f9e1",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/kayla-prime/kayla-prime-interior-01-source-display.webp",
+        "initialCdnSha256": "32efda5fb5621993f184eefd7fa8b766ee9d990bd0e81cb41f4067a5eeaf105a"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1678668893746-YC15ZRUYBO4RG2NXVX9T/KaylaLiving2.jpg",
+        "width": 2500,
+        "height": 1667,
+        "src": "/images/properties/amaresa/kayla-prime/kayla-prime-interior-02-source.jpg",
+        "label": "Living area",
+        "originalFilename": "KaylaLiving2.jpg",
+        "sha256": "cc18e44273ed136320fa781cc5fcc8b28714b1db76db7ceb7be1ad8facaffab5",
+        "publisherWidth": 5472,
+        "publisherHeight": 3648,
+        "resolutionNote": "The publisher HTML advertises the larger dimensions, but the original unparameterized CDN URL returned these actual decoded dimensions.",
+        "verifiedSourceSha256": "cc18e44273ed136320fa781cc5fcc8b28714b1db76db7ceb7be1ad8facaffab5",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/kayla-prime/kayla-prime-interior-02-source-display.webp",
+        "initialCdnSha256": "fc7ffb8f298708fc21a01207d87989b1ed6d491ece0e88632afa2ff08b7d1567"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1678668906867-HGNW4IQLFY9E1A4U755F/KaylaMasters.jpg",
+        "width": 2500,
+        "height": 1667,
+        "src": "/images/properties/amaresa/kayla-prime/kayla-prime-interior-03-source.jpg",
+        "label": "Primary bedroom",
+        "originalFilename": "KaylaMasters.jpg",
+        "sha256": "ec1c7eea3b557f51fd4efdd7eec33475584b0d3214c6cacf1c2ec8ff75cf1f53",
+        "publisherWidth": 4947,
+        "publisherHeight": 3298,
+        "resolutionNote": "The publisher HTML advertises the larger dimensions, but the original unparameterized CDN URL returned these actual decoded dimensions.",
+        "verifiedSourceSha256": "ec1c7eea3b557f51fd4efdd7eec33475584b0d3214c6cacf1c2ec8ff75cf1f53",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/kayla-prime/kayla-prime-interior-03-source-display.webp",
+        "initialCdnSha256": "73708d27dc55c3b70ea6b08f4f52a8131753c1713a7172d8d8680cba33c6314d"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1678668936839-FIYW1W7EXYCLE49E70TC/KaylaStudy.jpg",
+        "width": 2500,
+        "height": 1667,
+        "src": "/images/properties/amaresa/kayla-prime/kayla-prime-interior-04-source.jpg",
+        "label": "Study",
+        "originalFilename": "KaylaStudy.jpg",
+        "sha256": "f7da75f3fb4418894ae64a1c5b4cdea73b35db57ec06c29b0101dd77bf599391",
+        "publisherWidth": 5472,
+        "publisherHeight": 3648,
+        "resolutionNote": "The publisher HTML advertises the larger dimensions, but the original unparameterized CDN URL returned these actual decoded dimensions.",
+        "verifiedSourceSha256": "f7da75f3fb4418894ae64a1c5b4cdea73b35db57ec06c29b0101dd77bf599391",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/kayla-prime/kayla-prime-interior-04-source-display.webp",
+        "initialCdnSha256": "4c4b047bc318363b8198490c97adc82548096350ebd4bf41d01aa113076bc715"
+      },
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1678668956887-H14RUKXXX34PE77FCSVI/KaylaLiving.jpg",
+        "width": 2500,
+        "height": 1667,
+        "src": "/images/properties/amaresa/kayla-prime/kayla-prime-interior-05-source.jpg",
+        "label": "Living area viewed from above",
+        "originalFilename": "KaylaLiving.jpg",
+        "sha256": "b68fb8d7beba6f1b71d8dd5d62bff2799f6afef6f1fce73742b36a54a1ce99ff",
+        "publisherWidth": 5472,
+        "publisherHeight": 3648,
+        "resolutionNote": "The publisher HTML advertises the larger dimensions, but the original unparameterized CDN URL returned these actual decoded dimensions.",
+        "verifiedSourceSha256": "b68fb8d7beba6f1b71d8dd5d62bff2799f6afef6f1fce73742b36a54a1ce99ff",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "displaySrc": "/images/properties/amaresa/kayla-prime/kayla-prime-interior-05-source-display.webp",
+        "initialCdnSha256": "01fc4a59c84264ef5f3ed2805a2bf32df538b027539fe6f6d441947779ab19b2"
+      }
+    ],
+    "floorPlans": [
+      {
+        "sourceUrl": "https://images.squarespace-cdn.com/content/v1/5bed0a04b98a78e1f2516f85/1573817426723-X0FMTRFO0846WZYRYA0U/kaylafloorplanmarilao.jpg",
+        "width": 2400,
+        "height": 1500,
+        "src": "/images/properties/amaresa/kayla-prime/kayla-prime-original-floor-plan-source.jpg",
+        "label": "Original combined floor plan",
+        "originalFilename": "kaylafloorplanmarilao.jpg",
+        "sha256": "90cb7c2d8bed476be66f40819ea31c7cdb4500226dbb15300642bebf324d7aef",
+        "levels": [
+          "Two-storey layouts"
+        ],
+        "panelCount": 2,
+        "printedLevelLabels": [],
+        "levelOrderNote": "The original image has no printed Ground Floor or Second Floor headings. Its left-to-right panel order is inferred as ground floor, second floor. The two-storey arrangement is supported by the official model description.",
+        "verifiedSourceSha256": "90cb7c2d8bed476be66f40819ea31c7cdb4500226dbb15300642bebf324d7aef",
+        "contentType": "image/jpeg",
+        "fetchAccept": "image/jpeg,image/png",
+        "initialCdnSha256": "3d9ddcd1519ef8b028082fbdd96ca9ab5266ba9cef5d17601e1052aef500476a"
+      }
+    ],
+    "limitations": [],
+    "sourceLimitations": [
+      "The publisher’s combined drawing does not print Ground Floor or Second Floor headings; all supplied panels are preserved together."
+    ]
+  }
+}

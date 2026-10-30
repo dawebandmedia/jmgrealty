@@ -1,0 +1,21 @@
+.site-alegria .development-heading h1 { font-size:clamp(47px,6vw,86px); }
+.site-alegria .glam-hero-actions { display:flex; flex-direction:column; align-items:flex-start; gap:20px; flex-shrink:0; }
+.alegria-brand { display:block; font-size:12px; letter-spacing:.12em; margin:18px 0; color:var(--muted); }
+.site-alegria .development-hero a { display:block; }
+.alegria-model-grid { grid-template-columns:repeat(3,minmax(0,1fr)); }
+.site-alegria .official-interior-grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+.alegria-model-features { padding:0; list-style:none; display:grid; grid-template-columns:1fr 1fr; gap:15px; margin:28px 0; }
+.alegria-model-features li { display:flex; align-items:flex-start; gap:10px; }
+.alegria-model-features svg { flex-shrink:0; margin-top:4px; }
+.alegria-location-intro { display:grid; grid-template-columns:1fr 1fr; gap:60px; margin:30px 0; }
+.alegria-location-intro h2 { font-family:var(--serif); font-size:clamp(37px,4.5vw,66px); font-weight:400; line-height:1.1; }
+.alegria-location-intro h3 { font-size:28px; }
+.alegria-landmarks { margin:24px 0 0; }
+.alegria-landmarks > div { display:flex; justify-content:space-between; gap:24px; padding:12px 0; border-bottom:1px solid var(--line); }
+.alegria-landmarks dd { margin:0; flex-shrink:0; }
+.alegria-vicinity .official-interior-grid,.alegria-site-layout .official-interior-grid { grid-template-columns:1fr; }
+.alegria-vicinity .official-interior-photo { aspect-ratio:4961/2417 !important; }
+.alegria-site-layout .official-interior-photo { aspect-ratio:3600/4950 !important; max-height:760px; }
+.alegria-vicinity .official-interior-photo img,.alegria-site-layout .official-interior-photo img { object-fit:contain; }
+@media (max-width:1000px) { .alegria-model-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } .alegria-location-intro { grid-template-columns:1fr; gap:25px; } }
+@media (max-width:640px) { .alegria-model-grid,.site-alegria .official-interior-grid,.alegria-model-features { grid-template-columns:1fr; } .site-alegria .development-heading h1 { font-size:49px; } .alegria-landmarks { font-size:13px; } }

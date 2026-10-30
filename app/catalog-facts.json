@@ -1,0 +1,776 @@
+{
+  "amaresa-alexandria": {
+    "floor": {
+      "min": 159,
+      "max": 159,
+      "basis": "159 sqm"
+    },
+    "lot": {
+      "min": 138,
+      "max": 138,
+      "basis": "138 sqm"
+    },
+    "displayedPriceMax": 12205760
+  },
+  "amaresa-amara-expanded": {
+    "floor": {
+      "min": 131,
+      "max": 131,
+      "basis": "131 sqm"
+    },
+    "lot": {
+      "min": 110,
+      "max": 110,
+      "basis": "110 sqm"
+    },
+    "displayedPriceMax": 9444400
+  },
+  "amaresa-kayla-prime": {
+    "floor": {
+      "min": 79,
+      "max": 79,
+      "basis": "79 sqm"
+    },
+    "lot": {
+      "min": 96,
+      "max": 96,
+      "basis": "96 sqm"
+    },
+    "displayedPriceMax": 7097440
+  },
+  "amaresa-arya-prime": {
+    "floor": {
+      "min": 84,
+      "max": 84,
+      "basis": "84 sqm"
+    },
+    "lot": {
+      "min": 96,
+      "max": 96,
+      "basis": "96 sqm"
+    },
+    "displayedPriceMax": 7265440
+  },
+  "north-orchard-florence": {
+    "floor": {
+      "min": 112.36,
+      "max": 112.36,
+      "basis": "112.36 sqm"
+    },
+    "lot": {
+      "min": 80,
+      "max": 80,
+      "basis": "80 sqm"
+    },
+    "displayedPriceMax": null
+  },
+  "madonna-residences-rojul": {
+    "floor": {
+      "min": 135,
+      "max": 135,
+      "basis": "Approx. 135 sqm"
+    },
+    "lot": {
+      "min": 164,
+      "max": 164,
+      "basis": "Approx. 164 sqm"
+    },
+    "displayedPriceMax": null
+  },
+  "madonna-residences-abigail": {
+    "floor": {
+      "min": 135,
+      "max": 135,
+      "basis": "Approx. 135 sqm"
+    },
+    "lot": {
+      "min": 164,
+      "max": 164,
+      "basis": "Approx. 164 sqm"
+    },
+    "displayedPriceMax": null
+  },
+  "madonna-residences-julieta": {
+    "floor": {
+      "min": 135,
+      "max": 135,
+      "basis": "Approx. 135 sqm"
+    },
+    "lot": {
+      "min": 164,
+      "max": 164,
+      "basis": "Approx. 164 sqm"
+    },
+    "displayedPriceMax": null
+  },
+  "shore-3-1-bedroom-balcony": {
+    "floor": {
+      "min": 32.16,
+      "max": 32.16,
+      "basis": "32.16 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": 10172000
+  },
+  "shore-3-2-bedroom-balcony": {
+    "floor": {
+      "min": 37.94,
+      "max": 37.94,
+      "basis": "37.94 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": 11306000
+  },
+  "shore-3-2-bedroom-end-balcony": {
+    "floor": {
+      "min": 58.73,
+      "max": 58.73,
+      "basis": "58.73 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": 17296000
+  },
+  "glam-1-bedroom": {
+    "floor": {
+      "min": 23.72,
+      "max": 23.72,
+      "basis": "Approx. 23.72 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": 5770000
+  },
+  "glam-1-bedroom-balcony": {
+    "floor": null,
+    "lot": null,
+    "displayedPriceMax": 7592000
+  },
+  "glam-1-bedroom-end-balcony": {
+    "floor": {
+      "min": 33.3,
+      "max": 33.3,
+      "basis": "33.30 sqm \u00c2\u00b7 source example"
+    },
+    "lot": null,
+    "displayedPriceMax": 9693000
+  },
+  "glam-2-bedroom-end-balcony": {
+    "floor": {
+      "min": 45.56,
+      "max": 45.56,
+      "basis": "Approx. 45.56 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": 13435000
+  },
+  "alegria-alyanna": {
+    "floor": {
+      "min": 181,
+      "max": 181,
+      "basis": "181 sqm"
+    },
+    "lot": {
+      "min": 168,
+      "max": 168,
+      "basis": "Minimum 168 sqm"
+    },
+    "displayedPriceMax": null
+  },
+  "alegria-amaris": {
+    "floor": {
+      "min": 168,
+      "max": 168,
+      "basis": "168 sqm"
+    },
+    "lot": {
+      "min": 168,
+      "max": 168,
+      "basis": "Minimum 168 sqm"
+    },
+    "displayedPriceMax": null
+  },
+  "alegria-anatalia": {
+    "floor": {
+      "min": 181,
+      "max": 181,
+      "basis": "181 sqm"
+    },
+    "lot": {
+      "min": 168,
+      "max": 168,
+      "basis": "Minimum 168 sqm"
+    },
+    "displayedPriceMax": null
+  },
+  "alegria-arella": {
+    "floor": {
+      "min": 175,
+      "max": 175,
+      "basis": "175 sqm"
+    },
+    "lot": {
+      "min": 168,
+      "max": 168,
+      "basis": "Minimum 168 sqm"
+    },
+    "displayedPriceMax": null
+  },
+  "alegria-averie": {
+    "floor": {
+      "min": 170,
+      "max": 170,
+      "basis": "170 sqm"
+    },
+    "lot": {
+      "min": 168,
+      "max": 168,
+      "basis": "Minimum 168 sqm"
+    },
+    "displayedPriceMax": null
+  },
+  "vine-flexi-suite": {
+    "floor": null,
+    "lot": null,
+    "displayedPriceMax": 3884000
+  },
+  "vine-2-bedroom-end": {
+    "floor": {
+      "min": 31.62,
+      "max": 31.62,
+      "basis": "31.62 sqm \u00c2\u00b7 computation example"
+    },
+    "lot": null,
+    "displayedPriceMax": 4141000
+  },
+  "vine-2-bedroom-end-balcony": {
+    "floor": {
+      "min": 31.45,
+      "max": 31.45,
+      "basis": "Approx. 31.45 sqm \u00c2\u00b7 source drawing"
+    },
+    "lot": null,
+    "displayedPriceMax": null
+  },
+  "hill-flexi-suite": {
+    "floor": {
+      "min": 28.52,
+      "max": 28.52,
+      "basis": "28.52 sqm \u00c2\u00b7 computation example"
+    },
+    "lot": null,
+    "displayedPriceMax": 3262000
+  },
+  "hill-flexi-suite-end": {
+    "floor": {
+      "min": 29.76,
+      "max": 29.76,
+      "basis": "29.76 sqm \u00c2\u00b7 computation example"
+    },
+    "lot": null,
+    "displayedPriceMax": 3478000
+  },
+  "hill-flexi-suite-balcony": {
+    "floor": {
+      "min": 28.52,
+      "max": 28.52,
+      "basis": "28.52 sqm \u00c2\u00b7 advertised card"
+    },
+    "lot": null,
+    "displayedPriceMax": null
+  },
+  "nila-premium-3-bedroom": {
+    "floor": {
+      "min": 241.5,
+      "max": 241.5,
+      "basis": "Approx. 241.50 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": 77760000
+  },
+  "nila-signature-3-bedroom": {
+    "floor": {
+      "min": 286.5,
+      "max": 286.5,
+      "basis": "Approx. 286.50 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": 97410000
+  },
+  "nila-premium-4-bedroom": {
+    "floor": null,
+    "lot": null,
+    "displayedPriceMax": 123530000
+  },
+  "nila-garden-4-bedroom": {
+    "floor": {
+      "min": 388,
+      "max": 388,
+      "basis": "Approx. 388.00 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": 159650000
+  },
+  "lanello-abbie": {
+    "floor": {
+      "min": 73,
+      "max": 73,
+      "basis": "Approx. 73 sqm"
+    },
+    "lot": {
+      "min": 88,
+      "max": 88,
+      "basis": "88 sqm"
+    },
+    "displayedPriceMax": 3000000
+  },
+  "lanello-brenda": {
+    "floor": {
+      "min": 60,
+      "max": 60,
+      "basis": "60 sqm"
+    },
+    "lot": {
+      "min": 77,
+      "max": 77,
+      "basis": "77 sqm"
+    },
+    "displayedPriceMax": 3000000
+  },
+  "lanello-chelsea": {
+    "floor": {
+      "min": 49,
+      "max": 49,
+      "basis": "49 sqm"
+    },
+    "lot": {
+      "min": 66,
+      "max": 66,
+      "basis": "66 sqm"
+    },
+    "displayedPriceMax": 3000000
+  },
+  "greenway-phase-1-townhouse-44": {
+    "floor": {
+      "min": 44,
+      "max": 44,
+      "basis": "44 sqm"
+    },
+    "lot": {
+      "min": 36,
+      "max": 119,
+      "basis": "36\u00e2\u20ac\u201c119 sqm \u00c2\u00b7 model guide"
+    },
+    "displayedPriceMax": 3389000
+  },
+  "greenway-phase-1-townhouse-44-carport": {
+    "floor": {
+      "min": 44,
+      "max": 44,
+      "basis": "44 sqm"
+    },
+    "lot": {
+      "min": 48,
+      "max": 132,
+      "basis": "48\u00e2\u20ac\u201c132 sqm \u00c2\u00b7 model guide"
+    },
+    "displayedPriceMax": 2648000
+  },
+  "greenway-phase-1-duplex-45-50": {
+    "floor": {
+      "min": 45.5,
+      "max": 45.5,
+      "basis": "45.50 sqm"
+    },
+    "lot": {
+      "min": 58.5,
+      "max": 100,
+      "basis": "58.50\u00e2\u20ac\u201c100 sqm \u00c2\u00b7 model guide"
+    },
+    "displayedPriceMax": 3523000
+  },
+  "greenway-phase-1-single-attached-45-50": {
+    "floor": {
+      "min": 45.5,
+      "max": 45.5,
+      "basis": "45.50 sqm"
+    },
+    "lot": {
+      "min": 65,
+      "max": 108,
+      "basis": "65\u00e2\u20ac\u201c108 sqm \u00c2\u00b7 model guide"
+    },
+    "displayedPriceMax": 3098000
+  },
+  "greenway-phase-2-townhouse-68-garage": {
+    "floor": {
+      "min": 56,
+      "max": 56,
+      "basis": "56 sqm \u00c2\u00b7 provided floor area"
+    },
+    "lot": {
+      "min": 50,
+      "max": 50,
+      "basis": "From 50 sqm \u00c2\u00b7 confirm exact lot"
+    },
+    "displayedPriceMax": 5583000
+  },
+  "uhome-leon-guinto-studio": {
+    "floor": null,
+    "lot": null,
+    "displayedPriceMax": null
+  },
+  "uhome-leon-guinto-one-bedroom": {
+    "floor": null,
+    "lot": null,
+    "displayedPriceMax": null
+  },
+  "uhome-leon-guinto-bi-level-loft": {
+    "floor": null,
+    "lot": null,
+    "displayedPriceMax": null
+  },
+  "uhome-leon-guinto-tri-level-loft": {
+    "floor": null,
+    "lot": null,
+    "displayedPriceMax": null
+  },
+  "uhome-leon-guinto-condormitel": {
+    "floor": null,
+    "lot": null,
+    "displayedPriceMax": null
+  },
+  "pacifictown-naic-5-socialized-housing": {
+    "floor": {
+      "min": 32,
+      "max": 32,
+      "basis": "32 sqm"
+    },
+    "lot": {
+      "min": 36,
+      "max": 36,
+      "basis": "36 sqm"
+    },
+    "displayedPriceMax": 1100000
+  },
+  "pacifictown-naic-5-townhouse": {
+    "floor": {
+      "min": 42,
+      "max": 42,
+      "basis": "42 sqm"
+    },
+    "lot": {
+      "min": 40,
+      "max": 40,
+      "basis": "40 sqm"
+    },
+    "displayedPriceMax": 1500000
+  },
+  "pacifictown-naic-5-single-attached": {
+    "floor": {
+      "min": 53,
+      "max": 53,
+      "basis": "53 sqm"
+    },
+    "lot": {
+      "min": 54,
+      "max": 54,
+      "basis": "54 sqm"
+    },
+    "displayedPriceMax": 2500000
+  },
+  "apec-norzagaray-townhouse": {
+    "floor": {
+      "min": 44,
+      "max": 44,
+      "basis": "44 sqm"
+    },
+    "lot": {
+      "min": 36,
+      "max": 96,
+      "basis": "36\u00e2\u20ac\u201c96 sqm \u00c2\u00b7 dated examples"
+    },
+    "displayedPriceMax": 2856000
+  },
+  "apec-norzagaray-carport": {
+    "floor": {
+      "min": 44,
+      "max": 44,
+      "basis": "44 sqm"
+    },
+    "lot": {
+      "min": 57,
+      "max": 57,
+      "basis": "57 sqm \u00c2\u00b7 dated example only"
+    },
+    "displayedPriceMax": 2233000
+  },
+  "apec-norzagaray-duplex": {
+    "floor": {
+      "min": 45.5,
+      "max": 45.5,
+      "basis": "45.50 sqm"
+    },
+    "lot": {
+      "min": 58,
+      "max": 74,
+      "basis": "58\u00e2\u20ac\u201c74 sqm \u00c2\u00b7 dated examples"
+    },
+    "displayedPriceMax": 2954000
+  },
+  "apec-norzagaray-single-attached": {
+    "floor": {
+      "min": 45.5,
+      "max": 45.5,
+      "basis": "45.50 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": null
+  },
+  "milan-fairview-studio": {
+    "floor": {
+      "min": 21.92,
+      "max": 21.92,
+      "basis": "21.92 sqm \u00c2\u00b7 approx. gross incl. balcony"
+    },
+    "lot": null,
+    "displayedPriceMax": 3023547.96
+  },
+  "milan-fairview-one-bedroom": {
+    "floor": {
+      "min": 28.32,
+      "max": 28.32,
+      "basis": "28.32 sqm \u00c2\u00b7 approx. gross incl. balcony"
+    },
+    "lot": null,
+    "displayedPriceMax": 4507504.6
+  },
+  "milan-fairview-one-bedroom-corner": {
+    "floor": {
+      "min": 34.68,
+      "max": 34.68,
+      "basis": "34.68 sqm \u00c2\u00b7 approx. gross incl. balcony"
+    },
+    "lot": null,
+    "displayedPriceMax": null
+  },
+  "milan-fairview-two-bedroom": {
+    "floor": {
+      "min": 68,
+      "max": 68,
+      "basis": "68.00 sqm \u00c2\u00b7 approx. gross incl. balcony"
+    },
+    "lot": null,
+    "displayedPriceMax": 13616968.78
+  },
+  "milan-fairview-three-bedroom": {
+    "floor": {
+      "min": 90.34,
+      "max": 90.34,
+      "basis": "90.34 sqm \u00c2\u00b7 approx. gross incl. balcony"
+    },
+    "lot": null,
+    "displayedPriceMax": 18225537.4
+  },
+  "vivaldi-cubao-studio": {
+    "floor": {
+      "min": 25.24,
+      "max": 25.24,
+      "basis": "25.24 sqm \u00c2\u00b7 approx. gross incl. balcony"
+    },
+    "lot": null,
+    "displayedPriceMax": 2300000
+  },
+  "vivaldi-cubao-one-bedroom": {
+    "floor": {
+      "min": 42.32,
+      "max": 42.32,
+      "basis": "42.32 sqm \u00c2\u00b7 approx. gross incl. balcony"
+    },
+    "lot": null,
+    "displayedPriceMax": 6495548.95
+  },
+  "vivaldi-cubao-two-bedroom": {
+    "floor": {
+      "min": 68,
+      "max": 68,
+      "basis": "68.00 sqm \u00c2\u00b7 approx. gross incl. balcony"
+    },
+    "lot": null,
+    "displayedPriceMax": 10462200.85
+  },
+  "mawing-julieta": {
+    "floor": {
+      "min": 92,
+      "max": 92,
+      "basis": "Approx. 92 sqm"
+    },
+    "lot": {
+      "min": 96,
+      "max": 96,
+      "basis": "96 sqm"
+    },
+    "displayedPriceMax": 5958750
+  },
+  "mawing-gregoria": {
+    "floor": {
+      "min": 92,
+      "max": 92,
+      "basis": "Approx. 92 sqm"
+    },
+    "lot": {
+      "min": 96,
+      "max": 96,
+      "basis": "96 sqm"
+    },
+    "displayedPriceMax": 5958750
+  },
+  "mawing-gerardo": {
+    "floor": {
+      "min": 92,
+      "max": 92,
+      "basis": "Approx. 92 sqm"
+    },
+    "lot": {
+      "min": 96,
+      "max": 96,
+      "basis": "96 sqm"
+    },
+    "displayedPriceMax": 5958750
+  },
+  "urban-deca-manila-studio": {
+    "floor": {
+      "min": 22.95,
+      "max": 22.95,
+      "basis": "22.95 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": null
+  },
+  "urban-deca-manila-1-bedroom": {
+    "floor": {
+      "min": 27.42,
+      "max": 27.42,
+      "basis": "27.42 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": null
+  },
+  "urban-deca-manila-2-bedroom-a": {
+    "floor": {
+      "min": 32.17,
+      "max": 32.17,
+      "basis": "32.17 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": 3214000
+  },
+  "urban-deca-manila-2-bedroom-b": {
+    "floor": {
+      "min": 30.6,
+      "max": 30.6,
+      "basis": "30.60 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": 3049000
+  },
+  "urban-deca-manila-2-bedroom-c": {
+    "floor": {
+      "min": 45.9,
+      "max": 45.9,
+      "basis": "45.90 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": 3199000
+  },
+  "urban-deca-manila-2-bedroom-d": {
+    "floor": {
+      "min": 34.42,
+      "max": 34.42,
+      "basis": "34.42 sqm"
+    },
+    "lot": null,
+    "displayedPriceMax": 2800000
+  },
+  "plaridel-dogwood": {
+    "floor": {
+      "min": 72,
+      "max": 72,
+      "basis": "Supplied sample floor area; matching limits in model record"
+    },
+    "lot": {
+      "min": 166,
+      "max": 166,
+      "basis": "Supplied example lot range, not available inventory"
+    },
+    "displayedPriceMax": 7125288
+  },
+  "plaridel-esia": {
+    "floor": {
+      "min": 102,
+      "max": 102,
+      "basis": "Supplied sample floor area; matching limits in model record"
+    },
+    "lot": {
+      "min": 252,
+      "max": 252,
+      "basis": "Supplied example lot range, not available inventory"
+    },
+    "displayedPriceMax": 10422216
+  },
+  "plaridel-clara": {
+    "floor": {
+      "min": 200,
+      "max": 200,
+      "basis": "Supplied sample floor area; matching limits in model record"
+    },
+    "lot": {
+      "min": 228,
+      "max": 244,
+      "basis": "Supplied example lot range, not available inventory"
+    },
+    "displayedPriceMax": 14661472
+  },
+  "plaridel-brisa-nero": {
+    "floor": {
+      "min": 220,
+      "max": 220,
+      "basis": "Supplied sample floor area; matching limits in model record"
+    },
+    "lot": {
+      "min": 247,
+      "max": 252,
+      "basis": "Supplied example lot range, not available inventory"
+    },
+    "displayedPriceMax": 17673408
+  },
+  "plaridel-brisa-strata": {
+    "floor": {
+      "min": 220,
+      "max": 220,
+      "basis": "Supplied sample floor area; matching limits in model record"
+    },
+    "lot": {
+      "min": 247,
+      "max": 252,
+      "basis": "Supplied example lot range, not available inventory"
+    },
+    "displayedPriceMax": 17673408
+  },
+  "plaridel-brisa-solenne": {
+    "floor": {
+      "min": 220,
+      "max": 220,
+      "basis": "Supplied sample floor area; matching limits in model record"
+    },
+    "lot": {
+      "min": 247,
+      "max": 252,
+      "basis": "Supplied example lot range, not available inventory"
+    },
+    "displayedPriceMax": 17673408
+  },
+  "plaridel-brisa-modern-minimalist": {
+    "floor": null,
+    "lot": null,
+    "displayedPriceMax": null
+  }
+}

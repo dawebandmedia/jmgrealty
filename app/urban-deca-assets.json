@@ -1,0 +1,782 @@
+{
+  "U001": {
+    "src": "/images/urban-deca-manila/u001.png",
+    "displaySrc": "/images/urban-deca-manila/u001.webp",
+    "label": "Building 8 typical floor plate",
+    "width": 1215,
+    "height": 796,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "SITE DEVELOPMENT PLAN/FLOOR PLAN BUILDING 8.png",
+    "sha256": "69654a6bee7d53ae071192b077127fde9f8a1197ac4cc77c2860b377f98fdf46"
+  },
+  "U002": {
+    "src": "/images/urban-deca-manila/u002.jpg",
+    "displaySrc": "/images/urban-deca-manila/u002.webp",
+    "label": "Published Vitas Street location map",
+    "width": 750,
+    "height": 423,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "SITE DEVELOPMENT PLAN/Address of Tondo.jpg",
+    "sha256": "320c04021b2e879219837f15f64fc809950030e4edc2585cf7f513b12bcb03b9"
+  },
+  "U003": {
+    "src": "/images/urban-deca-manila/u003.jpg",
+    "displaySrc": "/images/urban-deca-manila/u003.webp",
+    "label": "Undated site development plan",
+    "width": 959,
+    "height": 540,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "SITE DEVELOPMENT PLAN/SITE DEV (2).JPG",
+    "sha256": "20eca0029098556a1b922b8e50785ddae30d973263e9d4e28f98ffec563279c5"
+  },
+  "U005": {
+    "src": "/images/urban-deca-manila/u005.png",
+    "displaySrc": "/images/urban-deca-manila/u005.webp",
+    "label": "Building 11 typical floor plate",
+    "width": 562,
+    "height": 335,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "SITE DEVELOPMENT PLAN/BUILDING 11.png",
+    "sha256": "4446644a89b4bca57e593e9df49bba02f4a2e29a425c4db01c8b255f6cbe6115"
+  },
+  "U006": {
+    "src": "/images/urban-deca-manila/u006.jpg",
+    "displaySrc": "/images/urban-deca-manila/u006.webp",
+    "label": "Building 7 typical floor plate",
+    "width": 1374,
+    "height": 900,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "SITE DEVELOPMENT PLAN/FLOOR PLAN BUILDING 7.jpg",
+    "sha256": "c40390d8d99e3dbfe0d0ad7569480274098674b44ae39843a13e46fca1fea4c1"
+  },
+  "U007": {
+    "src": "/images/urban-deca-manila/u007.png",
+    "displaySrc": "/images/urban-deca-manila/u007.webp",
+    "label": "Bank application requirements",
+    "width": 698,
+    "height": 622,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "List of Requirements/BANK  REQUIREMENTS.png",
+    "sha256": "51a62d86f4343bf6aafea54c0df29a797a0c405cd1805f3d493012a95b626d76"
+  },
+  "U009": {
+    "src": "/images/urban-deca-manila/u009.jpg",
+    "displaySrc": "/images/urban-deca-manila/u009.webp",
+    "label": "Covered basketball court - supplied reference photograph",
+    "width": 4818,
+    "height": 3191,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "Amenities/COURT.jpg",
+    "sha256": "ce0d3a90880894424dc9cb920cae5147735f2cdbcf0f5b9416304570d4b39ee8"
+  },
+  "U010": {
+    "src": "/images/urban-deca-manila/u010.jpg",
+    "displaySrc": "/images/urban-deca-manila/u010.webp",
+    "label": "Function hall - supplied reference photograph",
+    "width": 4818,
+    "height": 3191,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "Amenities/FUNCTION HALL.jpg",
+    "sha256": "31700c20ed66a813e0773c93c2a1a47860e713b96c4cefc4ad0dcc3a229357c8"
+  },
+  "U011": {
+    "src": "/images/urban-deca-manila/u011.jpg",
+    "displaySrc": "/images/urban-deca-manila/u011.webp",
+    "label": "Pool - supplied reference photograph",
+    "width": 4818,
+    "height": 3191,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "Amenities/POOL.jpg",
+    "sha256": "a9eb27fe3f7ccfe943c6a9f05f0f1de43f263e335c9089f0f5326f88f1658e2d"
+  },
+  "U012": {
+    "src": "/images/urban-deca-manila/u012.png",
+    "displaySrc": "/images/urban-deca-manila/u012.webp",
+    "label": "Deca Mall - supplied reference photograph",
+    "width": 940,
+    "height": 788,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "Amenities/MALL.png",
+    "sha256": "003042ee18166836019414a7868f27e068eeb6c15ec6d721195d85c7478c7ae4"
+  },
+  "U013": {
+    "src": "/images/urban-deca-manila/u013.png",
+    "displaySrc": "/images/urban-deca-manila/u013.webp",
+    "label": "Historical car parking sample - June 2026; confirm current terms",
+    "width": 1071,
+    "height": 592,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "PARKING - Sample Computation/PAG-IBIG 4.5_",
+    "sha256": "e53f1ac088d0e1ded24dc0fae916de14fb1af41294d0fe737dbb40d1c8d6800d"
+  },
+  "U014": {
+    "src": "/images/urban-deca-manila/u014.png",
+    "displaySrc": "/images/urban-deca-manila/u014.webp",
+    "label": "Historical bank / in-house car parking sample - February 2026",
+    "width": 1093,
+    "height": 566,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "PARKING - Sample Computation/BANK.png",
+    "sha256": "05f509649da005a3cbe668ddec520335eb1d0839fa71735b5d391d8da146eb5c"
+  },
+  "U015": {
+    "src": "/images/urban-deca-manila/u015.png",
+    "displaySrc": "/images/urban-deca-manila/u015.webp",
+    "label": "Historical car parking sample - June 2026; confirm current terms",
+    "width": 1205,
+    "height": 610,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "PARKING - Sample Computation/PAG-IBIG 6.25_",
+    "sha256": "abe82c2f8319861dcc3d24a373d9e249918d8dc0db2eecb7cfccb5b1f083046c"
+  },
+  "U016": {
+    "src": "/images/urban-deca-manila/u016.png",
+    "displaySrc": "/images/urban-deca-manila/u016.webp",
+    "label": "Undated motorcycle parking sample",
+    "width": 506,
+    "height": 346,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "PARKING - Sample Computation/MOTORCYCLE PARKING.png",
+    "sha256": "2af0ad14e1679d1de85811a3a269d4c64b42022a91c6d6af2893bef5833ece23"
+  },
+  "U017": {
+    "src": "/images/urban-deca-manila/u017.png",
+    "displaySrc": "/images/urban-deca-manila/u017.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 687,
+    "height": 533,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 4.5_ (must be taken out til dec 2026 to avail promo)/2BR D 34.42 SQM",
+    "sha256": "a65d53160186994c0a73aaa732d2c8a3dbe215e7f2724046c98d4430910d070b"
+  },
+  "U018": {
+    "src": "/images/urban-deca-manila/u018.png",
+    "displaySrc": "/images/urban-deca-manila/u018.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 684,
+    "height": 509,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/INHOUSE/2BR D 34.42 SQM",
+    "sha256": "ccf04cc99e1420835e413db8a0bf4dafa9b8875c84b21d2690a469a138a19853"
+  },
+  "U019": {
+    "src": "/images/urban-deca-manila/u019.png",
+    "displaySrc": "/images/urban-deca-manila/u019.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1545,
+    "height": 602,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 4.5_ (must be taken out til dec 2026 to avail promo)/2BR B- 30.60 SQM/BLDG 11.png",
+    "sha256": "6c7fad89f16230665b5ba4810d7ee353da7b0e0b5b09892473718254e2182ce3"
+  },
+  "U020": {
+    "src": "/images/urban-deca-manila/u020.png",
+    "displaySrc": "/images/urban-deca-manila/u020.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1550,
+    "height": 534,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/INHOUSE/2BR A/BLDG 4 & 6.png",
+    "sha256": "23a95e6fa0622f3b016fb01778a77fcbcc3a2d48d8b831f70c71c060865a0d27"
+  },
+  "U021": {
+    "src": "/images/urban-deca-manila/u021.png",
+    "displaySrc": "/images/urban-deca-manila/u021.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1543,
+    "height": 577,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 4.5_ (must be taken out til dec 2026 to avail promo)/2BR B- 30.60 SQM/BLDG 4&6.png",
+    "sha256": "90f7bfbbae3ccf4e2f7770505a6e4ae144c757a7f01e3c62ea2652b8130db8b7"
+  },
+  "U022": {
+    "src": "/images/urban-deca-manila/u022.png",
+    "displaySrc": "/images/urban-deca-manila/u022.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1512,
+    "height": 508,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR 30.60 SQM/BLDG 11/SECURITY BANK.png",
+    "sha256": "ef5656ea3b380c2f91c3aadb533945f8b5cba027a94635339479c894438d71b2"
+  },
+  "U023": {
+    "src": "/images/urban-deca-manila/u023.png",
+    "displaySrc": "/images/urban-deca-manila/u023.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1547,
+    "height": 508,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR 30.60 SQM/BLDG 4 & 6/SECURITY BANK.png",
+    "sha256": "f7290b3d8158db015a101fdc47998cf5940ac49f6c331df271abebff5b01e4ea"
+  },
+  "U024": {
+    "src": "/images/urban-deca-manila/u024.png",
+    "displaySrc": "/images/urban-deca-manila/u024.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1547,
+    "height": 482,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR 30.60 SQM/BLDG 7 & 8/CHINABANK.png",
+    "sha256": "4751bd02eba7857acde3f6f429965ca5743d56da37edf3d70e47e0cb4eb43a17"
+  },
+  "U025": {
+    "src": "/images/urban-deca-manila/u025.png",
+    "displaySrc": "/images/urban-deca-manila/u025.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1547,
+    "height": 533,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR A 32.17 SQM/BLDG 1,2,3,5,9,10,12,13/BDO.png",
+    "sha256": "c2d6ca00c044e2595b7e1283b6b2c01e392ca89cd970748b552fe864b01367af"
+  },
+  "U026": {
+    "src": "/images/urban-deca-manila/u026.png",
+    "displaySrc": "/images/urban-deca-manila/u026.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1597,
+    "height": 507,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR 30.60 SQM/BLDG 7 & 8/BDO.png",
+    "sha256": "29f92347be59693a75c061946cf9769394d554f03823917777f6f84b616112c0"
+  },
+  "U027": {
+    "src": "/images/urban-deca-manila/u027.png",
+    "displaySrc": "/images/urban-deca-manila/u027.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 679,
+    "height": 511,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/INHOUSE/2BR C 45.9 SQM",
+    "sha256": "6ca3fdb836ef534c586092778de7b7b02d4c70597e49be09a5c1e953cc79fc04"
+  },
+  "U028": {
+    "src": "/images/urban-deca-manila/u028.png",
+    "displaySrc": "/images/urban-deca-manila/u028.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1505,
+    "height": 567,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 6.25_/2BR A 32.17 SQM/BLDG 7 & 8.png",
+    "sha256": "2f77b517c38c885248a8d1ac75eb23e8b2eb38a5e6be6fe8c700d82fc5223287"
+  },
+  "U029": {
+    "src": "/images/urban-deca-manila/u029.png",
+    "displaySrc": "/images/urban-deca-manila/u029.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1569,
+    "height": 482,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR 30.60 SQM/BLDG 7 & 8/SECURITY BANK.png",
+    "sha256": "2ade50bc12544d3e008835a464252bae4035fcb7bb6f2e6342962a5d56699eb0"
+  },
+  "U030": {
+    "src": "/images/urban-deca-manila/u030.png",
+    "displaySrc": "/images/urban-deca-manila/u030.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1491,
+    "height": 570,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 6.25_/2BR B 30.60 SQM/BLDG 7 & 8.png",
+    "sha256": "94efb5bba0a7b6689d9e9907492bbee9d147e93b0b07f98cff8bcdc674ddc3f3"
+  },
+  "U031": {
+    "src": "/images/urban-deca-manila/u031.png",
+    "displaySrc": "/images/urban-deca-manila/u031.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1545,
+    "height": 585,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 4.5_ (must be taken out til dec 2026 to avail promo)/2BR B- 30.60 SQM/BLDG 1,2,3,5,9,10,12 & 13.png",
+    "sha256": "8e9ebd1fa86cd1889b6deb2bbd9403c596f05b72cb9be4ef97d5a11c892ff194"
+  },
+  "U032": {
+    "src": "/images/urban-deca-manila/u032.png",
+    "displaySrc": "/images/urban-deca-manila/u032.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1500,
+    "height": 543,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR A 32.17 SQM/BLDG 11/BDO.png",
+    "sha256": "10efef1750a5605213a02749d1fdafffaa84c4291bd2958d8a389f8867dad733"
+  },
+  "U033": {
+    "src": "/images/urban-deca-manila/u033.png",
+    "displaySrc": "/images/urban-deca-manila/u033.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1506,
+    "height": 505,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR A 32.17 SQM/BLDG 11/SECURITY BANK.png",
+    "sha256": "4930fc7ac49d8c76bb56ccc3cf7e18ae6c92d6d58fab16dda3f361d883e0c80f"
+  },
+  "U034": {
+    "src": "/images/urban-deca-manila/u034.png",
+    "displaySrc": "/images/urban-deca-manila/u034.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1546,
+    "height": 565,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 4.5_ (must be taken out til dec 2026 to avail promo)/2BR A- 32.17 SQM/BLDG 7 & 8.png",
+    "sha256": "1d53c8623d691725c516ec8006ce637e689d10604283d78a30e5b3da29fff801"
+  },
+  "U035": {
+    "src": "/images/urban-deca-manila/u035.png",
+    "displaySrc": "/images/urban-deca-manila/u035.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 682,
+    "height": 535,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 4.5_ (must be taken out til dec 2026 to avail promo)/2BR C 45.9 SQM",
+    "sha256": "c98faf56bb65ff7202d5bbe5047081d71f7cb29ec938d53a7376105112d5fb0d"
+  },
+  "U036": {
+    "src": "/images/urban-deca-manila/u036.png",
+    "displaySrc": "/images/urban-deca-manila/u036.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1547,
+    "height": 570,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 4.5_ (must be taken out til dec 2026 to avail promo)/2BR B- 30.60 SQM/BLDG 7 & 8.png",
+    "sha256": "aa7b16511d5bdc7739ac04c2615c99ded50c5393aa14bc75a1d9f1927c3e57f5"
+  },
+  "U037": {
+    "src": "/images/urban-deca-manila/u037.png",
+    "displaySrc": "/images/urban-deca-manila/u037.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1557,
+    "height": 515,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR A 32.17 SQM/BLDG 7 & 8/CHINABANK.png",
+    "sha256": "7bbb7d9d7c024bca59228bd31113ff8a7aa8f2ace9a8662dedfdc5ef5799e8d1"
+  },
+  "U038": {
+    "src": "/images/urban-deca-manila/u038.png",
+    "displaySrc": "/images/urban-deca-manila/u038.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1598,
+    "height": 532,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR A 32.17 SQM/BLDG 7 & 8/BDO.png",
+    "sha256": "9c3f2262457773c66865fc9d44782e5dde92ab90a75ba4bd540df589e0ffb12d"
+  },
+  "U039": {
+    "src": "/images/urban-deca-manila/u039.png",
+    "displaySrc": "/images/urban-deca-manila/u039.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1549,
+    "height": 510,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/INHOUSE/2BR 30.60 SQM/BLDG 4 & 6.png",
+    "sha256": "8f4fad3e7a5699a4ca27d6332d52a69ca8977a714b02479dfd618006c9c78044"
+  },
+  "U040": {
+    "src": "/images/urban-deca-manila/u040.png",
+    "displaySrc": "/images/urban-deca-manila/u040.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1485,
+    "height": 521,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR A 32.17 SQM/BLDG 11/CHINABANK.png",
+    "sha256": "eb5df260bd8de0805780126155b219bfdb41141bc7afc662614ad530ce15e2eb"
+  },
+  "U041": {
+    "src": "/images/urban-deca-manila/u041.png",
+    "displaySrc": "/images/urban-deca-manila/u041.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1558,
+    "height": 515,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR 30.60 SQM/BLDG 4 & 6/CHINABANK.png",
+    "sha256": "b885bd5de828f86c0a846cc72db0569e3b8390ca456f40aa87ffc27890978505"
+  },
+  "U042": {
+    "src": "/images/urban-deca-manila/u042.png",
+    "displaySrc": "/images/urban-deca-manila/u042.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1546,
+    "height": 530,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR A 32.17 SQM/BLDG 1,2,3,5,9,10,12,13/INHOUSE.png",
+    "sha256": "0b0ccb20dbad8b0799e78549c5b03c749136ab10c27417369547c6bb98f87f99"
+  },
+  "U043": {
+    "src": "/images/urban-deca-manila/u043.png",
+    "displaySrc": "/images/urban-deca-manila/u043.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1550,
+    "height": 577,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 4.5_ (must be taken out til dec 2026 to avail promo)/2BR A- 32.17 SQM/BLDG 1,2,3,5,9,10,12 & 13.png",
+    "sha256": "24e01ba2e7e067f19e33b0c7f236049acb63b99c34d64e949292f6c5eed5e5b2"
+  },
+  "U044": {
+    "src": "/images/urban-deca-manila/u044.png",
+    "displaySrc": "/images/urban-deca-manila/u044.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1540,
+    "height": 510,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR A 32.17 SQM/BLDG 1,2,3,5,9,10,12,13/SECURITY BANK.png",
+    "sha256": "6b9aae1b8aa8986aa9d61f69913a52795881f0c9d20fa20e522a8b5e3d86e8d5"
+  },
+  "U045": {
+    "src": "/images/urban-deca-manila/u045.png",
+    "displaySrc": "/images/urban-deca-manila/u045.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1545,
+    "height": 508,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/INHOUSE/2BR 30.60 SQM/BLDG 1,2,3,5,9,10,12 & 13.png",
+    "sha256": "418e726c69b3697218b1b1e0d570f350dda2af8afd33228a8ead16ac5225638f"
+  },
+  "U046": {
+    "src": "/images/urban-deca-manila/u046.png",
+    "displaySrc": "/images/urban-deca-manila/u046.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1491,
+    "height": 517,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR 30.60 SQM/BLDG 11/CHINABANK.png",
+    "sha256": "ab4a837ef42730e55d8ee233ded3b72d44e931c6e9efc1aafe1c16a65b56aeab"
+  },
+  "U047": {
+    "src": "/images/urban-deca-manila/u047.png",
+    "displaySrc": "/images/urban-deca-manila/u047.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 751,
+    "height": 567,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 6.25_/2BR D 34.42 SQM/BLDG 4,6,& 7.png",
+    "sha256": "7bfb9d6f3beb0a4ed3332834b3dbb7797a4169fa84f6218fdad49054979c0082"
+  },
+  "U048": {
+    "src": "/images/urban-deca-manila/u048.png",
+    "displaySrc": "/images/urban-deca-manila/u048.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1493,
+    "height": 537,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR 30.60 SQM/BLDG 11/BDO.png",
+    "sha256": "6a5399741be7e72fb506f2b9da606b2923c7ca9c14ef735a39ea813e1a21cf43"
+  },
+  "U049": {
+    "src": "/images/urban-deca-manila/u049.png",
+    "displaySrc": "/images/urban-deca-manila/u049.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 680,
+    "height": 490,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR D 34.42 SQM/SECURITY BANK.png",
+    "sha256": "1e51694f1d66053378a729613c264889a2a84f835f32804de7600e046ca7f3a0"
+  },
+  "U050": {
+    "src": "/images/urban-deca-manila/u050.png",
+    "displaySrc": "/images/urban-deca-manila/u050.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 680,
+    "height": 511,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR D 34.42 SQM/BDO.png",
+    "sha256": "4e21dfde88cd29d472e5c49811a1f9de9c4544a0c083e0ed4db09995ae380b17"
+  },
+  "U051": {
+    "src": "/images/urban-deca-manila/u051.png",
+    "displaySrc": "/images/urban-deca-manila/u051.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1546,
+    "height": 507,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR A 32.17 SQM/BLDG 4 & 6/SECURITY BANK.png",
+    "sha256": "7cc9b4c6b1f3612dcc6dedf27389aa1ac743909561c9940e44fa086d7ff2bf8f"
+  },
+  "U052": {
+    "src": "/images/urban-deca-manila/u052.png",
+    "displaySrc": "/images/urban-deca-manila/u052.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1545,
+    "height": 507,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR A 32.17 SQM/BLDG 4 & 6/CHINABANK.png",
+    "sha256": "fdf13b7004392c306bf13ea78e1e860d4ac816e59a3969148e6ba39dde59be5c"
+  },
+  "U053": {
+    "src": "/images/urban-deca-manila/u053.png",
+    "displaySrc": "/images/urban-deca-manila/u053.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 682,
+    "height": 507,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR C 45.9 SQM/BDO.png",
+    "sha256": "92ec5da3900ac6c8e7717787a89e57d76dbdd873e993dcace9054de04d060efd"
+  },
+  "U054": {
+    "src": "/images/urban-deca-manila/u054.png",
+    "displaySrc": "/images/urban-deca-manila/u054.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1550,
+    "height": 491,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR 30.60 SQM/BLDG 1,2,3,5,9,10,12, & 13/CHINABANK.png",
+    "sha256": "a9a9569be1c9439b258948dba16e780f83ce73edcd31c2a5c22f3c4efc0f18cf"
+  },
+  "U055": {
+    "src": "/images/urban-deca-manila/u055.png",
+    "displaySrc": "/images/urban-deca-manila/u055.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1547,
+    "height": 576,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 4.5_ (must be taken out til dec 2026 to avail promo)/2BR A- 32.17 SQM/BLDG 4 & 6.png",
+    "sha256": "47b0459a3f261155be6500ab2462a01fd842ec5ab92c6a0b158306b96a2f2469"
+  },
+  "U056": {
+    "src": "/images/urban-deca-manila/u056.png",
+    "displaySrc": "/images/urban-deca-manila/u056.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1541,
+    "height": 487,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR 30.60 SQM/BLDG 1,2,3,5,9,10,12, & 13/SECURITY BANK.png",
+    "sha256": "013efded8701b0a41555987b6fc614f7381a4440d5e483b6aae65c9df0122c4a"
+  },
+  "U057": {
+    "src": "/images/urban-deca-manila/u057.png",
+    "displaySrc": "/images/urban-deca-manila/u057.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1547,
+    "height": 528,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR A 32.17 SQM/BLDG 4 & 6/BDO.png",
+    "sha256": "e3a15b44f1791923f1bca2ba5f9bf217d3744271dbfdd837b05fcd9bc9d898e8"
+  },
+  "U058": {
+    "src": "/images/urban-deca-manila/u058.png",
+    "displaySrc": "/images/urban-deca-manila/u058.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1547,
+    "height": 537,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR 30.60 SQM/BLDG 4 & 6/BDO.png",
+    "sha256": "794c9b45f702773979cdbbe98db0b68973a8ac456665c6060a03b3c3d1d7d3e3"
+  },
+  "U059": {
+    "src": "/images/urban-deca-manila/u059.png",
+    "displaySrc": "/images/urban-deca-manila/u059.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1545,
+    "height": 572,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 6.25_/2BR A 32.17 SQM/BLDG 4 & 6.png",
+    "sha256": "74c1e057fff0c91b1bb24c547ff4c1c8d98c913a9040eb53f6f34735875c5316"
+  },
+  "U060": {
+    "src": "/images/urban-deca-manila/u060.png",
+    "displaySrc": "/images/urban-deca-manila/u060.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1569,
+    "height": 510,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR A 32.17 SQM/BLDG 7 & 8/SECURITY BANK.png",
+    "sha256": "1cd633d617dbc9c367dcf053ea72dc0828db0c0bf224cc059d62f60c03c6d932"
+  },
+  "U061": {
+    "src": "/images/urban-deca-manila/u061.png",
+    "displaySrc": "/images/urban-deca-manila/u061.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1547,
+    "height": 515,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR A 32.17 SQM/BLDG 1,2,3,5,9,10,12,13/CHINABANK.png",
+    "sha256": "93b86ca21dd30e4f4d5d19c40a30f7ae8f5c356f5c3b381072297526e8b644b3"
+  },
+  "U062": {
+    "src": "/images/urban-deca-manila/u062.png",
+    "displaySrc": "/images/urban-deca-manila/u062.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1496,
+    "height": 557,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 6.25_/2BR A 32.17 SQM/BLDG 1,2,3,5,9,10,12,13.png",
+    "sha256": "7d32aa7b75fa00417d2836adf5f77d2b78446cc2a4bae97f5fc357361d02f879"
+  },
+  "U063": {
+    "src": "/images/urban-deca-manila/u063.png",
+    "displaySrc": "/images/urban-deca-manila/u063.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1482,
+    "height": 602,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 6.25_/2BR B 30.60 SQM/BLDG 11.png",
+    "sha256": "943f94aa20ae4f47e737cff141c8aee9592ed00fb24bcd61002203ff6717b49a"
+  },
+  "U064": {
+    "src": "/images/urban-deca-manila/u064.png",
+    "displaySrc": "/images/urban-deca-manila/u064.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1492,
+    "height": 567,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 6.25_/2BR B 30.60 SQM/BLDG 1,2,3,5,9,10,12,13.png",
+    "sha256": "631e46155e4a8c6a9882cea9b49d9668fe0bb3c703fb4de73ef52e1a7d26005f"
+  },
+  "U065": {
+    "src": "/images/urban-deca-manila/u065.png",
+    "displaySrc": "/images/urban-deca-manila/u065.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1545,
+    "height": 595,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 4.5_ (must be taken out til dec 2026 to avail promo)/2BR A- 32.17 SQM/BLDG 11.png",
+    "sha256": "7f2669956dba4e7fe9a8cd160d000819aade87610a1afaad38f60c0abfb09dac"
+  },
+  "U066": {
+    "src": "/images/urban-deca-manila/u066.png",
+    "displaySrc": "/images/urban-deca-manila/u066.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1487,
+    "height": 588,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 6.25_/2BR A 32.17 SQM/BLDG 11.png",
+    "sha256": "c15a665083ead81ea269de845e26e08de8deeff4fffda2dc7c1c1c5fed27d68a"
+  },
+  "U067": {
+    "src": "/images/urban-deca-manila/u067.png",
+    "displaySrc": "/images/urban-deca-manila/u067.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1552,
+    "height": 583,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/PAG-IBIG 6.25_/2BR B 30.60 SQM/BLDG 4 & 6.png",
+    "sha256": "840c508ee0711aa83187e894068c39f3618f758aec6e41234b81396c1d15651b"
+  },
+  "U068": {
+    "src": "/images/urban-deca-manila/u068.png",
+    "displaySrc": "/images/urban-deca-manila/u068.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 681,
+    "height": 490,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR C 45.9 SQM/SECURITY BANK.png",
+    "sha256": "22492267f0e20c7206084dec738147bf892a66ac1e1e6aa33ba1c9f7d2087b5c"
+  },
+  "U069": {
+    "src": "/images/urban-deca-manila/u069.png",
+    "displaySrc": "/images/urban-deca-manila/u069.webp",
+    "label": "Historical unit sample computation - confirm current quotation",
+    "width": 1552,
+    "height": 510,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT - Sample Computation/BANK/2BR 30.60 SQM/BLDG 1,2,3,5,9,10,12, & 13/BDO.png",
+    "sha256": "926bb30f297550e0e256169175ef962fedb6b2e855d08f63af81f4e0bb9ce659"
+  },
+  "U070": {
+    "src": "/images/urban-deca-manila/u070.png",
+    "displaySrc": "/images/urban-deca-manila/u070.webp",
+    "label": "2BR D 34.42 sqm - original photo flyer",
+    "width": 940,
+    "height": 788,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT  Picture_s/2BR-D 34.42sqm",
+    "sha256": "62d58853d0ba65d46277fe7f7d22e6810bc7864c1af3b1149eb40612d8ebac61"
+  },
+  "U071": {
+    "src": "/images/urban-deca-manila/u071.png",
+    "displaySrc": "/images/urban-deca-manila/u071.webp",
+    "label": "1BR 27.42 sqm - original photo flyer",
+    "width": 940,
+    "height": 788,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT  Picture_s/1BR 27.42sqm",
+    "sha256": "5a528bb286d4d8e91f93f61feef448d049326db8333a9ce29e8a12b6481685e8"
+  },
+  "U072": {
+    "src": "/images/urban-deca-manila/u072.png",
+    "displaySrc": "/images/urban-deca-manila/u072.webp",
+    "label": "Studio 22.95 sqm - original photo flyer",
+    "width": 940,
+    "height": 788,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT  Picture_s/STUDIO TYPE 22.95sqm",
+    "sha256": "d8c82087824013e569de92d0039c812a8fe093c54d4bb33fed7bdf8d4d072ae0"
+  },
+  "U073": {
+    "src": "/images/urban-deca-manila/u073.png",
+    "displaySrc": "/images/urban-deca-manila/u073.webp",
+    "label": "2BR A 32.17 sqm - original photo flyer",
+    "width": 940,
+    "height": 788,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT  Picture_s/2BR-A 32.17sqm",
+    "sha256": "7f1b3f422656fe7b018312a80c1949398617538a85bbb28cfd22ee240f310b66"
+  },
+  "U074": {
+    "src": "/images/urban-deca-manila/u074.png",
+    "displaySrc": "/images/urban-deca-manila/u074.webp",
+    "label": "2BR C 45.90 sqm - original photo flyer",
+    "width": 940,
+    "height": 788,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT  Picture_s/2BR-C 45.90sqm",
+    "sha256": "c4b8dadfcdf795e88dcef6f38869f88469c3e557e04a29733901a22a6633d2c8"
+  },
+  "U075": {
+    "src": "/images/urban-deca-manila/u075.png",
+    "displaySrc": "/images/urban-deca-manila/u075.webp",
+    "label": "2BR B 30.60 sqm - original photo flyer",
+    "width": 940,
+    "height": 788,
+    "sourceUrl": "https://www.decahomes.com.ph/urban-deca-homes-manila.html",
+    "originalFilename": "UNIT  Picture_s/2BR-B 30.60sqm",
+    "sha256": "2a0768b9bc9f7c5f5c5e8d54a322853e65210a351f9d0f79f541579873fd57a2"
+  },
+  "web-hero": {
+    "src": "/images/urban-deca-manila/web-hero.jpg",
+    "displaySrc": "/images/urban-deca-manila/web-hero.webp",
+    "label": "Undated development marketing photograph",
+    "width": 800,
+    "height": 800,
+    "sourceUrl": "https://www.decahomes.com.ph/uploads/5/4/9/5/5495221/units-ready_orig.jpg",
+    "originalFilename": "units-ready_orig.jpg",
+    "sha256": "3dd00e7f6c6136a77ea6103b4eaa5b93f791e402ea92ff0b80de317e61427838"
+  },
+  "web-studio-plan": {
+    "src": "/images/urban-deca-manila/web-studio-plan.png",
+    "displaySrc": "/images/urban-deca-manila/web-studio-plan.webp",
+    "label": "Original Studio 22.95 sqm unit layout",
+    "width": 1100,
+    "height": 619,
+    "sourceUrl": "https://www.decahomes.com.ph/uploads/5/4/9/5/5495221/updates-pks-page-17_orig.png",
+    "originalFilename": "updates-pks-page-17_orig.png",
+    "sha256": "ffa073e20d73ae3f440247b04c4114fbdc00cbf47f49912c5dc1196ed74bb208"
+  },
+  "web-1br-plan": {
+    "src": "/images/urban-deca-manila/web-1br-plan.png",
+    "displaySrc": "/images/urban-deca-manila/web-1br-plan.webp",
+    "label": "Original 1 Bedroom 27.42 sqm unit layout",
+    "width": 1100,
+    "height": 619,
+    "sourceUrl": "https://www.decahomes.com.ph/uploads/5/4/9/5/5495221/updates-pks-page-18_orig.png",
+    "originalFilename": "updates-pks-page-18_orig.png",
+    "sha256": "005e8db3bd2ab4ee257f570310e4675559ca36077c3ca37182d84eef53ed0ae6"
+  },
+  "web-2br-a-plan": {
+    "src": "/images/urban-deca-manila/web-2br-a-plan.png",
+    "displaySrc": "/images/urban-deca-manila/web-2br-a-plan.webp",
+    "label": "Original 2 Bedroom A 32.17 sqm unit layout",
+    "width": 1100,
+    "height": 619,
+    "sourceUrl": "https://www.decahomes.com.ph/uploads/5/4/9/5/5495221/updates-pks-page-19_orig.png",
+    "originalFilename": "updates-pks-page-19_orig.png",
+    "sha256": "b7919d6c3f3bdff1e5daf66fc039d842bde02f0b1c0d5e96298b429a177409b7"
+  },
+  "web-2br-b-plan": {
+    "src": "/images/urban-deca-manila/web-2br-b-plan.png",
+    "displaySrc": "/images/urban-deca-manila/web-2br-b-plan.webp",
+    "label": "Original 2 Bedroom B 30.60 sqm unit layout",
+    "width": 1100,
+    "height": 619,
+    "sourceUrl": "https://www.decahomes.com.ph/uploads/5/4/9/5/5495221/updates-pks-page-20_orig.png",
+    "originalFilename": "updates-pks-page-20_orig.png",
+    "sha256": "339ea4ebe357830595964a30a9c00662b1e087c6e5ed5af0811137bc724f4a27"
+  }
+}

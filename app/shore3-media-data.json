@@ -1,0 +1,152 @@
+{
+  "shore-3-1-bedroom-balcony": {
+    "modelId": "shore-3-1-bedroom-balcony",
+    "sourceUrl": "https://shore3residences.com/1-bedroom-balcony/",
+    "publisher": "shore3residences.com",
+    "galleryHeading": "Published unit imagery.",
+    "galleryEyebrow": "SHORE 3 RESIDENCES / UNIT IMAGERY",
+    "galleryDescription": "The source page presents this show-unit marketing illustration. The actual finishes, furnishings and layout of an available unit may differ.",
+    "gallerySourceNote": "Source marketing illustration; not an actual-unit photograph",
+    "imageNoun": "image",
+    "interiorImages": [
+      {
+        "id": 821,
+        "src": "/images/properties/shore-3/originals/821-3.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/3.webp",
+        "originalFilename": "3.webp",
+        "label": "Bedroom and study desk — marketing illustration",
+        "width": 2200,
+        "height": 1650,
+        "format": "webp",
+        "sha256": "b01899b010979e928178ca8f63e2c0db91403a0c6a26182825872788aedd839c",
+        "pages": [
+          "1-bedroom-balcony",
+          "units"
+        ],
+        "displaySrc": "/images/properties/shore-3/originals/821-display.webp"
+      }
+    ],
+    "floorPlans": [
+      {
+        "id": 783,
+        "src": "/images/properties/shore-3/originals/783-33.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/33.webp",
+        "originalFilename": "33.webp",
+        "label": "1-bedroom layout with balcony — source drawing",
+        "width": 2200,
+        "height": 5108,
+        "format": "webp",
+        "sha256": "a2db8d3f1d7354321ed646398188a026cf806b31f4e62e233cf4af99971d229e",
+        "pages": [
+          "1-bedroom-balcony",
+          "floor-plans"
+        ]
+      }
+    ],
+    "floorPlanDescription": "Original drawing published on the reference unit page. It does not print area or dimension values, so it cannot independently verify the area in the pricing example. Ask JMG for the plan applicable to the specific unit.",
+    "floorPlanSourceNote": "Source image is visibly soft despite its pixel dimensions. No detail has been reconstructed. Confirm the exact plan, dimensions and unit inclusions with JMG.",
+    "limitations": []
+  },
+  "shore-3-2-bedroom-balcony": {
+    "modelId": "shore-3-2-bedroom-balcony",
+    "sourceUrl": "https://shore3residences.com/2-bedroom-balcony/",
+    "publisher": "shore3residences.com",
+    "galleryHeading": "Published unit imagery.",
+    "galleryEyebrow": "SHORE 3 RESIDENCES / UNIT IMAGERY",
+    "galleryDescription": "The source page presents this show-unit marketing illustration. The actual finishes, furnishings and layout of an available unit may differ.",
+    "gallerySourceNote": "Source marketing illustration; not an actual-unit photograph",
+    "imageNoun": "image",
+    "interiorImages": [
+      {
+        "id": 820,
+        "src": "/images/properties/shore-3/originals/820-2-1.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/2-1.webp",
+        "originalFilename": "2-1.webp",
+        "label": "Living area and adjacent bedroom — marketing illustration",
+        "width": 2200,
+        "height": 1650,
+        "format": "webp",
+        "sha256": "d4878c180e3861a25e0b7917f56decf47f322891d080cfb1ddd9cb8c3bc87b8f",
+        "pages": [
+          "home",
+          "2-bedroom-balcony",
+          "2-bedroom-end-balcony",
+          "units"
+        ],
+        "displaySrc": "/images/properties/shore-3/originals/820-display.webp"
+      }
+    ],
+    "floorPlans": [
+      {
+        "id": 784,
+        "src": "/images/properties/shore-3/originals/784-44.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/44.webp",
+        "originalFilename": "44.webp",
+        "label": "2-bedroom layout with balcony — source drawing",
+        "width": 2200,
+        "height": 1899,
+        "format": "webp",
+        "sha256": "78ee1d8993e427e2af14e44570a0f2d66a0f3e1886b555ee482203324b8449ac",
+        "pages": [
+          "2-bedroom-balcony",
+          "2-bedroom-end-balcony",
+          "floor-plans"
+        ]
+      }
+    ],
+    "floorPlanDescription": "Original drawing published on the reference unit page. It does not print area or dimension values, so it cannot independently verify the area in the pricing example. Ask JMG for the plan applicable to the specific unit.",
+    "floorPlanSourceNote": "Source image is visibly soft despite its pixel dimensions. No detail has been reconstructed. Confirm the exact plan, dimensions and unit inclusions with JMG.",
+    "limitations": []
+  },
+  "shore-3-2-bedroom-end-balcony": {
+    "modelId": "shore-3-2-bedroom-end-balcony",
+    "sourceUrl": "https://shore3residences.com/2-bedroom-end-balcony/",
+    "publisher": "shore3residences.com",
+    "galleryHeading": "Published unit imagery.",
+    "galleryEyebrow": "SHORE 3 RESIDENCES / UNIT IMAGERY",
+    "galleryDescription": "The reference page uses the same show-unit illustration as the standard two-bedroom page. It does not identify a distinct end-unit interior.",
+    "gallerySourceNote": "Source marketing illustration; not an actual-unit photograph",
+    "imageNoun": "image",
+    "interiorImages": [
+      {
+        "id": 820,
+        "src": "/images/properties/shore-3/originals/820-2-1.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/2-1.webp",
+        "originalFilename": "2-1.webp",
+        "label": "Shared two-bedroom marketing illustration",
+        "width": 2200,
+        "height": 1650,
+        "format": "webp",
+        "sha256": "d4878c180e3861a25e0b7917f56decf47f322891d080cfb1ddd9cb8c3bc87b8f",
+        "pages": [
+          "home",
+          "2-bedroom-balcony",
+          "2-bedroom-end-balcony",
+          "units"
+        ],
+        "displaySrc": "/images/properties/shore-3/originals/820-display.webp"
+      }
+    ],
+    "floorPlans": [
+      {
+        "id": 784,
+        "src": "/images/properties/shore-3/originals/784-44.webp",
+        "sourceUrl": "https://shore3residences.com/wp-content/uploads/2025/09/44.webp",
+        "originalFilename": "44.webp",
+        "label": "Shared 2-bedroom drawing — end-unit layout unverified",
+        "width": 2200,
+        "height": 1899,
+        "format": "webp",
+        "sha256": "78ee1d8993e427e2af14e44570a0f2d66a0f3e1886b555ee482203324b8449ac",
+        "pages": [
+          "2-bedroom-balcony",
+          "2-bedroom-end-balcony",
+          "floor-plans"
+        ]
+      }
+    ],
+    "floorPlanDescription": "The end-unit page repeats the standard two-bedroom drawing below. A distinct 58.73 sqm end-unit plan is not separately identified. Use this as a source reference and ask JMG for the exact end-unit drawing.",
+    "floorPlanSourceNote": "Source image is visibly soft despite its pixel dimensions. No detail has been reconstructed. Confirm the exact plan, dimensions and unit inclusions with JMG.",
+    "limitations": []
+  }
+}
