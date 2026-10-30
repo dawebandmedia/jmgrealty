@@ -81,11 +81,11 @@ void main(){
   float y=luma(photo);
   vec3 day=photo*1.03+vec3(.01,.008,0.);
   vec3 gold=photo*vec3(1.10,.97,.80)+vec3(.07,.035,0.)*(1.-y)+pow(y,3.)*vec3(.12,.07,0.);
-  vec3 eve=photo*vec3(.34,.42,.62);
+  vec3 eve=photo*vec3(.42,.49,.70);
   float sky=smoothstep(.55,1.,v.y)*smoothstep(.55,.85,y);
   eve=mix(eve,vec3(.05,.08,.18)+vec3(.12,.10,.20)*(1.-v.y),sky*.85);
   float lamps=smoothstep(.62,.92,y)*(1.-sky)*smoothstep(.85,.2,v.y);
-  eve+=lamps*vec3(1.,.66,.28)*.55;
+  eve+=lamps*vec3(1.,.66,.28)*.85;
   vec3 graded=mix(mix(day,gold,golden),eve,night);
   col=mix(col,graded,m);
 

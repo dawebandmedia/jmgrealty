@@ -77,8 +77,10 @@ export function RegionJourney() {
     const models = properties.filter((p) => p.area === area);
     const projects = [...new Set(models.map((p) => p.developmentId))].map((id) => developments.find((d) => d.id === id)).filter(Boolean);
     const cities = [...new Set(models.map((p) => p.city))];
-    const lead = models.find((p) => /display|exterior|facade|front/i.test(p.image)) || models[0];
-    return { area, models: models.length, projects: projects.length, cities, image: lead?.image, alt: lead?.imageAlt, caption: lead ? `${lead.title} · ${developments.find((d) => d.id === lead.developmentId)?.name ?? ""}` : "" };
+    // Lead with a place, not a room: the project with the most models, shown by its own project image.
+    const byCount = projects.map((d) => ({ d: d!, n: models.filter((p) => p.developmentId === d!.id).length })).sort((a, b) => b.n - a.n);
+    const lead = byCount.find(({ d }) => d.image && !/interior|bedroom|living|kitchen|bath|dining/i.test(d.image + " " + d.imageAlt))?.d ?? byCount[0]?.d;
+    return { area, models: models.length, projects: projects.length, cities, image: lead?.image, alt: lead?.imageAlt, caption: lead ? `${lead.name} · ${lead.city}` : "" };
   }).filter((r) => r.models > 0 && r.image), []);
 
   useEffect(() => {

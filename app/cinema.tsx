@@ -124,23 +124,34 @@ function revealOnScroll() {
   const html = document.documentElement, loadedAt = performance.now();
   // Things already on screen wait for the curtain to lift before they arrive.
   const curtainWait = html.classList.contains("jmg-intro") ? 1250 : html.classList.contains("jmg-arrive") ? 380 : 0;
+  // Headings and photos start fully clipped, and an observer never sees a fully clipped
+  // element enter the screen, so they are watched through their parent instead.
+  const proxies = new Map<Element, HTMLElement[]>();
+  const watch = (el: HTMLElement) => {
+    const target = el.matches("h2, img") && el.parentElement ? el.parentElement : el;
+    const list = proxies.get(target);
+    if (list) list.push(el); else { proxies.set(target, [el]); io.observe(target); }
+  };
   const io = new IntersectionObserver((entries) => {
     const base = performance.now() - loadedAt < 1500 ? curtainWait : 0;
     for (const entry of entries) {
       if (!entry.isIntersecting) continue;
-      const el = entry.target as HTMLElement;
+      const els = proxies.get(entry.target) ?? [];
+      proxies.delete(entry.target);
+      io.unobserve(entry.target);
+      for (const el of els) {
       el.style.setProperty("--jmg-delay", `${base + Math.min(batch++, 8) * 70}ms`);
       el.dataset.jmgReveal = "in";
-      io.unobserve(el);
       // once it has landed, hand transitions back to the element's own styles
       timers.push(window.setTimeout(() => { if (el.dataset.jmgReveal === "in") el.dataset.jmgReveal = "done"; }, base + Math.min(batch, 8) * 70 + 2600));
+      }
     }
     if (!batchFrame) batchFrame = requestAnimationFrame(() => { batch = 0; batchFrame = 0; });
   }, { rootMargin: "0px 0px -8% 0px", threshold: 0.01 });
   const scan = () => document.querySelectorAll<HTMLElement>(revealSelector).forEach((el) => {
     if (el.dataset.jmgReveal || el.closest(".architectural-hero, header, dialog, .jmg-noreveal, .shortlist-tray")) return;
     el.dataset.jmgReveal = "wait";
-    io.observe(el);
+    watch(el);
   });
   scan();
   const mo = new MutationObserver(() => requestAnimationFrame(scan));
@@ -148,7 +159,7 @@ function revealOnScroll() {
   if (main) mo.observe(main, { childList: true, subtree: true });
   // Failsafe: nothing may stay hidden if an observer never fires.
   const failsafe = window.setTimeout(() => document.querySelectorAll<HTMLElement>('[data-jmg-reveal="wait"]').forEach((el) => {
-    const r = el.getBoundingClientRect(); if (r.top < innerHeight && r.bottom > 0) el.dataset.jmgReveal = "in";
+    const r = (el.parentElement ?? el).getBoundingClientRect(); if (r.top < innerHeight && r.bottom > 0) el.dataset.jmgReveal = "in";
   }), 2600);
   return () => {
     io.disconnect(); mo.disconnect(); clearTimeout(failsafe); cancelAnimationFrame(batchFrame); timers.forEach(clearTimeout);
