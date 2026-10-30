@@ -166,6 +166,7 @@ export default function Owner() {
   return (
     <Shell>
       <section className="section wrap owner-page enhanced-owner">
+        {process.env.NEXT_PUBLIC_JMG_PREVIEW === "1" && <p className="inbox-operating-note"><strong>Preview only.</strong> Client records are read-only here. Changes and deletions are disabled.</p>}
         <div className="owner-title">
           <div>
             <span className="eyebrow">JMG REALTY PH · OWNER ACCESS</span>

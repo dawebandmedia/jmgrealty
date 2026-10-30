@@ -1,5 +1,6 @@
 "use client";
 import { SuccessMark } from "./motion";
+import { PreviewNotice } from "./preview-notice";
 import { useEffect, useRef, useState, type FormEvent } from "react";
 import { ArrowUpRight, CalendarDays, Check, Phone } from "lucide-react";
 import { properties, developments, company, type Property } from "./content";
@@ -44,6 +45,7 @@ export function PropertyRequestForm({ models, choices, intent }: { models: Prope
     <a href={`tel:${company.primaryTel}`} className="text-link"><Phone size={17}/>{company.primaryPhone}</a><a href="/contact#contact-people" className="text-link">Message our contact people ↗</a><a href="/properties" className="button">Return to the collection<ArrowUpRight size={18}/></a>
   </section>;
   return <form className="property-request-form" onSubmit={submit} ref={form} aria-busy={state === "saving"}>
+    <PreviewNotice />
     <div className="request-form-heading"><span className="eyebrow">{intent === "viewing" ? "YOUR VIEWING REQUEST" : "YOUR NEXT CONVERSATION"}</span><h2>{intent === "viewing" ? "A closer look." : "The details you need."}</h2><p>Leave your name and one way to reach you. Fields marked * are required.</p></div>
     <fieldset disabled={state === "saving"}><legend className="sr-only">Request details</legend>
       {!models.length && <label><span>Home model or unit category *</span><select name="model" required value={selected[0] || ""} onChange={e=>setSelected(e.target.value ? [e.target.value] : [])}><option value="">Choose a model</option>{choices.map(p=><option key={p.id} value={p.id}>{p.title} · {developments.find(d=>d.id===p.developmentId)?.name}</option>)}</select></label>}

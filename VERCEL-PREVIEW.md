@@ -23,3 +23,5 @@ The Next.js production build, including TypeScript, passed. Direct local checks 
 Vercel's default preview access protection should remain enabled. Do not promote this preview or attach a client-facing domain unless the user requests it.
 
 The configured ignore command skips production builds. Preview metadata and robots rules discourage search indexing. Remove the preview-only guard only after the user explicitly requests a production deployment.
+
+Preview builds block inquiry creation and client-record mutations before contacting the backend. Forms show a preview notice and never claim a request was saved. Authentication and authorized read-only inbox inspection remain available; use the original service for actual client-record work.

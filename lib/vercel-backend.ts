@@ -17,6 +17,13 @@ export async function forwardToBackend(request: Request) {
     return Response.json({ error: "Unknown endpoint." }, { status: 404 });
   }
   const writes = !["GET", "HEAD"].includes(request.method);
+  if (process.env.NEXT_PUBLIC_JMG_PREVIEW === "1" && writes &&
+      (current.pathname === "/api/submissions" || current.pathname === "/api/inbox")) {
+    return Response.json(
+      { error: "Preview only: inquiries and client-record changes are disabled. Nothing has been saved." },
+      { status: 403, headers: { "Cache-Control": "no-store" } },
+    );
+  }
   if (writes) {
     const origin = request.headers.get("origin");
     // Next's internal URL can use localhost while the incoming request uses

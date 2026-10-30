@@ -1,6 +1,7 @@
 "use client";
 import { inspirationImages } from "./listing-inspiration";
 import SimpleInquiry from "./simple-inquiry";
+import { PreviewNotice } from "./preview-notice";
 import { MotionControls } from "./motion";
 
 import {
@@ -728,6 +729,7 @@ function LegacyInquiryForm({
     );
   return (
     <form ref={form} className="inquiry-form" onSubmit={submit}>
+      <PreviewNotice />
       <div className="form-heading">
         <span className="eyebrow">
           {kind === "application"

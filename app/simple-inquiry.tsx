@@ -1,6 +1,7 @@
 "use client";
 
 import { SuccessMark } from "./motion";
+import { PreviewNotice } from "./preview-notice";
 import { useEffect, useId, useRef, useState, type FormEvent } from "react";
 import { ArrowUpRight, Check, ChevronDown, LoaderCircle, Phone, ShieldCheck } from "lucide-react";
 import { company } from "./content";
@@ -89,6 +90,7 @@ export default function SimpleInquiry() {
 
   return (
     <form className="inquiry-form simple-inquiry" ref={form} onSubmit={submit} noValidate aria-busy={state === "sending"}>
+      <PreviewNotice />
       <div className="form-heading">
         <span className="eyebrow">START A CONVERSATION</span>
         <h2>How can we help?</h2>
