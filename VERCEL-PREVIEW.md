@@ -4,9 +4,9 @@ Preview address: https://jmgrealtyph.vercel.app
 
 This alias points to the verified preview deployment below. When replacing this preview, reassign the alias to the new verified preview deployment; do not promote it to production.
 
-Verified deployment: https://jmg-realty-ph-preview-r4k7c83ti-dawebandmedia.vercel.app
+Verified deployment: https://jmg-realty-ph-preview-jhqnhgm18-dawebandmedia.vercel.app
 
-Vercel project: `jmg-realty-ph-preview` in the `dawebandmedia` team. Deployment `dpl_yCV7Ad1u5md2uuii21p146snJ2ab` reached `READY` with the `staging` target from source commit `c38e7832b5435544d099a690db84ac25decf823a`.
+Vercel project: `jmg-realty-ph-preview` in the `dawebandmedia` team. Deployment `dpl_692yRfc1ofuVy2auxX3zcchS6CPk` reached `READY` as a branch preview of `cinema-motion` at commit `b67fd6f68071ddd318d37c604be932f281c5304b` (cinema motion layer). The previous alias target was `dpl_yCV7Ad1u5md2uuii21p146snJ2ab`; reassign the alias to it to roll back.
 
 This setup is for the user's preview deployment. The current client-facing Sites deployment remains in place. No Vercel plan upgrade or production-domain switch is part of this change.
 
