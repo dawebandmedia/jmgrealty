@@ -88,11 +88,11 @@ html.jmg-cinema img[data-jmg-reveal="in"] { clip-path: inset(0 0 0 0); }
 html.jmg-cinema .catalog-card[data-jmg-reveal="wait"] { transform: perspective(1000px) translateY(46px) rotateX(8deg); }
 /* the italic phrase in each heading catches the light once */
 html.jmg-cinema h2[data-jmg-reveal="in"] em {
-  background: linear-gradient(100deg, currentColor 0 40%, #e9cf86 50%, currentColor 60% 100%) 120% 0 / 260% 100% no-repeat;
+  background: linear-gradient(100deg, currentColor 0 40%, #e9cf86 50%, currentColor 60% 100%) 100% 0 / 300% 100% no-repeat;
   -webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;
   animation: jmg-sheen 1.9s var(--ease-out) calc(var(--jmg-delay, 0ms) + .45s) both;
 }
-@keyframes jmg-sheen { from { background-position: 120% 0; } to { background-position: -20% 0; } }
+@keyframes jmg-sheen { from { background-position: 100% 0; } to { background-position: 0% 0; } }
 
 /* ---------------------------------------------------------- hero */
 .jmg-split .jmg-word { display: inline-block; overflow: hidden; padding: 0 .06em .14em; margin: 0 -.06em -.14em; vertical-align: top; }
@@ -168,7 +168,7 @@ html:not(.jmg-cinema) .marquee-item { font-size: clamp(24px, 3.4vw, 40px); }
 .route-live { stroke: var(--j-accent); stroke-width: 2; stroke-dasharray: 1; stroke-dashoffset: 0; }
 .journey-route circle { fill: var(--j-bg); stroke: currentColor; stroke-opacity: .4; stroke-width: 1.5; transition: r .4s var(--ease-spring), fill .3s; }
 .journey-route circle.is-lit { fill: var(--j-accent); stroke: var(--j-accent); stroke-opacity: 1; }
-.journey-track { display: flex; gap: clamp(16px, 3vw, 40px); padding: 0 clamp(16px, 5vw, 64px); overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none; -webkit-overflow-scrolling: touch; }
+.journey-track { display: flex; gap: clamp(16px, 3vw, 40px); padding: 0 clamp(16px, 5vw, 64px); overflow-x: auto; scroll-snap-type: x mandatory; scroll-padding-inline: clamp(16px, 5vw, 64px); scrollbar-width: none; -webkit-overflow-scrolling: touch; }
 .journey-track::-webkit-scrollbar { display: none; }
 .region-panel { flex: 0 0 min(86vw, 1040px); scroll-snap-align: start; display: grid; gap: 22px; }
 .region-panel-media { position: relative; display: block; overflow: hidden; border-radius: 6px; aspect-ratio: 16 / 10; background: rgba(0, 0, 0, .2); }
@@ -178,6 +178,7 @@ html:not(.jmg-cinema) .marquee-item { font-size: clamp(24px, 3.4vw, 40px); }
 .region-panel-copy { display: grid; gap: 10px; align-content: start; }
 .region-index { font: 600 11px/1 var(--sans); letter-spacing: .2em; color: var(--j-accent); }
 .region-panel-copy h3 { font-family: var(--serif); font-weight: 500; font-size: clamp(44px, 7vw, 104px); line-height: .92; margin: 0; color: var(--j-ink); }
+.journey-stage p { color: var(--j-ink); }
 .region-stats { margin: 0; font-size: 15px; }
 .region-stats b { font-family: var(--serif); font-size: 1.9em; font-weight: 500; color: var(--j-accent); margin-right: 2px; }
 .region-stats span { opacity: .4; margin: 0 6px; }

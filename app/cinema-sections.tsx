@@ -4,6 +4,7 @@ import { useEffect, useMemo, useRef, useState } from "react";
 import { ArrowUpRight } from "lucide-react";
 import { areas, developments, properties } from "./content";
 import { CountUp, useCinema } from "./cinema";
+import { inspirationImages } from "./listing-inspiration";
 
 /* ======================================================= collection marquee */
 // Two rows of project names drifting in opposite directions. Scrolling the page
@@ -80,6 +81,10 @@ export function RegionJourney() {
     // Lead with a place, not a room: the project with the most models, shown by its own project image.
     const byCount = projects.map((d) => ({ d: d!, n: models.filter((p) => p.developmentId === d!.id).length })).sort((a, b) => b.n - a.n);
     const lead = byCount.find(({ d }) => d.image && !/interior|bedroom|living|kitchen|bath|dining/i.test(d.image + " " + d.imageAlt))?.d ?? byCount[0]?.d;
+    if (area === "Metro Manila") { // the city is best told by its skyline
+      const sky = inspirationImages.skyline;
+      return { area, models: models.length, projects: projects.length, cities, image: sky.src, alt: sky.alt, caption: sky.caption };
+    }
     return { area, models: models.length, projects: projects.length, cities, image: lead?.image, alt: lead?.imageAlt, caption: lead ? `${lead.name} · ${lead.city}` : "" };
   }).filter((r) => r.models > 0 && r.image), []);
 
