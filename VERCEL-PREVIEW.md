@@ -1,6 +1,10 @@
 # Vercel preview deployment
 
-Verified preview: https://jmg-realty-ph-preview-r4k7c83ti-dawebandmedia.vercel.app
+Preview address: https://jmgrealtyph.vercel.app
+
+This alias points to the verified preview deployment below. When replacing this preview, reassign the alias to the new verified preview deployment; do not promote it to production.
+
+Verified deployment: https://jmg-realty-ph-preview-r4k7c83ti-dawebandmedia.vercel.app
 
 Vercel project: `jmg-realty-ph-preview` in the `dawebandmedia` team. Deployment `dpl_yCV7Ad1u5md2uuii21p146snJ2ab` reached `READY` with the `staging` target from source commit `c38e7832b5435544d099a690db84ac25decf823a`.
 
