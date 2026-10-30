@@ -4,9 +4,9 @@ Preview address: https://jmgrealtyph.vercel.app
 
 This alias points to the verified preview deployment below. When replacing this preview, reassign the alias to the new verified preview deployment; do not promote it to production.
 
-Verified deployment: https://jmg-realty-ph-preview-jhqnhgm18-dawebandmedia.vercel.app
+Verified deployment: https://jmg-realty-ph-preview-jcj4n0afj-dawebandmedia.vercel.app
 
-Vercel project: `jmg-realty-ph-preview` in the `dawebandmedia` team. Deployment `dpl_692yRfc1ofuVy2auxX3zcchS6CPk` reached `READY` as a branch preview of `cinema-motion` at commit `b67fd6f68071ddd318d37c604be932f281c5304b` (cinema motion layer). The previous alias target was `dpl_yCV7Ad1u5md2uuii21p146snJ2ab`; reassign the alias to it to roll back.
+Vercel project: `jmg-realty-ph-preview` in the `dawebandmedia` team. Deployment `dpl_CvT7vPW9Fh5L5KcYRnmUV2cHZL47` reached `READY` as a branch preview of `cinema-motion` at commit `9e22e80f7f54962f5f366d97831ce5de4fed5d16` (cinema motion layer). The previous alias target was `dpl_yCV7Ad1u5md2uuii21p146snJ2ab`; reassign the alias to it to roll back.
 
 This setup is for the user's preview deployment. The current client-facing Sites deployment remains in place. No Vercel plan upgrade or production-domain switch is part of this change.
 
@@ -28,7 +28,7 @@ The browser continues using same-origin API endpoints. The Vercel server checks 
 
 The Next.js production build, including TypeScript, passed. Direct local checks covered the homepage, catalog filters, a model page, a viewing-request page, owner page, anonymous inbox denial, invalid inquiry rejection, and cross-origin rejection. No valid inquiry was submitted and no automated test suite was run. Authenticated inbox editing still requires the owner to verify their actual session.
 
-Vercel's default preview access protection should remain enabled. Do not promote this preview or attach a client-facing domain unless the user requests it.
+On 30 October 2026 the owner asked for the preview to be publicly viewable, so Vercel Authentication was turned off for this project. Re-enable it under Deployment Protection to make it private again. Do not promote this preview or attach a client-facing domain unless the user requests it.
 
 The configured ignore command skips production builds. Preview metadata and robots rules discourage search indexing. Remove the preview-only guard only after the user explicitly requests a production deployment.
 
