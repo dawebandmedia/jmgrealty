@@ -2,6 +2,8 @@
 
 **Live public website:** [Open JMG Realty PH](https://jmg-realty-ph.otakubarb.chatgpt.site)
 
+**Vercel preview:** [Open the preview](https://jmg-realty-ph-preview-r4k7c83ti-dawebandmedia.vercel.app) — preview only; inquiry saving and client-record changes are disabled. Vercel sign-in may be required.
+
 The live website preserves the original image quality. Its application is hosted separately, while the original property media is delivered from this repository. See `HOSTING-DEPLOYMENT.md` for maintenance details.
 
 ## Current repository snapshot

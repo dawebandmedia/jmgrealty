@@ -1,5 +1,9 @@
 # Vercel preview deployment
 
+Verified preview: https://jmg-realty-ph-preview-r4k7c83ti-dawebandmedia.vercel.app
+
+Vercel project: `jmg-realty-ph-preview` in the `dawebandmedia` team. Deployment `dpl_yCV7Ad1u5md2uuii21p146snJ2ab` reached `READY` with the `staging` target from source commit `c38e7832b5435544d099a690db84ac25decf823a`.
+
 This setup is for the user's preview deployment. The current client-facing Sites deployment remains in place. No Vercel plan upgrade or production-domain switch is part of this change.
 
 ## Build
