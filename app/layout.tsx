@@ -26,6 +26,7 @@ import "./project-browsing.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
+  robots: process.env.VERCEL_ENV === "preview" ? { index: false, follow: false } : undefined,
   title: {
     default: "JMG Realty PH — Find a place. Build a future.",
     template: "%s | JMG Realty PH",

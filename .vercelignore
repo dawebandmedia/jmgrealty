@@ -1,0 +1,14 @@
+node_modules
+.git
+.next
+.vinext
+.wrangler
+.sites-runtime
+.review-npm-cache
+dist
+outputs
+work
+.env*
+*.tsbuildinfo
+public/images
+public/documents

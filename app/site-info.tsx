@@ -3,7 +3,9 @@ import { contactPeople } from "./contact-people";
 
 // Change only when content has actually been edited or reviewed; never on requests.
 export const contentUpdatedAt = "2026-10-17";
-export const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || "https://jmg-realty-ph.otakubarb.chatgpt.site").replace(/\/$/, "");
+export const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL ||
+  (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : "") ||
+  "https://jmg-realty-ph.otakubarb.chatgpt.site").replace(/\/$/, "");
 export const canonical = (path: string) => `${siteUrl}${path}`;
 export function JsonLd({ value }: { value: unknown }) {
   return <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(value).replace(/</g, "\\u003c") }} />;

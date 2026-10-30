@@ -7,7 +7,7 @@ const originalAssetBase =
   "https://raw.githubusercontent.com/dawebandmedia/jmgrealty/5c318097fa9aa55a50ce0c374b99c64d55a77ec2/public";
 const knownAssets = new Set(externalAssetPaths);
 
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
   const url = new URL(request.url);
   if (["localhost", "127.0.0.1", "[::1]"].includes(url.hostname)) {
     return NextResponse.next();

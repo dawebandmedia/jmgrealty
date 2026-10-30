@@ -8,7 +8,7 @@ The existing hosting service limits a deployment archive to 256 MiB. Its remote 
 
 The lightweight Sites source checkout contains the application and external asset manifest. The complete GitHub repository remains the local-preview source with all original `public/images` and `public/documents` files. Copies from the hosting checkout were moved into a retained local backup, not recompressed or deleted. Use the GitHub repository for local previews.
 
-`middleware.ts` performs that delivery redirect only for exact paths listed in `app/external-asset-paths.json`. Local previews on loopback use the original files directly. Logos, fonts, application code, forms, and the owner inbox remain hosted with the application. No client records, credentials, or inventory data are added.
+`proxy.ts` performs that delivery redirect only for exact paths listed in `app/external-asset-paths.json`. Local previews on loopback use the original files directly. Logos, fonts, application code, forms, and the owner inbox remain hosted with the application. No client records, credentials, or inventory data are added.
 
 ## Build and package
 
@@ -24,4 +24,4 @@ The website still contains 20 development profiles and 74 model/unit-category re
 
 ## Updating media later
 
-Keep the referenced GitHub repository and commit accessible publicly. If original media changes, publish the new original files to GitHub first, refresh the immutable commit used by `middleware.ts`, regenerate/review the external path list, and redeploy. New unlisted paths are not redirected. Full-quality external media delivery depends on GitHub availability and its request limits; a dedicated asset CDN can replace the origin later without recompressing the originals.
+Keep the referenced GitHub repository and commit accessible publicly. If original media changes, publish the new original files to GitHub first, refresh the immutable commit used by `proxy.ts`, regenerate/review the external path list, and redeploy. New unlisted paths are not redirected. Full-quality external media delivery depends on GitHub availability and its request limits; a dedicated asset CDN can replace the origin later without recompressing the originals.
