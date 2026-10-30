@@ -149,6 +149,8 @@ export function GoldenHourCanvas({ src }: { src: string }) {
 
     const image = new Image();
     image.decoding = "async";
+    // Deployed images may be redirected to GitHub's raw host; ask for CORS so WebGL can read them.
+    image.crossOrigin = "anonymous";
     image.onload = () => {
       if (!alive) return;
       const tex = gl.createTexture();
@@ -157,7 +159,8 @@ export function GoldenHourCanvas({ src }: { src: string }) {
       gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_WRAP_T, gl.CLAMP_TO_EDGE);
       gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MIN_FILTER, gl.LINEAR);
       gl.texParameteri(gl.TEXTURE_2D, gl.TEXTURE_MAG_FILTER, gl.LINEAR);
-      gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGB, gl.RGB, gl.UNSIGNED_BYTE, image);
+      try { gl.texImage2D(gl.TEXTURE_2D, 0, gl.RGB, gl.RGB, gl.UNSIGNED_BYTE, image); }
+      catch { alive = false; return; } // unreadable image: keep the plain photo
       gl.uniform2f(U.I, image.naturalWidth, image.naturalHeight);
       loaded = true;
       revealStart = Math.max(performance.now(), started + introDelay);
