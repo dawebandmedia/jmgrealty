@@ -117,11 +117,10 @@ function manilaMode(): Mode {
 export function GoldenHourCanvas({ src }: { src: string }) {
   const on = useCinema();
   const canvas = useRef<HTMLCanvasElement>(null);
-  const modeRef = useRef<number>(0);
-  const [mode, setMode] = useState<Mode | null>(null);
+  // The switch only renders after the shader's first frame, so server and client never disagree about it.
+  const [mode, setMode] = useState<Mode | null>(() => (typeof window === "undefined" ? null : manilaMode()));
+  const modeRef = useRef<number>(mode ?? 0);
   const [ready, setReady] = useState(false);
-
-  useEffect(() => { const m = manilaMode(); modeRef.current = m; setMode(m); }, []);
 
   useEffect(() => {
     const el = canvas.current, frame = el?.parentElement;

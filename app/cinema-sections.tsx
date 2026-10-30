@@ -165,7 +165,7 @@ function useTween(value: number, on: boolean) {
   const [shown, setShown] = useState(value);
   const from = useRef(value);
   useEffect(() => {
-    if (!on) { setShown(value); from.current = value; return; }
+    if (!on) { from.current = value; return; }
     const start = performance.now(), a = from.current;
     let raf = 0;
     const step = (now: number) => {
@@ -176,7 +176,7 @@ function useTween(value: number, on: boolean) {
     raf = requestAnimationFrame(step);
     return () => cancelAnimationFrame(raf);
   }, [value, on]);
-  return shown;
+  return on ? shown : value;
 }
 
 export function MortgageEstimator() {
