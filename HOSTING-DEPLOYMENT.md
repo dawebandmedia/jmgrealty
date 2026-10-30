@@ -6,6 +6,8 @@ The user requested no image-quality reduction. The temporary lossy image optimiz
 
 The existing hosting service limits a deployment archive to 256 MiB. Its remote build also failed on the complete large asset package. To fit the application without altering media, production requests for the listed `/images/` and `/documents/` files redirect to the identical original files in the public GitHub repository at immutable commit `5c318097fa9aa55a50ce0c374b99c64d55a77ec2`.
 
+The lightweight Sites source checkout contains the application and external asset manifest. The complete GitHub repository remains the local-preview source with all original `public/images` and `public/documents` files. Copies from the hosting checkout were moved into a retained local backup, not recompressed or deleted. Use the GitHub repository for local previews.
+
 `middleware.ts` performs that delivery redirect only for exact paths listed in `app/external-asset-paths.json`. Local previews on loopback use the original files directly. Logos, fonts, application code, forms, and the owner inbox remain hosted with the application. No client records, credentials, or inventory data are added.
 
 ## Build and package
