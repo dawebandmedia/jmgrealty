@@ -1,5 +1,9 @@
 # JMG Realty PH
 
+**Live public website:** [Open JMG Realty PH](https://jmg-realty-ph.otakubarb.chatgpt.site)
+
+The live website preserves the original image quality. Its application is hosted separately, while the original property media is delivered from this repository. See `HOSTING-DEPLOYMENT.md` for maintenance details.
+
 ## Current repository snapshot
 
 This repository contains the latest local website source, including 20 development profiles and 74 model/unit-category records, property photographs, floor plans, flyers, JMG brand assets, and the Windows launcher. These are catalog records, not live inventory counts. GitHub upload does not deploy the website or change the existing hosted Site.
